@@ -1,0 +1,7 @@
+{
+  "kannada_fs":          {"path": "data/kn/fs_proverbs.xlsx"},
+  "kannada_test":        {"path": "data/kn/test_proverbs.xlsx"},
+  "kannada_en_reviewed": {"path": "data/kn/machine_translation_2en.xlsx"},
+
+  "bengali_test":        {"path": "data/bn/test_proverbs.xlsx"}
+}

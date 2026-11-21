@@ -1,0 +1,17 @@
+{
+ "model": "mt0-large",
+ "hf_id": "bigscience/mt0-large",
+ "model_type": "seq2seq",
+ "dataset": "kannada_en_reviewed",
+ "condition": "gold_explanation",
+ "n": 305,
+ "accuracy": 0.8623,
+ "accuracy_swap": 0.9148,
+ "raw_pred_A": 151,
+ "template_version": "v1",
+ "seed": 0,
+ "date_utc": "2026-11-15T10:33:13+00:00",
+ "python": "3.11.1",
+ "torch": "2.7.1+cu118",
+ "transformers": "5.5.4"
+}

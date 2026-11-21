@@ -1,0 +1,17 @@
+{
+ "model": "qwen3.5-2b",
+ "hf_id": "Qwen/Qwen3.5-2B",
+ "model_type": "causal",
+ "dataset": "kannada_en_reviewed",
+ "condition": "self_explanation",
+ "n": 305,
+ "accuracy": 0.7639,
+ "accuracy_swap": 0.941,
+ "raw_pred_A": 227,
+ "template_version": "v1",
+ "seed": 0,
+ "date_utc": "2026-11-15T17:46:25+00:00",
+ "python": "3.13.16",
+ "torch": "2.14.1+cu130",
+ "transformers": "5.23.0"
+}

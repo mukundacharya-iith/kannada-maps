@@ -1,0 +1,306 @@
+model,dataset,condition,row_id,is_figurative,answer_key,pred,correct,score_A,score_B,score_A_swap,score_B_swap,pred_swap,correct_swap,explanation_used,proverb
+qwen3.5-2b,kannada_test,self_explanation,2,1,A,A,1,17.766493,15.766039,15.703355,16.768078,A,1,ಮನಸಿದ್ದರೆ ಮಾರ್ಗ,ಮನಸಿದ್ದರೆ ಮಾರ್ಗ
+qwen3.5-2b,kannada_test,self_explanation,3,1,A,A,1,17.361685,15.524572,15.418987,16.134722,A,1,ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು,ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು
+qwen3.5-2b,kannada_test,self_explanation,4,1,B,B,1,15.050646,15.750704,17.270603,14.87787,B,1,"The proverb means that words are more valuable than gold, as silence is considered more precious than money.","ಮಾತು ಬೆಳ್ಳಿ, ಮೌನ ಬಂಗಾರ"
+qwen3.5-2b,kannada_test,self_explanation,5,1,A,A,1,18.221802,15.821013,16.127451,17.374441,A,1,"ಬೆಳ್ಳಗಿರೋದೆಲ್ಲ ಹಾಲಲ್ಲ, ಹೊಳೆಯೋದೆಲ್ಲ ಚಿನ್ನ ಅಲ್ಲ (Bengali)","ಬೆಳ್ಳಗಿರೋದೆಲ್ಲ ಹಾಲಲ್ಲ, ಹೊಳೆಯೋದೆಲ್ಲ ಚಿನ್ನ ಅಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,6,1,B,A,0,16.603785,15.360703,17.280991,15.041825,B,1,"The proverb asks whether a person who is easily angered is truly a tree, implying that a tree does not get angry, whereas a person who is easily angered is like a tree that is cut down.","ಗಿಡವಾಗಿ ಬಗ್ಗದ್ದು, ಮರವಾಗಿ ಬಗ್ಗೀತೇ?"
+qwen3.5-2b,kannada_test,self_explanation,7,1,A,A,1,16.702938,14.474471,15.164615,16.017344,A,1,ಆಳಾಗಬಲ್ಲವನು ಅರಸನಾಗಬಲ್ಲ,ಆಳಾಗಬಲ್ಲವನು ಅರಸನಾಗಬಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,8,0,B,B,1,15.11578,16.663401,17.611193,15.743766,B,1,ತಾಳಿದವನು ಬಾಳಿಯಾನು,ತಾಳಿದವನು ಬಾಳಿಯಾನು
+qwen3.5-2b,kannada_test,self_explanation,9,1,B,B,1,15.842079,16.301004,17.41893,15.411136,B,1,ಕೋತಿ ಕೈಗೆ ಮಾಣಿಕ್ಯ ಕೊಟ್ಟ ಹಾಗೆ,ಕೋತಿ ಕೈಗೆ ಮಾಣಿಕ್ಯ ಕೊಟ್ಟ ಹಾಗೆ
+qwen3.5-2b,kannada_test,self_explanation,10,0,B,A,0,16.7924,13.984953,15.413458,15.657451,A,0,ವೇದ ಸುಳ್ಳಾದರು ಗಾದೆ ಸುಳ್ಾಗದು,ವೇದ ಸುಳ್ಳಾದರು ಗಾದೆ ಸುಳ್ಳಾಗದು
+qwen3.5-2b,kannada_test,self_explanation,11,1,A,A,1,17.725275,15.404967,16.142447,17.558935,A,1,ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು,ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು
+qwen3.5-2b,kannada_test,self_explanation,12,0,B,B,1,15.986386,16.243711,16.876587,16.357492,B,1,"The proverb ""ಮಾದಿದುಣ್ಣೋ ಮಹರಾಯ"" (Madidunno Maharaja) is a humorous and satirical reference to the **fear of the law** or the **fear of punishment**, often used to describe a situation where someone is so terrified",ಮಾಡಿದುಣ್ಣೋ ಮಹರಾಯ
+qwen3.5-2b,kannada_test,self_explanation,13,0,A,A,1,17.784967,15.009045,15.726997,16.978273,A,1,ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು,ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು
+qwen3.5-2b,kannada_test,self_explanation,14,1,B,B,1,15.943624,16.613447,17.661957,14.458013,B,1,ನಾಯಿ ಬಾಲ ಡೊಂಕು,ನಾಯಿ ಬಾಲ ಡೊಂಕು
+qwen3.5-2b,kannada_test,self_explanation,15,1,A,B,0,16.014637,16.427858,17.282396,15.348574,B,0,ಒಂದು ಕಣ್ಣೀಗೆ ಬೆಣ್ಣೆ ಮತ್ತೊಂದು ಕಣ್ಣಿಗೆ ಸುಣ್ಣ,ಒಂದು ಕಣ್ಣೀಗೆ ಬೆಣ್ಣೆ ಮತ್ತೊಂದು ಕಣ್ಣಿಗೆ ಸುಣ್ಣ
+qwen3.5-2b,kannada_test,self_explanation,16,1,B,B,1,15.8776,16.551493,17.471432,14.936822,B,1,ಹುಟ್ಟು ಗುಣ ಸುಟ್ಟರು ಹೋಗಲ್ಲ,ಹುಟ್ಟು ಗುಣ ಸುಟ್ಟರು ಹೋಗಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,17,1,B,B,1,15.902822,16.952675,17.080471,16.135641,B,1,ವಿನಾಶ ಕಾಲಕ್ಕೆ ವಿಪರೀತ ಬುದ್ಧಿ,ವಿನಾಶ ಕಾಲಕ್ಕೆ ವಿಪರೀತ ಬುದ್ಧಿ
+qwen3.5-2b,kannada_test,self_explanation,18,0,A,A,1,17.88694,15.531583,15.651756,16.113852,A,1,The proverb means that one should observe the country from the outside while reading the constitution from the inside.,"ದೇಶ ಸುತ್ತಿ ನೋಡು, ಕೋಶ ಓದಿ ನೋಡು"
+qwen3.5-2b,kannada_test,self_explanation,19,1,A,A,1,17.177904,15.222473,15.97694,15.922536,A,1,ಬೀದಿಯಲ್ಲಿ ಹೋಗುವ ಮಾರಿಯನ್ನು ಮನೆಗೆ ಕರೆದಂಗೆ,ಬೀದಿಯಲ್ಲಿ ಹೋಗುವ ಮಾರಿಯನ್ನು ಮನೆಗೆ ಕರೆದಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,20,0,A,A,1,16.847878,15.093653,15.912977,16.451622,A,1,ಉಪ್ಪು ತಿಂದ ಮೇಲೆ ನೀರು ಕುಡಿಯಲೇಬೇಕು,ಉಪ್ಪು ತಿಂದ ಮೇಲೆ ನೀರು ಕುಡಿಯಲೇಬೇಕು
+qwen3.5-2b,kannada_test,self_explanation,21,1,A,A,1,17.553892,15.91218,16.914692,15.881076,A,1,Here is the explanation in one short sentence:,ಯಾರದೋ ದುಡ್ಡಿನಲ್ಲಿ ಎಲ್ಲಮ್ಮನ ಜಾತ್ರೆ
+qwen3.5-2b,kannada_test,self_explanation,22,0,A,A,1,16.598722,15.89089,16.007748,16.271208,A,1,ಆಗುವುದೆಲ್ಲ ಒಳ್ಳೆಯದಕ್ಕೆ (All that comes is good),ಆಗುವುದೆಲ್ಲ ಒಳ್ಳೆಯದಕ್ಕೆ
+qwen3.5-2b,kannada_test,self_explanation,23,0,A,A,1,16.318686,16.224342,16.673264,16.11767,B,0,"ಕಾಲಕ್ಕೆ ತಕ್ಕಂತೆ ನಡಿಬೇಕು, ತಾಳಕ್ಕೆ ತಕ್ಕಂತೆ ಕುಣಿಯಬೇಕು ಎಂದರೆ, ವ್ಯಕ್ತಿಯ ನಡುವಿನ ಸಂಬಂಧಗಳು ಮತ್ತು ಕುಟುಂಬದ ಸಂಬಂಧ","ಕಾಲಕ್ಕೆ ತಕ್ಕಂತೆ ನಡಿಬೇಕು, ತಾಳಕ್ಕೆ ತಕ್ಕಂತೆ ಕುಣಿಯಬೇಕು"
+qwen3.5-2b,kannada_test,self_explanation,24,1,B,B,1,16.328848,17.343943,17.054819,15.852345,B,1,ಅನ್ನ ಹಾಕಿದ ಮನೆಗೆ ಕನ್ನ ಹಾಕಬೇಡ,ಅನ್ನ ಹಾಕಿದ ಮನೆಗೆ ಕನ್ನ ಹಾಕಬೇಡ
+qwen3.5-2b,kannada_test,self_explanation,25,1,A,A,1,16.556345,14.90303,16.416714,15.697058,A,1,"ಮಾರಿ ಕಣ್ಣು ಹೋರಿ ಮೇಲೆ, ಕಟಕನ ಕಣ್ಣು ಕುರಿ ಮೇಲೆ","ಮಾರಿ ಕಣ್ಣು ಹೋರಿ ಮೇಲೆ, ಕಟಕನ ಕಣ್ಣು ಕುರಿ ಮೇಲೆ"
+qwen3.5-2b,kannada_test,self_explanation,26,1,A,A,1,17.318708,16.2642,17.191595,16.651741,A,1,ಪಾಲಿಗೆ ಬಂದದ್ದು ಪರಮಾನ್ನ,ಪಾಲಿಗೆ ಬಂದದ್ದು ಪರಮಾನ್ನ
+qwen3.5-2b,kannada_test,self_explanation,27,1,B,A,0,16.786085,16.670065,17.094213,15.77774,B,1,ಸಾವಿರ ಸುಳ್ಳು ಹೇಳಿ ಒಂದು ಮದುವೆ ಮಾಡು,ಸಾವಿರ ಸುಳ್ಳು ಹೇಳಿ ಒಂದು ಮದುವೆ ಮಾಡು
+qwen3.5-2b,kannada_test,self_explanation,28,1,B,A,0,17.191401,16.608707,17.531883,16.339369,B,1,"ಕಳ್ಳನನ್ನು ನಂಬಿದರೂ ಕುಳ್ಳನನ್ನು ನಂಬಬೇಡ (If you believe a thief, do not believe a thief)",ಕಳ್ಳನನ್ನು ನಂಬಿದರೂ ಕುಳ್ಳನನ್ನು ನಂಬಬೇಡ
+qwen3.5-2b,kannada_test,self_explanation,29,1,B,A,0,16.465511,15.137168,16.121868,14.594259,B,1,Here is the explanation in one short sentence:,ನೆಲಕ್ಕೆ ಬಿದ್ದರೂ ಮೀಸೆ ಮಣ್ಣಾಗಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,30,1,A,A,1,17.017687,15.93974,15.655295,16.265554,A,1,"The proverb means that wherever there is a snake, there is a snake, and wherever there is a tiger, there is a tiger.",ಯಾವ ಹುತ್ತದಲ್ಲಿ ಯಾವ ಹಾವಿರುತ್ತೋ
+qwen3.5-2b,kannada_test,self_explanation,31,1,A,A,1,16.377123,16.216602,16.823971,16.122831,B,0,ದೇವರಿಗೆ ಒಲಿದರೂ ಪೂಜಾರಿ ಒಲಿಯಲ್ಲ,ದೇವರಿಗೆ ಒಲಿದರೂ ಪೂಜಾರಿ ಒಲಿಯಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,32,1,A,A,1,17.232199,16.802715,17.226215,16.647617,B,0,ನಮ್ಮ ದೇವರ ಸತ್ಯ ನಮಗೆ ಗೊತ್ತು (Our Lord's Truth is Known to Us),ನಮ್ಮ ದೇವರ ಸತ್ಯ ನಮಗೆ ಗೊತ್ತು
+qwen3.5-2b,kannada_test,self_explanation,33,1,B,B,1,15.996618,16.61989,17.432652,15.668973,B,1,ಹಾಗಲಕಾಯಿಗೆ ಬೇವಿನಕಾಯಿ ಸಾಕ್ಷಿ,ಹಾಗಲಕಾಯಿಗೆ ಬೇವಿನಕಾಯಿ ಸಾಕ್ಷಿ
+qwen3.5-2b,kannada_test,self_explanation,34,1,B,A,0,16.46521,16.149872,16.182486,16.304155,A,0,ಕೈಗೆ ಬಂದ ತುತ್ತು ಬಾಯಿಗೆ ಬರಲಿಲ್ಲ,ಕೈಗೆ ಬಂದ ತುತ್ತು ಬಾಯಿಗೆ ಬರಲಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,35,1,A,A,1,16.68174,15.782214,17.286112,15.698715,B,0,Here is the explanation in one short sentence:,ರೋಗಿ ಬಯಸಿದ್ದು ಹಾಲು ಅನ್ನ ವೈದ್ಯ ಹೇಳಿದ್ದು ಹಾಲು ಅನ್ನ
+qwen3.5-2b,kannada_test,self_explanation,36,1,A,A,1,17.178255,15.842477,16.674368,16.787292,A,1,ಕಳ್ಳನಿಗೊಂದು ಪಿಳ್ಳೆ ನೆವ,ಕಳ್ಳನಿಗೊಂದು ಪಿಳ್ಳೆ ನೆವ
+qwen3.5-2b,kannada_test,self_explanation,37,1,A,A,1,17.053078,15.33311,16.053259,16.253328,A,1,ಕುಣಿಯಲಾರದವಳು ನೆಲ ಡೊಂಕು ಅಂದಳಂತೆ,ಕುಣಿಯಲಾರದವಳು ನೆಲ ಡೊಂಕು ಅಂದಳಂತೆ
+qwen3.5-2b,kannada_test,self_explanation,38,1,B,A,0,16.432373,16.021551,16.583799,14.805514,B,1,ಹೋದ ಪುಟ್ಟ ಬಂದ ಪುಟ್ಟ,ಹೋದ ಪುಟ್ಟ ಬಂದ ಪುಟ್ಟ
+qwen3.5-2b,kannada_test,self_explanation,39,1,B,B,1,15.293042,16.186724,17.597946,15.238706,B,1,The meaning of the proverb is:,ಶಿವಪೂಜೆಯಲ್ಲಿ ಕರಡಿ ಬಿಟ್ಟಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,40,1,B,A,0,17.055567,15.515115,16.186455,16.375631,A,0,ಕುಂಬಳಕಾಯಿ ಕಳ್ಳ ಅಂದರೆ ಹೆಗಲು ಮುಟ್ಟಿ ನೋಡಿಕೊಂಡ,ಕುಂಬಳಕಾಯಿ ಕಳ್ಳ ಅಂದರೆ ಹೆಗಲು ಮುಟ್ಟಿ ನೋಡಿಕೊಂಡ
+qwen3.5-2b,kannada_test,self_explanation,41,1,B,B,1,15.532336,15.791252,17.006985,14.783033,B,1,ಮಲ್ಲಿ ಮಲ್ಲಿ ಮಂಚಕ್ಕೆ ಎಷ್ಟು ಕಾಲೂ ಅಂದರೆ ಮೂರು ಮತ್ತೊಂದು ಅಂದ್ಲಂತೆ,ಮಲ್ಲಿ ಮಲ್ಲಿ ಮಂಚಕ್ಕೆ ಎಷ್ಟು ಕಾಲೂ ಅಂದರೆ ಮೂರು ಮತ್ತೊಂದು ಅಂದ್ಲಂತೆ
+qwen3.5-2b,kannada_test,self_explanation,42,1,B,B,1,15.840721,16.450485,16.829966,15.396064,B,1,ಕಳ್ಳನ ಮನಸ್ಸು ಹುಳ್ಳು ಹುಳ್ಳಗೆ,ಕಳ್ಳನ ಮನಸ್ಸು ಹುಳ್ಳು ಹುಳ್ಳಗೆ
+qwen3.5-2b,kannada_test,self_explanation,43,1,B,A,0,17.360323,15.852129,16.580854,16.227261,A,0,ಬೀಸೋ ದೊಣ್ಣೆ ತಪ್ಪಿದರೆ ನೂರು ವರ್ಷ ಆಯುಷ್ಯ,ಬೀಸೋ ದೊಣ್ಣೆ ತಪ್ಪಿದರೆ ನೂರು ವರ್ಷ ಆಯುಷ್ಯ
+qwen3.5-2b,kannada_test,self_explanation,44,1,A,A,1,16.484995,15.838443,16.997194,15.623696,B,0,"ನಾರಿ ಒಲಿದರೆ ನಾರಿ, ಮುನಿದರೆ ಮಾರಿ","ನಾರಿ ಒಲಿದರೆ ನಾರಿ, ಮುನಿದರೆ ಮಾರಿ"
+qwen3.5-2b,kannada_test,self_explanation,45,1,B,A,0,16.739782,15.297672,16.168909,15.87127,A,0,Proverb: ಎತ್ತು ಏರಿಗೆಳೆದರೆ ಕೋಣ ನೀರಿಗೆಳೆಯಿತು,ಎತ್ತು ಏರಿಗೆಳೆದರೆ ಕೋಣ ನೀರಿಗೆಳೆಯಿತು
+qwen3.5-2b,kannada_test,self_explanation,46,1,A,A,1,16.170397,14.533905,15.565224,14.943811,A,1,The user wants a one-sentence explanation of the provided Kannada proverb.,"ಮುತ್ತು ಕೊಡುವವಳು ಬಂದಳು ಅಂತ, ತುತ್ತು ಕೊಟ್ಟವಳನ್ನು ಮರೆಯಬಾರದು"
+qwen3.5-2b,kannada_test,self_explanation,47,1,A,A,1,17.18782,16.399376,16.150938,16.333342,A,1,ಸಿಂಧಘಟ್ಟದ ದೇವರು ಹಿಂದ್ ಮುಂದ್ ಆಡ,ಸಿಂಧಘಟ್ಟದ ದೇವರು ಹಿಂದ್ ಮುಂದ್ ಆಡ
+qwen3.5-2b,kannada_test,self_explanation,48,1,A,A,1,17.18507,15.038567,15.563718,16.357147,A,1,ಗೋಕುಲಾಷ್ಟಮಿಗೂ ಇಮಾಮ್ ಸಾಬಿಗೂ ಏನ್ ಸಂಬಂಧ,ಗೋಕುಲಾಷ್ಟಮಿಗೂ ಇಮಾಮ್ ಸಾಬಿಗೂ ಏನ್ ಸಂಬಂಧ
+qwen3.5-2b,kannada_test,self_explanation,49,0,B,A,0,16.097755,16.090816,16.759693,15.099651,B,1,ಇಂದು ಆಳಾಗಿ ಬದುಕುವವನೇ ಮುಂದೆ ಅರಸಾಗುವ,ಇಂದು ಆಳಾಗಿ ಬದುಕುವವನೇ ಮುಂದೆ ಅರಸಾಗುವ
+qwen3.5-2b,kannada_test,self_explanation,50,1,A,A,1,17.669048,15.522634,15.545951,16.171858,A,1,All people's houses are filled with dough.,ಎಲ್ಲರ ಮನೆ ದೋಸೆ ತೂತು
+qwen3.5-2b,kannada_test,self_explanation,51,1,B,B,1,16.619221,17.279713,17.942442,16.673822,B,1,"ಅಳಿಯ ಅಲ್ಲ ಮಗಳ ಗಂಡ (Alyi aall maa gaand) translates to ""A son is not a daughter's husband."" This proverb means that a man cannot marry a woman who is his daughter's sister, as it would be incestuous.",ಅಳಿಯ ಅಲ್ಲ ಮಗಳ ಗಂಡ
+qwen3.5-2b,kannada_test,self_explanation,52,1,A,B,0,16.44548,16.75816,16.235344,15.773692,B,0,"ಆಡಿದರೆ ಅರಗಿಣಿ, ಕಾಡಿದರೆ ನಾಗರಕಾಟ (If you run, you will be lost; if you walk, you will be trapped)","ಆಡಿದರೆ ಅರಗಿಣಿ, ಕಾಡಿದರೆ ನಾಗರಕಾಟ"
+qwen3.5-2b,kannada_test,self_explanation,53,1,B,B,1,16.105234,17.37464,17.796244,15.913948,B,1,"ಅಳುವ ಗಂಡಸನ್ನು, ನಗುವ ಹೆಂಗಸನ್ನು ನಂಬಬಾರದು ಎಂದರೆ, ಅಳುವ ಗಂಡಸನ್ನು ನಂಬಬಾರದು.","ಅಳುವ ಗಂಡಸನ್ನು, ನಗುವ ಹೆಂಗಸನ್ನು ನಂಬಬಾರದು"
+qwen3.5-2b,kannada_test,self_explanation,54,1,A,A,1,16.295631,16.169044,17.085201,15.926172,B,0,ಅಯ್ಯೋ ಪಾಪ ಅಂದರೆ ಅರ್ಧ ಆಯುಷ್ಯ,ಅಯ್ಯೋ ಪಾಪ ಅಂದರೆ ಅರ್ಧ ಆಯುಷ್ಯ
+qwen3.5-2b,kannada_test,self_explanation,55,1,B,A,0,16.633081,15.544698,16.28764,14.326582,B,1,ಆಡುವವ ಆಡಿದರೆ ನೋಡುವವನಿಗೆ ಸಿಗ್ಗು,ಆಡುವವ ಆಡಿದರೆ ನೋಡುವವನಿಗೆ ಸಿಗ್ಗು
+qwen3.5-2b,kannada_test,self_explanation,56,1,A,A,1,16.967831,14.611899,15.69796,15.759612,A,1,ಅಂಜಿರುವವನ ಮೇಲೆ ಕಪ್ಪೆ ಹಾರಿದಂಗೆ,ಅಂಜಿರುವವನ ಮೇಲೆ ಕಪ್ಪೆ ಹಾರಿದಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,57,1,A,A,1,17.638432,16.279287,16.570143,16.161423,A,1,ಅಲ್ಲದ ಕನಸು ಕಂಡರೆ ಎದ್ದು ಕುಂಡ್ರು,ಅಲ್ಲದ ಕನಸು ಕಂಡರೆ ಎದ್ದು ಕುಂಡ್ರು
+qwen3.5-2b,kannada_test,self_explanation,58,1,B,A,0,15.875632,15.537016,15.930869,14.811568,B,1,ಅಡ್ಡ ಗೋಡೆಯ ಮೇಲೆ ದೀಪ ಇಟ್ಟ ಹಾಗೆ,ಅಡ್ಡ ಗೋಡೆಯ ಮೇಲೆ ದೀಪ ಇಟ್ಟ ಹಾಗೆ
+qwen3.5-2b,kannada_test,self_explanation,59,1,B,A,0,16.814154,14.520978,16.70981,15.058952,A,0,"ಆರು ಕೊಟ್ಟರೆ ಅತ್ತೆ ಕಡೆ, ಮೂರು ಕೊಟ್ಟರೆ ಸೊಸೆ ಕಡೆ","ಆರು ಕೊಟ್ಟರೆ ಅತ್ತೆ ಕಡೆ, ಮೂರು ಕೊಟ್ಟರೆ ಸೊಸೆ ಕಡೆ"
+qwen3.5-2b,kannada_test,self_explanation,60,1,B,B,1,15.450653,17.082077,16.924044,14.317348,B,1,ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬಾರದು,ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬಾರದು
+qwen3.5-2b,kannada_test,self_explanation,61,0,A,A,1,17.140293,15.869366,16.820524,16.809965,A,1,"ಅಜ್ಜಿಗೆ ಅರಿವೆ ಚಿಂತೆ, ಮಗಳಿಗೆ ಮದುವೆ ಚಿಂತೆ","ಅಜ್ಜಿಗೆ ಅರಿವೆ ಚಿಂತೆ, ಮಗಳಿಗೆ ಮದುವೆ ಚಿಂತೆ"
+qwen3.5-2b,kannada_test,self_explanation,62,0,B,B,1,16.089479,16.564894,17.336142,15.098802,B,1,"ಅಕ್ಕಿ ಮೇಲೆ ಆಸೆ, ನೆಂಟರ ಮೇಲೆ ಪ್ರೀತಿ","ಅಕ್ಕಿ ಮೇಲೆ ಆಸೆ, ನೆಂಟರ ಮೇಲೆ ಪ್ರೀತಿ"
+qwen3.5-2b,kannada_test,self_explanation,63,1,B,A,0,17.128408,16.630623,17.525326,16.402208,B,1,ಅಂಬಲಿ ಕುಡಿಯುವವನಿಗೆ ಮೀಸೆ ತಿದ್ದುವನೊಬ್ಬ,ಅಂಬಲಿ ಕುಡಿಯುವವನಿಗೆ ಮೀಸೆ ತಿದ್ದುವನೊಬ್ಬ
+qwen3.5-2b,kannada_test,self_explanation,64,1,B,B,1,16.034187,16.487251,17.394644,14.972213,B,1,ಅಂತು ಇಂತು ಕುಂತಿ ಮಕ್ಕಳಿಗಿಲ್ಲ ಎಂಟು ರಾಜ್ಯ,ಅಂತು ಇಂತು ಕುಂತಿ ಮಕ್ಕಳಿಗಿಲ್ಲ ಎಂಟು ರಾಜ್ಯ
+qwen3.5-2b,kannada_test,self_explanation,65,1,B,B,1,16.118814,16.516865,17.153242,16.075754,B,1,"ಅತ್ತೆಗೊಂದು ಕಾಲ, ಸೊಸೆಗೊಂದು ಕಾಲ (Ate-godun kaal, soose-godun kaal) means that a son's life is dedicated to his father, while a daughter's life is dedicated to her mother.","ಅತ್ತೆಗೊಂದು ಕಾಲ, ಸೊಸೆಗೊಂದು ಕಾಲ"
+qwen3.5-2b,kannada_test,self_explanation,66,0,B,A,0,18.164509,16.076384,16.932007,17.176533,A,0,ಆಸೆಯೇ ದುಃಖಕ್ಕೆ ಮೂಲ (Hope is the root of sorrow) is a proverb that suggests that **hopelessness or despair is often the direct result of a lack of hope or optimism.**,ಆಸೆಯೇ ದುಃಖಕ್ಕೆ ಮೂಲ
+qwen3.5-2b,kannada_test,self_explanation,67,1,B,A,0,16.121861,14.597407,16.262623,14.691411,B,1,ಆಳ್ ಮೇಲ್ ಆಳ್ ಬಿದ್ದು ಗೋಣು ಬರಿದಾಯ್ತು,ಆಳ್ ಮೇಲ್ ಆಳ್ ಬಿದ್ದು ಗೋಣು ಬರಿದಾಯ್ತು
+qwen3.5-2b,kannada_test,self_explanation,68,0,A,A,1,17.750154,15.578835,15.519844,15.811118,A,1,ಅರಿಯದೆ ಮಾಡಿದ ಪಾಪ ಅರಿದಂತು ಪರಿಹಾರ,ಅರಿಯದೆ ಮಾಡಿದ ಪಾಪ ಅರಿದಂತು ಪರಿಹಾರ
+qwen3.5-2b,kannada_test,self_explanation,69,1,A,A,1,16.636309,15.520067,15.454943,16.695692,A,1,ಅಕ್ಕರೆಯಿದ್ದಲ್ಲಿ ದುಃಖವುಂಟು,ಅಕ್ಕರೆಯಿದ್ದಲ್ಲಿ ದುಃಖವುಂಟು
+qwen3.5-2b,kannada_test,self_explanation,70,1,A,A,1,16.92314,15.376738,15.831947,16.572729,A,1,ಅಕ್ಕನ ಚಿನ್ನವಾದರೂ ಅಕ್ಕಸಾಲಿಗ ಕದಿಯದೆ ಬಿಡಾ,ಅಕ್ಕನ ಚಿನ್ನವಾದರೂ ಅಕ್ಕಸಾಲಿಗ ಕದಿಯದೆ ಬಿಡಾ
+qwen3.5-2b,kannada_test,self_explanation,71,1,A,A,1,17.082506,15.721986,16.816038,16.505625,A,1,ಐಕಟ್ಟು ಇಲ್ಲದವನಿಗೆ ಆರು ಕಟ್ಟು ವಿಭೂತಿ,ಐಕಟ್ಟು ಇಲ್ಲದವನಿಗೆ ಆರು ಕಟ್ಟು ವಿಭೂತಿ
+qwen3.5-2b,kannada_test,self_explanation,72,1,A,A,1,17.262085,16.370466,17.073677,16.089861,B,0,ಬಯಸಿ ಬಯಸಿ ಮದುವೆಯಾದ್ರೆ ಬಡಿಯೋ ಗಂಡ ಸಿಕ್ಕಿದ,ಬಯಸಿ ಬಯಸಿ ಮದುವೆಯಾದ್ರೆ ಬಡಿಯೋ ಗಂಡ ಸಿಕ್ಕಿದ
+qwen3.5-2b,kannada_test,self_explanation,73,1,B,B,1,16.717501,17.136114,16.342045,15.883133,B,1,ಬೇಲಿಯೇ ಎದ್ದು ಹೊಲ ಮೇಯ್ದ ಹಾಗೆ,ಬೇಲಿಯೇ ಎದ್ದು ಹೊಲ ಮೇಯ್ದ ಹಾಗೆ
+qwen3.5-2b,kannada_test,self_explanation,74,1,A,A,1,16.776382,13.601937,16.630127,15.967869,A,1,Here is the meaning of the proverb in one short sentence:,ಭಂಗಿ ದೇವರಿಗೆ ಹೆಂಡ ಕುಡುಕ ಪೂಜಾರಿ
+qwen3.5-2b,kannada_test,self_explanation,75,0,A,A,1,16.49098,14.016657,15.713782,15.547368,A,1,The meaning of the proverb is:,ಬಯಕೆಗೆ ಬಡವರಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,76,1,B,B,1,16.117281,16.700371,17.28764,15.493939,B,1,The meaning of the proverb is:,ಚೇಳಿಗೆ ಪಾರುಪತ್ಯ ಕೊಟ್ಟ ಹಾಗೆ
+qwen3.5-2b,kannada_test,self_explanation,77,1,B,B,1,15.622409,16.217972,17.368196,15.419069,B,1,The meaning of the proverb is:,ಚಿಂತೆ ಇಲ್ಲದವನಿಗೆ ಸಂತೆಯಲ್ಲೂ ನಿದ್ರೆ
+qwen3.5-2b,kannada_test,self_explanation,78,0,A,A,1,17.555714,15.485713,15.450643,17.525915,A,1,"The proverb means that giving money is more important than being slow, implying that speed is more valuable than wealth.",ದಾನಕ್ಕಿಂತ ನಿಧಾನ ದೊಡ್ಡದು
+qwen3.5-2b,kannada_test,self_explanation,79,0,B,A,0,17.043943,15.405289,17.473251,15.736925,B,1,"The proverb means that no matter how far one travels or goes in any direction, they will inevitably encounter sorrow or misfortune.",ದಿಕ್ಕು ದಿಕ್ಕಿಗೆ ಹೋದರೂ ದುಃಖ ತಪ್ಪದು
+qwen3.5-2b,kannada_test,self_explanation,80,0,B,A,0,17.582554,16.285007,17.111273,16.674191,A,0,ದುಡ್ಡೇ ದೊಡ್ಡಪ್ಪ,ದುಡ್ಡೇ ದೊಡ್ಡಪ್ಪ
+qwen3.5-2b,kannada_test,self_explanation,81,1,A,A,1,16.86768,16.245129,16.520603,16.923117,A,1,ದೇವರು ವರ ಕೊಟ್ಟರೂ ಪೂಜಾರಿ ವರ ಕೊಡ,ದೇವರು ವರ ಕೊಟ್ಟರೂ ಪೂಜಾರಿ ವರ ಕೊಡ
+qwen3.5-2b,kannada_test,self_explanation,82,1,A,A,1,16.90164,16.063372,15.905411,16.287518,A,1,ದೂರದ ಬೆಟ್ಟ ಕಣ್ಣಿಗೆ ನುಣ್ಣಗೆ,ದೂರದ ಬೆಟ್ಟ ಕಣ್ಣಿಗೆ ನುಣ್ಣಗೆ
+qwen3.5-2b,kannada_test,self_explanation,83,1,A,A,1,18.102491,15.928809,17.041893,16.861387,A,1,ಧರ್ಮಕ್ಕೆ ದತ್ತಿ ಕೊಟ್ಟರೆ ಹಿತ್ತಲಿಗೆ ಹೋಗಿ ಮೊಳ ಹಾಕಿದರು,ಧರ್ಮಕ್ಕೆ ದತ್ತಿ ಕೊಟ್ಟರೆ ಹಿತ್ತಲಿಗೆ ಹೋಗಿ ಮೊಳ ಹಾಕಿದರು
+qwen3.5-2b,kannada_test,self_explanation,84,0,B,A,0,16.684551,16.349205,16.709156,16.444931,A,0,"All people do it for their stomach, for their clothes.","ಎಲ್ಲರೂ ಮಾಡುವುದು ಹೊಟ್ಟೆಗಾಗಿ, ಗೇಣು ಬಟ್ಟೆಗಾಗಿ"
+qwen3.5-2b,kannada_test,self_explanation,85,1,B,B,1,15.614355,15.982983,17.006147,14.605874,B,1,"All light is not light, the truth is the light.",ಎಲ್ಲಾ ಬೆಳಕು ಬೆಳಕಲ್ಲ ಸತ್ಯದ ನುಡಿಯೇ ಬೆಳಕು
+qwen3.5-2b,kannada_test,self_explanation,86,1,B,A,0,16.584282,16.164495,16.96678,16.107166,B,1,"The proverb means that if you are weak and defeated, you will be defeated by the strong, but if you are strong and victorious, you will be victorious by the strong.",ಎಡದ ನೆತ್ತಿಗೆ ಬಡಿದರೆ ಬಲದ ನೆತ್ತಿಗೆ ತಾಕಿತು
+qwen3.5-2b,kannada_test,self_explanation,87,1,A,A,1,17.344608,14.60587,15.816303,16.151855,A,1,The meaning of the proverb is that the person who is the most vulnerable to the pain of the injury is the one who is most likely to suffer from the pain of the injury.,ಎಡವಿದ ಕಾಲು ಎಡವುದು ಹೆಚ್ಚು
+qwen3.5-2b,kannada_test,self_explanation,88,1,A,A,1,16.615847,13.736012,15.736166,14.736729,A,1,Here is the explanation in one short sentence:,ಎಂಟು ವರ್ಷಕ್ಕೆ ನನ್ನ ಮಗ ದಂಟಾದ
+qwen3.5-2b,kannada_test,self_explanation,89,1,B,A,0,16.504827,15.714914,17.140488,15.025088,B,1,Proverb: ಎಂತೆಂಥ ದೇವರಿಗೆ ಅಂತರಾಟ ಆಗಿರುವಾಗ ಕಾಲುಮುರುಕ ದೇವರಿಗೆ ಕೈಲಾಸವೇ!,ಎಂತೆಂಥ ದೇವರಿಗೆ ಅಂತರಾಟ ಆಗಿರುವಾಗ ಕಾಲುಮುರುಕ ದೇವರಿಗೆ ಕೈಲಾಸವೇ!
+qwen3.5-2b,kannada_test,self_explanation,90,1,A,A,1,16.60738,15.016004,16.202311,15.629424,A,1,All colors were eaten.,ಎಲ್ಲಾ ಬಣ್ಣ ಮಸಿ ನುಂಗಿತು
+qwen3.5-2b,kannada_test,self_explanation,91,1,B,A,0,16.605455,16.427557,16.346382,15.312807,B,1,"All people are like a pot of water, and they are all in a state of being a pot of water.",ಎಲ್ಲರೂ ಪಾಲಕಿಯಲ್ಲಿ ಕುತರೆ ಹೊರೋರು ಯಾರು
+qwen3.5-2b,kannada_test,self_explanation,92,1,B,B,1,15.893929,15.945702,16.368643,15.214688,B,1,ಎರಡು ಕೈ ತಟ್ಟಿದರೆ ಸದ್ದು,ಎರಡು ಕೈ ತಟ್ಟಿದರೆ ಸದ್ದು
+qwen3.5-2b,kannada_test,self_explanation,93,1,B,A,0,16.154905,15.777022,17.059635,15.81659,B,1,Here is the explanation in one short sentence:,ಎರಡು ದಾಸರ ನಂಬಿ ಕುರುಡು ದಾಸ ಕೆಟ್ಟ
+qwen3.5-2b,kannada_test,self_explanation,94,1,B,B,1,15.335123,16.458704,16.30851,15.262541,B,1,ಏರಿದವ ಇಳಿದಾನು,ಏರಿದವ ಇಳಿದಾನು
+qwen3.5-2b,kannada_test,self_explanation,95,0,A,A,1,16.604607,15.352251,16.943201,15.232741,B,0,"The proverb means that a marriage is a source of conflict and discord, and it is only when the couple has successfully overcome their arguments and resolved their differences that they can truly rest and find peace.",ಗಂಡ ಹೆಂಡಿರ ಜಗಳ ಉಂಡು ಮಲಗುವ ತನಕ
+qwen3.5-2b,kannada_test,self_explanation,96,1,A,A,1,16.785727,16.264936,17.42733,15.41253,B,0,The meaning of the proverb is:,ಗೆದ್ದೆತ್ತಿನ ಬಾಲ ಹಿಡಿದ ಹಾಗೆ
+qwen3.5-2b,kannada_test,self_explanation,97,1,A,A,1,16.567556,15.71568,16.654806,16.096613,A,1,The proverb asks whether the power of the Supreme Being (Brahma) is sufficient to defeat the evil demon (Gubbi) or if the demon's strength is too great for even the highest spiritual power to overcome.,ಗುಬ್ಬಿ ಮೇಲೆ ಬ್ರಹ್ಮಾಸ್ತ್ರವೇ?
+qwen3.5-2b,kannada_test,self_explanation,98,1,B,A,0,16.885082,15.781719,16.966074,15.303262,B,1,"ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೋ, ಧಾರಣೆ ಬಂದಾಗ ಮಾರಿಕೋ","ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೋ, ಧಾರಣೆ ಬಂದಾಗ ಮಾರಿಕೋ"
+qwen3.5-2b,kannada_test,self_explanation,99,1,B,A,0,16.657942,15.902301,16.86673,15.428432,B,1,The proverb is a humorous and satirical statement about the situation of the protagonist.,"ಗವುಜಿ ಗದ್ದಲ ಏನೂ ಇಲ್ಲ, ಗೋವಿಂದ ಭಟ್ಟ ಬಾವಿಯಲ್ಲಿ ಬಿದ್ದ"
+qwen3.5-2b,kannada_test,self_explanation,100,1,B,A,0,16.952211,15.564013,17.103901,15.250401,B,1,ಹೆಸರಿಗೆ ಹೆಂಡತಿ ಕಾಣೆ ಮಗನ ಹೆಸರು ನಂಜುಂಡ,ಹೆಸರಿಗೆ ಹೆಂಡತಿ ಕಾಣೆ ಮಗನ ಹೆಸರು ನಂಜುಂಡ
+qwen3.5-2b,kannada_test,self_explanation,101,1,B,A,0,15.911915,15.433339,16.724083,14.381019,B,1,ಹೋದ್ಯಾ ಪಿಶಾಚಿ ಅಂದರೆ ಬಂದೆ ಗವಾಕ್ಷಿಲಿ ಅಂತಂತೆ,ಹೋದ್ಯಾ ಪಿಶಾಚಿ ಅಂದರೆ ಬಂದೆ ಗವಾಕ್ಷಿಲಿ ಅಂತಂತೆ
+qwen3.5-2b,kannada_test,self_explanation,102,1,A,A,1,16.255112,15.983285,16.718784,15.452259,B,0,ಹಾಳೂರಿನಲ್ಲಿ ಉಳಿದವನೇ ಗೌಡ,ಹಾಳೂರಿನಲ್ಲಿ ಉಳಿದವನೇ ಗೌಡ
+qwen3.5-2b,kannada_test,self_explanation,103,1,B,A,0,16.592058,16.529737,16.073494,16.496244,A,0,ಹನಿ ಹನಿಗೂಡಿದರೆ ಹಳ್ಳ ತೆನೆಗೂಡಿದರೆ ಬತ್ತ,ಹನಿ ಹನಿಗೂಡಿದರೆ ಹಳ್ಳ ತೆನೆಗೂಡಿದರೆ ಬತ್ತ
+qwen3.5-2b,kannada_test,self_explanation,104,1,B,B,1,15.684699,15.989143,17.135365,14.778263,B,1,ಹಾಡಿದ್ದೆ ಹಾಡೋ ಕಿಸುಬಾಯಿ ದಾಸ,ಹಾಡಿದ್ದೆ ಹಾಡೋ ಕಿಸುಬಾಯಿ ದಾಸ
+qwen3.5-2b,kannada_test,self_explanation,105,1,B,A,0,16.448458,14.858227,17.062798,14.183864,B,1,Here is the explanation in one short sentence:,"ಹೆತ್ತವರಿಗೆ ಹೆಗ್ಗಣ ಮುದ್ದು, ಕೂಡಿದವರಿಗೆ ಕೋಡಗ ಮುದ್ದು"
+qwen3.5-2b,kannada_test,self_explanation,106,1,A,A,1,17.068949,15.476612,16.440769,15.961683,A,1,ಹಿರಿಯಣ್ಣನ ಚಾಳಿ ಮನೆ ಮಂದಿಗೆಲ್ಲಾ,ಹಿರಿಯಣ್ಣನ ಚಾಳಿ ಮನೆ ಮಂದಿಗೆಲ್ಲಾ
+qwen3.5-2b,kannada_test,self_explanation,107,1,A,A,1,17.161568,15.637464,16.676474,15.688976,A,1,ಹಿತ್ತಲ ಗಿಡ ಮದ್ದಲ್ಲ,ಹಿತ್ತಲ ಗಿಡ ಮದ್ದಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,108,1,A,A,1,17.506605,15.940434,16.897295,16.756037,A,1,ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕನ ಅಪ್ಪಣೆ ಯಾಕೆ?,ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕನ ಅಪ್ಪಣೆ ಯಾಕೆ?
+qwen3.5-2b,kannada_test,self_explanation,109,1,B,A,0,16.30493,15.256552,16.212364,15.553384,A,0,ಹೊಸತರಲ್ಲಿ ಅಗಸ ಗೋಣಿ ಎತ್ತಿ ಎತ್ತಿ ಒಗೆದ,ಹೊಸತರಲ್ಲಿ ಅಗಸ ಗೋಣಿ ಎತ್ತಿ ಎತ್ತಿ ಒಗೆದ
+qwen3.5-2b,kannada_test,self_explanation,110,1,A,B,0,15.970581,16.623329,17.424522,15.470746,B,0,ಹೊಸ ವೈದ್ಯನಿಗಿಂತ ಹಳೆ ರೋಗಿಯೇ ಮೇಲು,ಹೊಸ ವೈದ್ಯನಿಗಿಂತ ಹಳೆ ರೋಗಿಯೇ ಮೇಲು
+qwen3.5-2b,kannada_test,self_explanation,111,1,A,A,1,16.685188,15.128633,16.586926,14.35222,B,0,Here is the explanation in one short sentence:,ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ ಹೂವು
+qwen3.5-2b,kannada_test,self_explanation,112,1,A,A,1,16.651634,14.701775,16.441481,15.911214,A,1,ಹುಟ್ಟಿಸಿದ ದೇವರು ಹುಲ್ಲು ಮೇಯಿಸುತ್ತಾನೆ,ಹುಟ್ಟಿಸಿದ ದೇವರು ಹುಲ್ಲು ಮೇಯಿಸುತ್ತಾನೆ
+qwen3.5-2b,kannada_test,self_explanation,113,1,B,A,0,16.479433,15.890018,16.582445,14.832749,B,1,ಹುಚ್ಚು ಮುಂಡೆ ಮದುವೆಯಲ್ಲಿ ಉಂಡವನೇ ಜಾಣ,ಹುಚ್ಚು ಮುಂಡೆ ಮದುವೆಯಲ್ಲಿ ಉಂಡವನೇ ಜಾಣ
+qwen3.5-2b,kannada_test,self_explanation,114,1,A,A,1,16.244886,15.32411,16.337517,15.488007,A,1,ಹೂವಿನ ಜೊತೆ ನಾರು ಸ್ವರ್ಗ ಸೇರಿತು,ಹೂವಿನ ಜೊತೆ ನಾರು ಸ್ವರ್ಗ ಸೇರಿತು
+qwen3.5-2b,kannada_test,self_explanation,115,1,B,A,0,16.072163,15.093579,16.432014,13.099923,B,1,Here is the explanation in one short sentence:,"ಹಬ್ಬ ಹಸನಾಗಲಿ, ಗೋಡಿ ಜತನಾಗಲಿ, ಬಂದ ಬೀಗರು ಉಂಡು ಹೋಗಲಿ"
+qwen3.5-2b,kannada_test,self_explanation,116,0,B,B,1,15.323694,16.709049,17.923491,15.019011,B,1,"ಇರುಳು ಚಿಂತೆ ನಿದ್ರೆಗೇಡು, ಹಗಲು ಚಿಂತೆ ಕೆಲಸಗೇಡು","ಇರುಳು ಚಿಂತೆ ನಿದ್ರೆಗೇಡು, ಹಗಲು ಚಿಂತೆ ಕೆಲಸಗೇಡು"
+qwen3.5-2b,kannada_test,self_explanation,117,1,B,B,1,16.079494,16.943769,17.021439,16.508018,B,1,"ಇದ್ದದ್ದು ಇದ್ದ ಹಾಗೆ ಹೇಳಿದರೆ ಸಿದ್ದಪ್ಪನಿಗೆ ಸಿಡಿಲು ಹೊಡೆಯಿತು ಎಂಬ ಪ್ರಭಾವಕ ಪ್ರಾಥಮಿಕ ಅರ್ಥವೆಂದರೆ, ""ಸಿದ್ದಪ್ಪ",ಇದ್ದದ್ದು ಇದ್ದ ಹಾಗೆ ಹೇಳಿದರೆ ಸಿದ್ದಪ್ಪನಿಗೆ ಸಿಡಿಲು ಹೊಡೆಯಿತು
+qwen3.5-2b,kannada_test,self_explanation,118,1,B,A,0,16.44272,15.626334,16.514261,15.316706,B,1,The meaning of the proverb is:,ಇರುಳು ಕಂಡ ಬಾವಿಯಲ್ಲಿ ಹಗಲು ಬಿದ್ದ ಹಾಗೆ
+qwen3.5-2b,kannada_test,self_explanation,119,1,A,A,1,15.417786,15.33888,16.857746,14.897403,B,0,ಇಡಿ ಮುಳುಗಿದರೂ ಮೂಗು ಮೇಲೆ,ಇಡಿ ಮುಳುಗಿದರೂ ಮೂಗು ಮೇಲೆ
+qwen3.5-2b,kannada_test,self_explanation,120,1,B,A,0,15.85006,13.676947,16.290833,13.783583,B,1,ಇಟ್ಟುಕೊಂಡಾಕಿ ಇರುತ್ತಾನಾ ಕಟ್ಟಿಕೊಂಡಾಕಿ ಕಡಿತಾನಾ,ಇಟ್ಟುಕೊಂಡಾಕಿ ಇರುತ್ತಾನಾ ಕಟ್ಟಿಕೊಂಡಾಕಿ ಕಡಿತಾನಾ
+qwen3.5-2b,kannada_test,self_explanation,121,1,A,A,1,17.575329,14.617922,15.473229,16.422075,A,1,"ಇದ್ದ ಊರ ಸುದ್ದಿ ಇದ್ದಲ್ಲಿ ತೆಗೆಯಬಾರದು, ಹೋದ ಊರ ಸುದ್ದಿ ಹೋದಲ್ಲಿ ತೆಗೆಯಬಾರದು.","ಇದ್ದ ಊರ ಸುದ್ದಿ ಇದ್ದಲ್ಲಿ ತೆಗೆಯಬಾರದು, ಹೋದ ಊರ ಸುದ್ದಿ ಹೋದಲ್ಲಿ ತೆಗೆಯಬಾರದು."
+qwen3.5-2b,kannada_test,self_explanation,122,1,A,A,1,17.315857,15.269822,16.870861,15.537912,A,1,ಇದ್ದದ್ದು ಹೇಳಿದರೆ ಹದ್ದಿನಂತೆ ಮೊರೆ ಆಯಿತು,ಇದ್ದದ್ದು ಹೇಳಿದರೆ ಹದ್ದಿನಂತೆ ಮೊರೆ ಆಯಿತು
+qwen3.5-2b,kannada_test,self_explanation,123,1,A,A,1,16.930088,15.874882,15.812925,16.557821,A,1,ಇದ್ದದ್ದು ಹೋಯಿತು ಮದ್ದಿನ ಗುಣದಿಂದ,ಇದ್ದದ್ದು ಹೋಯಿತು ಮದ್ದಿನ ಗುಣದಿಂದ
+qwen3.5-2b,kannada_test,self_explanation,124,1,A,A,1,16.793047,14.577552,15.936019,15.546502,A,1,ಇದ್ದಲ್ಲಿ ಗೌಡ ಹೋದಲ್ಲಿ ಕಿವುಡ,ಇದ್ದಲ್ಲಿ ಗೌಡ ಹೋದಲ್ಲಿ ಕಿವುಡ
+qwen3.5-2b,kannada_test,self_explanation,125,1,A,A,1,16.892027,15.448734,16.81749,16.322399,A,1,"The proverb is a metaphorical expression that conveys a specific message about human behavior and social dynamics. It suggests that when someone is in a state of distress or emotional turmoil, they may not be able to think clearly or make rational decisions. This is because their emotions take precedence over their logic and","ಇಕ್ಕೇರಿ ತನಕ ಬಳಗ, ಮಾನ ಮುಚ್ಚಲಿಕ್ಕೆ ಅರಿವೆ ಇಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,126,1,B,A,0,15.975023,15.689826,16.032778,15.770209,A,0,"ಇಲಿ ಹೆಚ್ಚಿದವೆಂದು ಮನೆಗೆ ಉರಿ ಇಡಬಾರದು ಎಂದರೆ, ಹೆಚ್ಚಿನ ಸಂಖ್ಯೆಯಲ್ಲಿರುವ ಒಣಗಿರುವ ವಸ್ತುಗಳನ್ನು (ಉರಿ) ಮನೆ","ಇಲಿ ಹೆಚ್ಚಿದವೆಂದು, ಮನೆಗೆ ಉರಿ ಇಡಬಾರದು"
+qwen3.5-2b,kannada_test,self_explanation,127,1,B,A,0,15.785913,15.767669,16.113253,15.609716,B,1,ಇಲಿಯ ವ್ಯಾಜ್ಯಕ್ಕೆ ಬೆಕ್ಕು ಸಾಕ್ಷಿ,ಇಲಿಯ ವ್ಯಾಜ್ಯಕ್ಕೆ ಬೆಕ್ಕು ಸಾಕ್ಷಿ
+qwen3.5-2b,kannada_test,self_explanation,128,1,B,B,1,15.985643,16.130798,16.184681,15.241942,B,1,"ಇಲಿಯಾಗಿ ನೂರು ದಿನ ಬಾಳುವುದಕ್ಕಿಂತ ಹುಲಿಯಾಗಿ ಮೂರು ದಿನ ಬಾಳುವುದು ಲೇಸು ಎಂದರೆ, ಹುಲಿಯಂತೆ ಕೆಲಸ ಮಾಡಿದರೆ ನೂರು ದ",ಇಲಿಯಾಗಿ ನೂರು ದಿನ ಬಾಳುವುದಕ್ಕಿಂತ ಹುಲಿಯಾಗಿ ಮೂರು ದಿನ ಬಾಳುವುದು ಲೇಸು
+qwen3.5-2b,kannada_test,self_explanation,129,1,B,A,0,16.169409,16.168146,16.501509,15.753294,B,1,ಇತ್ತಿತ್ತಾ ಬಾ ಅಂದ್ರೆ ಇದ್ದ ಮನೆಯೂ ಕಿತ್ತುಕೊಂಡ,ಇತ್ತಿತ್ತಾ ಬಾ ಅಂದ್ರೆ ಇದ್ದ ಮನೆಯೂ ಕಿತ್ತುಕೊಂಡ
+qwen3.5-2b,kannada_test,self_explanation,130,0,A,A,1,16.483513,16.062254,16.954784,15.816477,B,0,ಜಟ್ಟಿ ಬಿದ್ದರೂ ಮೀಸೆ ಮಣ್ಣಾಗಲಿಲ್ಲ,ಜಟ್ಟಿ ಬಿದ್ದರೂ ಮೀಸೆ ಮಣ್ಣಾಗಲಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,131,1,B,A,0,17.382919,15.821387,16.269684,16.022497,A,0,The meaning of the proverb is:,ಜನ ಮರುಳೋ ಜಾತ್ರೆ ಮರುಳೋ
+qwen3.5-2b,kannada_test,self_explanation,132,0,A,B,0,16.336746,16.863621,17.394197,15.728473,B,0,ಕಾಸಿದ್ರೆ ಕೈಲಾಸ ಇಲ್ಲದಿದ್ದರೆ ವನವಾಸ,ಕಾಸಿದ್ರೆ ಕೈಲಾಸ ಇಲ್ಲದಿದ್ದರೆ ವನವಾಸ
+qwen3.5-2b,kannada_test,self_explanation,133,0,B,B,1,16.028967,16.480509,17.249283,15.880524,B,1,ಕಷ್ಟ - ಸುಖ ಜೀವನದ ಎರಡು ಮುಖ,ಕಷ್ಟ - ಸುಖ ಜೀವನದ ಎರಡು ಮುಖ
+qwen3.5-2b,kannada_test,self_explanation,134,1,A,A,1,16.407198,16.14131,16.842653,16.350798,B,0,ಕೈಯಲ್ಲೇ ಆಗದವನು ಕೊಮ್ಮೆ ಮರಕ್ಕೆ ಗುತ್ತೆಗೆ ತಗೊಂಡ,ಕೈಯಲ್ಲೇ ಆಗದವನು ಕೊಮ್ಮೆ ಮರಕ್ಕೆ ಗುತ್ತೆಗೆ ತಗೊಂಡ
+qwen3.5-2b,kannada_test,self_explanation,135,1,A,A,1,16.397562,15.018316,16.348192,15.154486,A,1,Here is the explanation in one short sentence:,ಕೊಂದ ಪಾಪ ತಿಂದು ಪರಿಹಾರ
+qwen3.5-2b,kannada_test,self_explanation,136,1,B,B,1,16.317211,17.172754,17.231993,16.188177,B,1,ಕನ್ನಡಿಯೊಳಗಿನ ಗಂಟಿಗಿಂತ ಕೈಯೊಳಗಿನ ದಂಟೇ ಮೇಲು,ಕನ್ನಡಿಯೊಳಗಿನ ಗಂಟಿಗಿಂತ ಕೈಯೊಳಗಿನ ದಂಟೇ ಮೇಲು
+qwen3.5-2b,kannada_test,self_explanation,137,0,B,B,1,15.966562,16.438009,16.802511,15.892684,B,1,ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು,ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು
+qwen3.5-2b,kannada_test,self_explanation,138,1,B,B,1,16.012684,16.596243,16.377275,15.836701,B,1,ಕೀಲು ಸಣ್ಣದಾದರೂ ಗಾಳಿ ನಡೆಸುತ್ತದೆ,ಕೀಲು ಸಣ್ಣದಾದರೂ ಗಾಳಿ ನಡೆಸುತ್ತದೆ
+qwen3.5-2b,kannada_test,self_explanation,139,1,B,B,1,16.234865,16.50769,16.818409,16.244442,B,1,ಕೀರ್ತಿಯೇ ಕೈಲಾಸ ಅಪಕೀರ್ತಿಯೇ ನರಕ,ಕೀರ್ತಿಯೇ ಕೈಲಾಸ ಅಪಕೀರ್ತಿಯೇ ನರಕ
+qwen3.5-2b,kannada_test,self_explanation,140,1,B,A,0,16.013382,15.626394,17.031328,14.86666,B,1,ಕೋಪದಲ್ಲಿ ಕೊಯ್ದ ಮೂಗು ಶಾಂತಿಯಲ್ಲಿ ಬರುವುದೆ?,ಕೋಪದಲ್ಲಿ ಕೊಯ್ದ ಮೂಗು ಶಾಂತಿಯಲ್ಲಿ ಬರುವುದೆ?
+qwen3.5-2b,kannada_test,self_explanation,141,1,A,A,1,16.557072,16.30987,15.682466,16.359819,A,1,ಕೋತಿ ತಾನು ಕೆಡೋದಲ್ಲದೆ ವನವನ್ನೂ ಕೆಡಿಸಿತು,ಕೋತಿ ತಾನು ಕೆಡೋದಲ್ಲದೆ ವನವನ್ನೂ ಕೆಡಿಸಿತು
+qwen3.5-2b,kannada_test,self_explanation,142,1,B,B,1,15.680601,16.888945,17.197212,15.507686,B,1,"ಕೋತಿಯಂಥೋನು ಕೆಣಕಿದ, ಮುತಿಗೆ ಹೆಟ್ಟಿಸಿಕೊಂಡು ತಿಣುಕಿದ","ಕೋತಿಯಂಥೋನು ಕೆಣಕಿದ, ಮುತಿಗೆ ಹೆಟ್ಟಿಸಿಕೊಂಡು ತಿಣುಕಿದ"
+qwen3.5-2b,kannada_test,self_explanation,143,1,B,B,1,16.219492,17.02,16.653425,16.100702,B,1,ಕೂಸು ಹುಟ್ಟೋಕೆ ಮುಂಚೆ ಕುಲಾವಿ ಹೊಲಿಸಿದಳು,ಕೂಸು ಹುಟ್ಟೋಕೆ ಮುಂಚೆ ಕುಲಾವಿ ಹೊಲಿಸಿದಳು
+qwen3.5-2b,kannada_test,self_explanation,144,1,B,A,0,16.768202,15.199631,16.327633,15.373076,A,0,ಕೂತು ಉಣ್ಣೋಳಿಗೆ ಕುಡಿಕೆ ಹೊನ್ನು ಸಾಲದು,ಕೂತು ಉಣ್ಣೋಳಿಗೆ ಕುಡಿಕೆ ಹೊನ್ನು ಸಾಲದು
+qwen3.5-2b,kannada_test,self_explanation,145,0,A,A,1,16.698486,15.392955,16.596937,16.567717,A,1,ಕಡು ಕೋಪ ಬಂದಾಗ ತಡಕೊಂಡವನೇ ಜಾಣ,ಕಡು ಕೋಪ ಬಂದಾಗ ತಡಕೊಂಡವನೇ ಜಾಣ
+qwen3.5-2b,kannada_test,self_explanation,146,0,B,A,0,16.187828,15.725471,16.718966,15.046364,B,1,The meaning of the proverb is:,"ಕಂಡದ್ದು ಕಾಣೆ ಉತ್ತಮ, ಕಂಡದ್ದು ಕಂಡೆ ಮಧ್ಯಮ, ಕಾಣದ್ದು ಕಂಡೆ ಅಧಮ"
+qwen3.5-2b,kannada_test,self_explanation,147,1,B,A,0,16.898022,16.860249,16.266344,16.982019,A,0,ಕಂಡವರ ಮಕ್ಕಳನ್ನು ಬಾವಿಯಲ್ಲಿ ದೂಡಿ ಆಳ ನೋಡಿದ ಹಾಗೆ,ಕಂಡವರ ಮಕ್ಕಳನ್ನು ಬಾವಿಯಲ್ಲಿ ದೂಡಿ ಆಳ ನೋಡಿದ ಹಾಗೆ
+qwen3.5-2b,kannada_test,self_explanation,148,0,B,A,0,16.727663,16.523712,17.171633,15.72333,B,1,ಕಂಗಾಲಾದರೂ ಹಂಗಾಲಾಗಬಾರದು,ಕಂಗಾಲಾದರೂ ಹಂಗಾಲಾಗಬಾರದು
+qwen3.5-2b,kannada_test,self_explanation,149,0,A,A,1,16.106905,14.559828,16.014904,14.377056,B,0,"ಕಣ ಕಾಯಬಹುದು, ಹೆಣ ಕಾಯಕಾಗುವುದಿಲ್ಲ","ಕಣ ಕಾಯಬಹುದು, ಹೆಣ ಕಾಯಕಾಗುವುದಿಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,150,1,A,A,1,17.305593,15.59503,16.388115,16.262234,A,1,"ಕಟ್ಟಿದ ಕೆರೆಗೆ ಕೋಡಿ ತಪ್ಪಲ್ಲ, ಹುಟ್ಟಿದ ಮನೆಗೆ ಬೇರೆ ತಪ್ಪಲ್ಲ (A house built on a foundation is safe, a house born in a good family is safe)","ಕಟ್ಟಿದ ಕೆರೆಗೆ ಕೋಡಿ ತಪ್ಪಲ್ಲ, ಹುಟ್ಟಿದ ಮನೆಗೆ ಬೇರೆ ತಪ್ಪಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,151,1,A,A,1,16.658836,15.808708,15.568038,16.140404,A,1,ಕಾರ್ಯವಾಸಿ ಕತ್ತೆ ಕಾಲು ಹಿಡಿ,ಕಾರ್ಯವಾಸಿ ಕತ್ತೆ ಕಾಲು ಹಿಡಿ
+qwen3.5-2b,kannada_test,self_explanation,152,1,B,A,0,16.106712,16.006544,16.326157,14.929453,B,1,ಕಾಮಾಲೆ ಕಣ್ಣೊನಿಗೆ ಕಂಡಿದ್ದೆಲ್ಲ ಹಳದಿನೇ,ಕಾಮಾಲೆ ಕಣ್ಣೊನಿಗೆ ಕಂಡಿದ್ದೆಲ್ಲ ಹಳದಿನೇ
+qwen3.5-2b,kannada_test,self_explanation,153,1,B,B,1,15.772243,16.147556,15.437613,15.459451,B,1,ಕಬ್ಬು ಡೊಂಕಾದರೆ ಸಿಹಿ ಡೊಂಕೇ,ಕಬ್ಬು ಡೊಂಕಾದರೆ ಸಿಹಿ ಡೊಂಕೇ
+qwen3.5-2b,kannada_test,self_explanation,154,1,A,A,1,17.17149,15.795657,16.983461,15.753421,A,1,"The meaning of the proverb is that a dog that barks at others will be barked at in return, while a dog that barks at nothing will be left alone.","ಕಚ್ಚುವ ನಾಯಿ ಬೊಗಳದು, ಬೊಗಳುವ ನಾಯಿ ಕಚ್ಚದು"
+qwen3.5-2b,kannada_test,self_explanation,155,1,B,A,0,16.254927,15.848148,16.673141,15.707607,B,1,ಕೈಗೆ ಬಂದ ತುತ್ತು ಬಾಯಿಗೆ ಇಲ್ಲ,ಕೈಗೆ ಬಂದ ತುತ್ತು ಬಾಯಿಗೆ ಇಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,156,1,A,A,1,16.51137,13.657548,16.008728,15.505928,A,1,"ಕೈಯಲ್ಲಿ ಶರಣಾರ್ಥಿ, ಕಂಕುಳಲ್ಲಿ ದೊಣ್ಣೆ","ಕೈಯಲ್ಲಿ ಶರಣಾರ್ಥಿ, ಕಂಕುಳಲ್ಲಿ ದೊಣ್ಣೆ"
+qwen3.5-2b,kannada_test,self_explanation,157,1,B,A,0,15.595113,15.452062,16.700127,15.106161,B,1,The meaning of the proverb is:,ಕಲ್ಲು ಇದ್ದಾಗ ನಾಯಿ ಇಲ್ಲ ನಾಯಿ ಇದ್ದಾಗ ಕಲ್ಲು ಇಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,158,1,A,A,1,16.409714,16.128355,16.990568,16.002283,B,0,ಕಪ್ಪರ ತಿಪ್ಪೆಲಿಟ್ಟರೆ ತನ್ನ ವಾಸನೆ ಬಿಟ್ಟಿತೇ?,ಕಪ್ಪರ ತಿಪ್ಪೆಲಿಟ್ಟರೆ ತನ್ನ ವಾಸನೆ ಬಿಟ್ಟಿತೇ?
+qwen3.5-2b,kannada_test,self_explanation,159,1,B,A,0,16.040636,15.732805,17.411175,15.170813,B,1,"ಕಥೆ ಹೇಳೋಕೆ ಹ್ಯುಮ್-ಗುಟ್ಟೋರಿರಬೇಕು, ನೆಟ್ಟಗೆ ಬಾಳೋಕೆ ಚಿ-ಗುಟ್ಟೋರಿರಬೇಕು ಎಂದರೆ, ಕಥೆ ಹೇಳ","ಕಥೆ ಹೇಳೋಕೆ ಹ್ಯುಮ್-ಗುಟ್ಟೋರಿರಬೇಕು, ನೆಟ್ಟಗೆ ಬಾಳೋಕೆ ಚಿ-ಗುಟ್ಟೋರಿರಬೇಕು"
+qwen3.5-2b,kannada_test,self_explanation,160,0,A,A,1,16.225542,15.836426,16.184248,15.457758,B,0,Here is the explanation:,ಕೆಡುವ ಕಾಲಕ್ಕೆ ಬುದ್ಧಿ ಇಲ್ಲ ಮರಣ ಕಾಲಕ್ಕೆ ಮದ್ದಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,161,1,B,B,1,15.620071,16.778177,17.043465,15.191001,B,1,ಕಿಡಿಯಿಂದ ಕಾಡ ಸುಡಬಹುದು,ಕಿಡಿಯಿಂದ ಕಾಡ ಸುಡಬಹುದು
+qwen3.5-2b,kannada_test,self_explanation,162,1,B,A,0,15.946187,15.264739,16.420328,14.402308,B,1,Here is the explanation in one short sentence:,ಕೊಡಲಿ ಕಾವೂ ಕುಲಕ್ಕೆ ಸಾವು
+qwen3.5-2b,kannada_test,self_explanation,163,1,A,A,1,17.519903,15.438589,15.976834,16.108416,A,1,"ಕೋಣನಿಗೆ ಕೊಸೆಯೋ ಸಂಕಟ, ಎಮ್ಮೆಗೆ ಈಯೋ ಸಂಕಟ","ಕೋಣನಿಗೆ ಕೊಸೆಯೋ ಸಂಕಟ, ಎಮ್ಮೆಗೆ ಈಯೋ ಸಂಕಟ"
+qwen3.5-2b,kannada_test,self_explanation,164,1,A,A,1,16.679033,15.153947,16.80092,15.815538,A,1,"ಕೊಟ್ಟವನು ಕೋಡಂಗಿ, ಇಸ್ಕೊಂಡವನು ವೀರಭದ್ರ","ಕೊಟ್ಟವನು ಕೋಡಂಗಿ, ಇಸ್ಕೊಂಡವನು ವೀರಭದ್ರ"
+qwen3.5-2b,kannada_test,self_explanation,165,1,B,B,1,15.986231,16.624283,17.645308,15.449395,B,1,ಕ್ರಮ ಕಾಣದ ನಾಯಿ ಕಪಾಲ ನೆಕ್ತು,ಕ್ರಮ ಕಾಣದ ನಾಯಿ ಕಪಾಲ ನೆಕ್ತು
+qwen3.5-2b,kannada_test,self_explanation,166,1,A,A,1,16.863085,15.335651,16.094143,15.632238,A,1,ಕುಂಬಾರನಿಗೆ ವರುಷ; ದೊಣ್ಣೆಗೆ ನಿಮಿಷ,ಕುಂಬಾರನಿಗೆ ವರುಷ; ದೊಣ್ಣೆಗೆ ನಿಮಿಷ
+qwen3.5-2b,kannada_test,self_explanation,167,1,A,A,1,16.771231,15.327744,15.260692,16.345816,A,1,ಕುರುಡು ಕಣ್ಣಿಗಿಂತ ಮೆಳ್ಳೆಗಣ್ಣು ವಾಸಿ,ಕುರುಡು ಕಣ್ಣಿಗಿಂತ ಮೆಳ್ಳೆಗಣ್ಣು ವಾಸಿ
+qwen3.5-2b,kannada_test,self_explanation,168,1,A,A,1,17.25449,15.122282,16.605446,16.022821,A,1,"ಲೇ ಅನ್ನೋದಕ್ಕೆ ಅವಳೇ ಇಲ್ಲ, ಮಗನ ಹೆಸರು ಮುದ್ದುರಂಗ","ಲೇ ಅನ್ನೋದಕ್ಕೆ ಅವಳೇ ಇಲ್ಲ, ಮಗನ ಹೆಸರು ಮುದ್ದುರಂಗ"
+qwen3.5-2b,kannada_test,self_explanation,169,0,B,B,1,15.882038,16.21734,17.678108,15.835636,B,1,ಲೋಕ ತಿಳಿಯಬೇಕು ಲೆಕ್ಕ ಕಲಿಯಬೇಕು,ಲೋಕ ತಿಳಿಯಬೇಕು ಲೆಕ್ಕ ಕಲಿಯಬೇಕು
+qwen3.5-2b,kannada_test,self_explanation,170,1,B,B,1,14.962672,16.112282,16.953384,14.543227,B,1,ಲಂಚ ಕೊಟ್ಟು ಮಂಚ ಏರು ವಂಚನೆ ಮಾಡಿ ಕೈಲಾಸ ಏರು,ಲಂಚ ಕೊಟ್ಟು ಮಂಚ ಏರು ವಂಚನೆ ಮಾಡಿ ಕೈಲಾಸ ಏರು
+qwen3.5-2b,kannada_test,self_explanation,171,1,A,A,1,16.956652,14.856018,16.032291,16.164148,A,1,ಲಾಭವಿಲ್ಲದ ವ್ಯಾಪಾರ ಕತ್ತೆ ಮೈ ಪರಚಿದಂಗೆ,ಲಾಭವಿಲ್ಲದ ವ್ಯಾಪಾರ ಕತ್ತೆ ಮೈ ಪರಚಿದಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,172,1,B,B,1,16.110594,16.817636,17.440256,16.050753,B,1,ಸೊಪ್ಪಿನ ಸಾರಾದರೂ ಲೆಕ್ಕದ ಮುದ್ದೆ ಉಣಬೇಕು,ಸೊಪ್ಪಿನ ಸಾರಾದರೂ ಲೆಕ್ಕದ ಮುದ್ದೆ ಉಣಬೇಕು
+qwen3.5-2b,kannada_test,self_explanation,173,1,A,A,1,17.335089,15.446592,15.901392,16.385345,A,1,ಲಿಂಗ ಹರಿದ ಮೇಲೆ ಜಂಗಮನ ಹಂಗೇನು,ಲಿಂಗ ಹರಿದ ಮೇಲೆ ಜಂಗಮನ ಹಂಗೇನು
+qwen3.5-2b,kannada_test,self_explanation,174,1,A,A,1,16.110014,14.731841,16.341194,14.986264,A,1,Here is the explanation in one short sentence:,ಮೂರ್ಖನಿಗೆ ದೊಣೆ ಪೆಟ್ಟು ಬುದ್ಧಿವಂತನಿಗೆ ಮಾತಿನ ಪೆಟ್ಟು
+qwen3.5-2b,kannada_test,self_explanation,175,1,A,A,1,16.904221,15.540718,16.939388,15.805716,A,1,"ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ means ""A house is a good investment for a family, but a house is not a good investment for a friend.""",ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ
+qwen3.5-2b,kannada_test,self_explanation,176,1,B,A,0,16.344067,16.208849,16.903296,14.730562,B,1,ಮೇಲೆ ಬಿದ್ದು ಬಂದೋಳು ಮೂರು ಕಾಮಿಗೆ ಕಡೆ,ಮೇಲೆ ಬಿದ್ದು ಬಂದೋಳು ಮೂರು ಕಾಮಿಗೆ ಕಡೆ
+qwen3.5-2b,kannada_test,self_explanation,177,1,B,A,0,16.450508,15.077365,16.3323,14.686948,B,1,ಮೂರು ಬಿಟ್ಟೋಳು ಊರಿಗೆ ದೊಡ್ಡೋಳು,ಮೂರು ಬಿಟ್ಟೋಳು ಊರಿಗೆ ದೊಡ್ಡೋಳು
+qwen3.5-2b,kannada_test,self_explanation,178,1,A,A,1,16.289633,15.978933,17.353382,15.77696,B,0,The meaning of the proverb is:,"ಮಾಡೋದು ದುರಾಚಾರ, ಮನೆ ಮುಂದೆ ಬೃಂದಾವನ"
+qwen3.5-2b,kannada_test,self_explanation,179,0,B,A,0,15.971563,15.575842,16.970905,13.67431,B,1,"The proverb means that a person who knows how to speak wisely will not fight, and a person who knows how to cook well will not get sick.","ಮಾತು ಬಲ್ಲವನಿಗೆ ಜಗಳವಿಲ್ಲ, ಊಟ ಬಲ್ಲವನಿಗೆ ರೋಗವಿಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,180,1,A,A,1,17.565825,15.069307,16.921719,15.448961,A,1,The proverb means that a person who speaks without thinking or acts without planning will bring ruin to their own home.,"ಮಾತು ಮನೆ ಕೆಡಿಸಿತು, ತೂತು ಒಲೆ ಕೆಡಿಸಿತು"
+qwen3.5-2b,kannada_test,self_explanation,181,0,A,A,1,17.415131,15.667672,17.079149,15.634054,A,1,"The proverb means that a marriage is a temporary arrangement, and one should not be too attached to it, as the house can be built later.",ಮದುವೆ ಮಾಡಿ ನೋಡು ಮನೆ ಕಟ್ಟಿ ನೋಡು
+qwen3.5-2b,kannada_test,self_explanation,182,1,B,A,0,16.151831,16.119366,16.56222,14.243114,B,1,ಮದುವೆಯಾಗೋ ಗುಂಡ ಅಂದ್ರೆ ನೀನೇ ನನ್ನ ಹೆಂಡತಿ ಅಂದ,ಮದುವೆಯಾಗೋ ಗುಂಡ ಅಂದ್ರೆ ನೀನೇ ನನ್ನ ಹೆಂಡತಿ ಅಂದ
+qwen3.5-2b,kannada_test,self_explanation,183,1,A,A,1,17.641848,16.335527,17.541321,15.722388,B,0,The proverb means that one should judge a person's character by their actions rather than by their appearance.,"ಮುಖ ನೋಡಿ ಮಾರು ಹೋದ, ಗುಣ ನೋಡಿ ದೂರ ಹೋದ"
+qwen3.5-2b,kannada_test,self_explanation,184,1,B,A,0,17.005049,15.981813,16.60257,16.513199,A,0,ಮನೆಗೆ ಬೆಂಕಿ ಬಿದ್ದಾಗ ಬಾವಿ ತೋಡಿದರಂತೆ,ಮನೆಗೆ ಬೆಂಕಿ ಬಿದ್ದಾಗ ಬಾವಿ ತೋಡಿದರಂತೆ
+qwen3.5-2b,kannada_test,self_explanation,185,1,A,A,1,16.427111,15.873294,16.567337,15.453388,B,0,"The proverb means that one should not try to remove a bad habit or vice by using the same method, as the solution is often worse than the problem.","ಮುಳ್ಳಿನಿಂದ ಮುಳ್ಳು ತೆಗೆ, ಹಗೆಯಿಂದ ಹಗೆ ತೆಗೆ"
+qwen3.5-2b,kannada_test,self_explanation,186,1,B,A,0,16.880636,15.145681,17.035934,15.731911,A,0,ಮುಲಾಜಿಗೆ ಬಸುರಾಗಿ ಹೆರೋಕೆ ತಾವಿಲ್ಲ,ಮುಲಾಜಿಗೆ ಬಸುರಾಗಿ ಹೆರೋಕೆ ತಾವಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,187,1,B,A,0,16.067818,15.726435,16.295612,15.388124,B,1,"ಮುತ್ತು ಒಡೆದರೆ ಹೋಯ್ತು, ಮಾತು ಆಡಿದರೆ ಹೋಯ್ತು ಎಂದರೆ, ""ಮುತ್ತು ಒಡೆದರೆ ಹೋಯ್ತು"" ಎಂದರೆ, ""ಮುತ್ತು �","ಮುತ್ತು ಒಡೆದರೆ ಹೋಯ್ತು, ಮಾತು ಆಡಿದರೆ ಹೋಯ್ತು"
+qwen3.5-2b,kannada_test,self_explanation,188,1,B,A,0,17.056664,15.335162,16.178154,15.011685,A,0,ಮಂಗನ ಪಾರುಪತ್ಯ ಮರದ ಟೊಂಗೆ ಮೇಲೆ,ಮಂಗನ ಪಾರುಪತ್ಯ ಮರದ ಟೊಂಗೆ ಮೇಲೆ
+qwen3.5-2b,kannada_test,self_explanation,189,1,B,A,0,16.950254,15.891695,17.400742,15.85912,B,1,Here is the meaning of the proverb in one short sentence:,ಮಾತಿನ ಬೊಮ್ಮ ತೂತಾದ ಮಡಕೆಯ ಪರಿ
+qwen3.5-2b,kannada_test,self_explanation,190,1,A,A,1,17.162924,16.071348,16.68338,16.825232,A,1,ನಮ್ಮ ಕಣ್ಣು ನಮಗೆ ಕೆಡಿಸಿತು,ನಮ್ಮ ಕಣ್ಣು ನಮಗೆ ಕೆಡಿಸಿತು
+qwen3.5-2b,kannada_test,self_explanation,191,1,A,A,1,16.838352,16.787672,17.770178,16.40737,B,0,"ನುಡಿ ಪುರಾತನ ನಡೆ ಕಿರಾತನ means ""Silence is the path of the old man, and the path of the new man.""",ನುಡಿ ಪುರಾತನ ನಡೆ ಕಿರಾತನ
+qwen3.5-2b,kannada_test,self_explanation,192,1,A,A,1,16.65819,14.506608,16.119576,15.960041,A,1,"ನೀರಿಗೆ ಬಿದ್ದವನಿಗೆ, ಮಳೆ ಏನು? ಚಳಿ ಏನು?","ನೀರಿಗೆ ಬಿದ್ದವನಿಗೆ, ಮಳೆ ಏನು? ಚಳಿ ಏನು?"
+qwen3.5-2b,kannada_test,self_explanation,193,1,A,A,1,15.703058,15.566021,16.749464,15.578441,B,0,ಅಡಿಗೆ ಬಿದ್ದರೂ ಮೂಗು ಮೇಲೆ,ಅಡಿಗೆ ಬಿದ್ದರೂ ಮೂಗು ಮೇಲೆ
+qwen3.5-2b,kannada_test,self_explanation,194,1,A,A,1,16.970812,14.685423,15.023375,16.597025,A,1,ನಾಯಿ ಬಾಲ ಯಾವಾಲೂ ಡೊಂಕು,ನಾಯಿ ಬಾಲ ಯಾವಾಲೂ ಡೊಂಕು
+qwen3.5-2b,kannada_test,self_explanation,195,1,B,A,0,16.510263,16.291981,16.658869,16.647253,A,0,ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳೇನು?,ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳೇನು?
+qwen3.5-2b,kannada_test,self_explanation,196,1,A,A,1,16.830149,15.609467,16.618856,15.624642,A,1,ನಡತೆ ಕಲಿಯೋದು ಏರುಬಂಡೆ ನಡತೆ ಕೆಡೋದು ಜಾರುಬಂಡೆ,ನಡತೆ ಕಲಿಯೋದು ಏರುಬಂಡೆ ನಡತೆ ಕೆಡೋದು ಜಾರುಬಂಡೆ
+qwen3.5-2b,kannada_test,self_explanation,197,1,B,A,0,15.942099,15.357791,15.901433,14.687922,B,1,"ನಾಯಿಗೆ ಕೆಲಸವಿಲ್ಲ, ನಿಲ್ಲೋಕೆ ಹೊತ್ತಿಲ್ಲ ಎಂಬ ಪ್ರಭಾವಕ ಹೇಳಿಕೆಯು, ನಿಲ್ಲುವುದು ಅಥವಾ ಕೆಲಸ ಮಾಡುವುದು ಎಂಬುದು ನಾಯಿಗೆ ಸ","ನಾಯಿಗೆ ಕೆಲಸವಿಲ್ಲ, ನಿಲ್ಲೋಕೆ ಹೊತ್ತಿಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,198,0,A,A,1,16.615635,15.259491,16.288868,15.394608,A,1,"ನಯಶಾಲಿ ಆದವನು ಜಯಶಾಲಿ ಆದಾನು ಎಂದರೆ, ""ನಯನು"" (new) ಮತ್ತು ""ಜಯಶಾಲಿ"" (victorious) ಎಂಬ ಪದಗಳನ್ನು ಬಳಸಿ, ""ನಯ",ನಯಶಾಲಿ ಆದವನು ಜಯಶಾಲಿ ಆದಾನು
+qwen3.5-2b,kannada_test,self_explanation,199,1,B,A,0,16.340542,14.36523,16.723724,14.922626,A,0,Here is the explanation in one short sentence:,"ನೆಂಟರೆಲ್ಲ ಕರೆ, ಕಂಟಲೆ ಚೀಲಕ್ಕೆ ಕೈ ಹಾಕಬೇಡ"
+qwen3.5-2b,kannada_test,self_explanation,200,0,A,A,1,17.296076,14.663029,16.674305,15.125377,A,1,Here is the explanation:,ನಿಜ ಆಡಿದರೆ ನಿಷ್ಠೂರ
+qwen3.5-2b,kannada_test,self_explanation,201,0,A,A,1,17.00082,15.911313,17.092503,16.108833,A,1,Here is the explanation:,ನಿಯತ್ತಿಲ್ಲದವರಿಗೆ ಬರಕತ್ತಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,202,1,B,A,0,15.803019,14.813114,16.591854,14.036013,B,1,"ಊಟಕ್ಕೆ ಇಲ್ಲದ ಉಪ್ಪಿನಕಾಯಿ, ಮಣ್ಣಿಗೆ ಸಮಾನ","ಊಟಕ್ಕೆ ಇಲ್ಲದ ಉಪ್ಪಿನಕಾಯಿ, ಮಣ್ಣಿಗೆ ಸಮಾನ"
+qwen3.5-2b,kannada_test,self_explanation,203,1,A,A,1,16.088995,14.632401,16.164867,15.519233,A,1,ಒಂದು ಕಣ್ಣಿಗೆ ಸುಣ್ಣ ಒಂದು ಕಣ್ಣಿಗೆ ಬೆಣ್ಣೆ,ಒಂದು ಕಣ್ಣಿಗೆ ಸುಣ್ಣ ಒಂದು ಕಣ್ಣಿಗೆ ಬೆಣ್ಣೆ
+qwen3.5-2b,kannada_test,self_explanation,204,1,B,A,0,15.842287,15.712457,16.741787,14.894101,B,1,"ಒಂದು ಸಿಟ್ಟಿನಲ್ಲಿ ಬಾವಿಗೆ ಬಿದ್ದರೆ, ಏಳು ಸಿಟ್ಟಿನಲ್ಲೂ ಏಳಲಾಗದು.","ಒಂದು ಸಿಟ್ಟಿನಲ್ಲಿ ಬಾವಿಗೆ ಬಿದ್ದರೆ, ಏಳು ಸಿಟ್ಟಿನಲ್ಲೂ ಏಳಲಾಗದು."
+qwen3.5-2b,kannada_test,self_explanation,205,1,B,B,1,15.492128,15.57255,16.273582,15.116735,B,1,ಒಣ ಮರವ ಬೆಂಕಿ ತಿಂತಂತೆ ಹಸಿ ಮರವ ಚಿಂತೆ ತಿಂತಂತೆ,ಒಣ ಮರವ ಬೆಂಕಿ ತಿಂತಂತೆ ಹಸಿ ಮರವ ಚಿಂತೆ ತಿಂತಂತೆ
+qwen3.5-2b,kannada_test,self_explanation,206,1,A,A,1,16.756697,14.754138,15.585034,15.777961,A,1,ಪಾಲಿಗೆ ಬಂದದ್ದು ಪಂಚಾಮೃತ,ಪಾಲಿಗೆ ಬಂದದ್ದು ಪಂಚಾಮೃತ
+qwen3.5-2b,kannada_test,self_explanation,207,1,A,A,1,16.795944,15.333716,15.881644,16.073872,A,1,ಪಾಲಿಗೆ ಇಲ್ಲದ್ದು ಏನಾದರೇನು?,ಪಾಲಿಗೆ ಇಲ್ಲದ್ದು ಏನಾದರೇನು?
+qwen3.5-2b,kannada_test,self_explanation,208,1,B,A,0,16.481825,15.254171,15.762746,15.887098,A,0,ಪಾಪ ಅಂದರೆ ಕರ್ಮ ಬರ್ತದೆ,ಪಾಪ ಅಂದರೆ ಕರ್ಮ ಬರ್ತದೆ
+qwen3.5-2b,kannada_test,self_explanation,209,1,B,A,0,15.722395,15.109963,16.445824,14.735704,B,1,ಪಾಪ ಬರಬಾರದೆಂದು ಶಾಪ ಕೊಂಡ,ಪಾಪ ಬರಬಾರದೆಂದು ಶಾಪ ಕೊಂಡ
+qwen3.5-2b,kannada_test,self_explanation,210,1,A,A,1,16.932173,14.819483,16.608316,15.870871,A,1,ಪರರ ಹಂಗಿಸಿ ಮಂಗ ಅನಿಸಿಕೊಂಡ,ಪರರ ಹಂಗಿಸಿ ಮಂಗ ಅನಿಸಿಕೊಂಡ
+qwen3.5-2b,kannada_test,self_explanation,211,1,A,A,1,16.893885,14.366712,16.613619,13.894315,B,0,Here is the explanation in one short sentence:,ಪ್ರಾಯ ಬರುವಾಗ ಆಯ ತಪ್ಪಿತು
+qwen3.5-2b,kannada_test,self_explanation,212,1,B,A,0,16.308874,15.399576,16.315916,14.815175,B,1,ಪುಣ್ಯವಂತ ಮುಟ್ಟಿದ್ದೆಲ್ಲ ಚಿನ್ನ,ಪುಣ್ಯವಂತ ಮುಟ್ಟಿದ್ದೆಲ್ಲ ಚಿನ್ನ
+qwen3.5-2b,kannada_test,self_explanation,213,1,B,B,1,16.723085,17.429684,17.448435,15.424623,B,1,ಪುಟ್ಯಾನ ಜ್ವಾಳ ತೀರಿದರೂ ಹೊಟ್ಯಾನ ಹಾಡು ತೀರಲಿಲ್ಲ,ಪುಟ್ಯಾನ ಜ್ವಾಳ ತೀರಿದರೂ ಹೊಟ್ಯಾನ ಹಾಡು ತೀರಲಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,214,1,A,A,1,16.320929,14.933506,16.849573,14.48096,B,0,"ಪುಕ್ಸಟ್ಟೆ ಗಂಡ ಹೊಟ್ಟೆ ತುಂಬ ಉಂಡಾ, ಮನೆ ಗಂಡ ಗಿಣಿಕೊಂಡು ಬಿದ್ದ","ಪುಕ್ಸಟ್ಟೆ ಗಂಡ ಹೊಟ್ಟೆ ತುಂಬ ಉಂಡಾ, ಮನೆ ಗಂಡ ಗಿಣಿಕೊಂಡು ಬಿದ್ದ"
+qwen3.5-2b,kannada_test,self_explanation,215,1,B,A,0,16.614431,14.938879,16.98554,14.322517,B,1,ಪುನಗನ ಬೆಕ್ಕು ತನ್ನ ವಾಸನೆ ಅರಿಯದೆ ಕಾಡೆಲ್ಲ ತಿರುಗಿ ತಿರುಗಿ ಸಾಯ್ತಂತೆ,ಪುನಗನ ಬೆಕ್ಕು ತನ್ನ ವಾಸನೆ ಅರಿಯದೆ ಕಾಡೆಲ್ಲ ತಿರುಗಿ ತಿರುಗಿ ಸಾಯ್ತಂತೆ
+qwen3.5-2b,kannada_test,self_explanation,216,1,B,A,0,17.400082,16.181076,16.183483,15.696978,A,0,"ಪುರಾಣ ಹೇಳಿದರೆ ಪುಷ್ಪ ಬಿದ್ದಾವೇ? (If the ancient history tells you, will the flowers fall?)",ಪುರಾಣ ಹೇಳಿದರೆ ಪುಷ್ಪ ಬಿದ್ದಾವೇ?
+qwen3.5-2b,kannada_test,self_explanation,217,1,B,A,0,16.408476,14.88369,16.847559,15.105939,B,1,ಪುಸ್ತಕದಲ್ಲಿರೋ ಬದನೆಕಾಯಿ ಸಾರಿಗೆ ಬಂದಾತೆ?,ಪುಸ್ತಕದಲ್ಲಿರೋ ಬದನೆಕಾಯಿ ಸಾರಿಗೆ ಬಂದಾತೆ?
+qwen3.5-2b,kannada_test,self_explanation,218,1,A,A,1,16.75843,14.272527,16.191103,15.023793,A,1,Here is the explanation:,ರೀತಿ ತಿಳಿಯದಿದ್ದರೂ ಮಾತು ಬಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,219,1,A,A,1,16.463482,14.928678,16.466373,14.970514,A,1,Here is the explanation in one short sentence:,ರೀತಿಯಲ್ಲದ ಮಾತು ತಲೆ ಬೇನೆ
+qwen3.5-2b,kannada_test,self_explanation,220,0,A,A,1,17.289747,14.89099,16.366894,14.754292,A,1,Here is the explanation in one short sentence:,ರೋಗಕ್ಕೆ ಮದ್ದುಂಟು ಶೀಲಕ್ಕೆ ಮದ್ದಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,221,0,A,A,1,17.234827,16.168444,17.060249,16.397951,A,1,The meaning of the proverb is that people who are focused on their appearance are not afraid of sin.,ರೂಪಕ್ಕೆ ಮನಸೋತವರಿಗೆ ಪಾಪಕ್ಕೆ ಭಯವಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,222,1,B,B,1,17.095829,17.416723,17.535896,16.201458,B,1,"The proverb ""Raja Thievi Tirubokiki Lakshan"" (The King's Thievery of the Monkey's Tail) is a metaphor for the **extreme difficulty and futility of trying to control or fix a situation that is already deeply entrenched and beyond one's power to",ರಾಜ ಠೀವಿ ತಿರುಬೋಕಿ ಲಕ್ಷಣ
+qwen3.5-2b,kannada_test,self_explanation,223,0,B,A,0,16.552633,16.13282,16.525354,15.521139,B,1,Here is the explanation:,ರಾಜ ಇರೋತನಕ ರಾಣಿ ಭೋಗ
+qwen3.5-2b,kannada_test,self_explanation,224,1,A,A,1,16.706017,15.445472,16.001776,16.738964,A,1,The meaning of the proverb is:,ರತ್ನ ಒಳ್ಳೆದಾದ್ರೆ ಇದ್ದ ಠಾವಿನಲ್ಲೇ ಬೆಳೆಯುತ್ತದೆ
+qwen3.5-2b,kannada_test,self_explanation,225,1,A,A,1,16.521391,14.612281,15.562455,16.310322,A,1,The meaning of the proverb is:,ರತ್ನ ತಿನ್ನೋ ಪಕ್ಷಿ ಕಾಗೆ ಸವಾಸಕ್ಕೆ ಬಿದ್ದು ಎಂಜಲೆಲೆಗೆ ಸೊಬತಿ ಆಗಿತ್ತಂತೆ
+qwen3.5-2b,kannada_test,self_explanation,226,1,B,B,1,16.354179,17.039719,17.441423,15.797198,B,1,The proverb means that a person who has already suffered defeat or loss is more likely to be killed or destroyed than one who has not yet faced any adversity.,"ಗೆದ್ದೊನು ಸೋತ, ಸೋತೊನು ಸತ್ತ"
+qwen3.5-2b,kannada_test,self_explanation,227,1,B,A,0,16.189165,15.575642,15.635563,14.596237,B,1,The meaning of the proverb is:,ಶುಭ ನುಡಿಯೋ ಸೋಮ ಅಂದ್ರೆ ಗೂಬೆ ಕಾಣಿಸ್ತಲ್ಲೊ ಮಾವ ಅಂದ
+qwen3.5-2b,kannada_test,self_explanation,228,1,A,A,1,17.2512,15.273954,15.737648,16.262802,A,1,ಸನ್ಯಾಸಿ ಹೆಂಡತಿ ಮುಂಡೇನೂ ಅಲ್ಲ ಮುತ್ತೈದೆನೂ ಅಲ್ಲ,ಸನ್ಯಾಸಿ ಹೆಂಡತಿ ಮುಂಡೇನೂ ಅಲ್ಲ ಮುತ್ತೈದೆನೂ ಅಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,229,0,A,A,1,17.027943,14.934635,16.408218,16.805908,A,1,ಸಂಸಾರ ಅನ್ನೋದು ಸಾಗರದ ಹೊಳೆ ಈಜ ಬಲ್ಲವನಿಗೆ ಎದೆದುದ್ದು,ಸಂಸಾರ ಅನ್ನೋದು ಸಾಗರದ ಹೊಳೆ ಈಜ ಬಲ್ಲವನಿಗೆ ಎದೆದುದ್ದು
+qwen3.5-2b,kannada_test,self_explanation,230,0,A,A,1,16.094929,15.723529,17.210209,14.921697,B,0,ಸಂಸಾರ ಗುಟ್ಟು ವ್ಯಾಧಿ ರಟ್ಟು,ಸಂಸಾರ ಗುಟ್ಟು ವ್ಯಾಧಿ ರಟ್ಟು
+qwen3.5-2b,kannada_test,self_explanation,231,1,B,B,1,15.726645,17.164209,17.5861,15.583364,B,1,"ಸಂಸಾರ ಸಾಗರ, ಈಸಬೇಕು ಇದ್ದು ಜೈಸಬೇಕು","ಸಂಸಾರ ಸಾಗರ, ಈಸಬೇಕು ಇದ್ದು ಜೈಸಬೇಕು"
+qwen3.5-2b,kannada_test,self_explanation,232,1,A,A,1,16.161308,15.390879,16.59857,15.244057,B,0,ಸಂಸಾರಿ ಸಾವಾಸ ಮಾಡಿ ಸನ್ಯಾಸಿ ಕೆಟ್ಟ,ಸಂಸಾರಿ ಸಾವಾಸ ಮಾಡಿ ಸನ್ಯಾಸಿ ಕೆಟ್ಟ
+qwen3.5-2b,kannada_test,self_explanation,233,1,A,A,1,16.661068,15.757079,16.9618,16.411106,A,1,ಸನ್ಯಾಸಿಗೆ ಯಾತರ ಕಳವಳ ಅಂದ್ರೆ ಅನ್ನದೊಂದೇ ಕಳವಳ,ಸನ್ಯಾಸಿಗೆ ಯಾತರ ಕಳವಳ ಅಂದ್ರೆ ಅನ್ನದೊಂದೇ ಕಳವಳ
+qwen3.5-2b,kannada_test,self_explanation,234,1,B,A,0,16.818798,15.893029,15.259679,15.93085,A,0,ಸಿರಿ ಸೋಂಕಿದವರ ಪರಿ ಬೇರೆ,ಸಿರಿ ಸೋಂಕಿದವರ ಪರಿ ಬೇರೆ
+qwen3.5-2b,kannada_test,self_explanation,235,1,A,A,1,15.977392,15.935204,15.918472,15.367476,B,0,"ಸೊಸೆಗೆ ಮನೆವಾಸ, ಅತ್ತೆಗೆ ಪರವಾಸ","ಸೊಸೆಗೆ ಮನೆವಾಸ, ಅತ್ತೆಗೆ ಪರವಾಸ"
+qwen3.5-2b,kannada_test,self_explanation,236,0,B,A,0,16.514355,16.32029,17.293722,16.076466,B,1,ಸ್ವತಂತ್ರ ಹೋಗಿ ಅಸ್ವತಂತ್ರ ಆಯಿತು,ಸ್ವತಂತ್ರ ಹೋಗಿ ಅಸ್ವತಂತ್ರ ಆಯಿತು
+qwen3.5-2b,kannada_test,self_explanation,237,1,B,A,0,16.667515,15.158197,15.66332,15.966227,A,0,ಸ್ತ್ರೀ ರೂಪವೇ ರೂಪ ಶೃಂಗಾರವೇ ರಸ,ಸ್ತ್ರೀ ರೂಪವೇ ರೂಪ ಶೃಂಗಾರವೇ ರಸ
+qwen3.5-2b,kannada_test,self_explanation,238,0,B,B,1,15.892488,16.412119,17.311665,15.029708,B,1,Here is the explanation in one short sentence:,"ಸುಖದ ಮೇಲೆ ದುಃಖ, ದುಃಖದ ಮೇಲೆ ಸುಖ"
+qwen3.5-2b,kannada_test,self_explanation,239,1,A,A,1,17.028963,14.918418,17.200615,15.710825,A,1,Here is the explanation in one short sentence:,ಸುಳ್ಳು ಹೇಳಿದ್ರು ನಿಜದ ನೆತ್ತಿ ಮೇಲೆ ಹೊಡೆದಂಗೆ ಹೇಳಬೇಕು
+qwen3.5-2b,kannada_test,self_explanation,240,1,B,B,1,15.739753,15.740509,16.903746,15.157292,B,1,ಸುಳ್ಳು ದೇವರಿಗೆ ಕಳ್ಳ ಪೂಜಾರಿ,ಸುಳ್ಳು ದೇವರಿಗೆ ಕಳ್ಳ ಪೂಜಾರಿ
+qwen3.5-2b,kannada_test,self_explanation,241,1,A,A,1,17.043924,15.235635,16.905933,16.050365,A,1,ಸುಸಾರಕ್ಕೆ ಬಸುರಾಗಿವ್ನಿ ಮಿಸುಕಬೇಡ ಗಂಡಯ್ಯ,ಸುಸಾರಕ್ಕೆ (=ಅಪರೂಪಕ್ಕೆ) ಬಸುರಾಗಿವ್ನಿ ಮಿಸುಕಬೇಡ ಗಂಡಯ್ಯ
+qwen3.5-2b,kannada_test,self_explanation,242,0,A,A,1,17.029003,14.978878,16.150171,16.056103,A,1,Here is the explanation in one short sentence:,ಸ್ವಧರ್ಮ ತಪ್ಪದ್ರೂ ಅಧರ್ಮ ಮಾಡಬಾರದು
+qwen3.5-2b,kannada_test,self_explanation,243,1,A,A,1,17.966669,16.376362,15.399913,17.730507,A,1,"The proverb means that neither heaven nor earth can be trusted, implying that one should not rely on any authority or source of power.",ಸ್ವರ್ಗವೂ ತಪ್ಪಿತು ದುರ್ಗವೂ ತಪ್ಪಿತು
+qwen3.5-2b,kannada_test,self_explanation,244,1,A,A,1,17.607592,14.55572,16.311485,16.053543,A,1,Here is the explanation in one short sentence:,ತಲೆ ತಲೆಗು ಪಟ್ಟ ಹೊಟ್ಟೆಗೆ ಇಲ್ಲದೆ ಕೆಟ್ಟ
+qwen3.5-2b,kannada_test,self_explanation,245,1,A,A,1,17.295403,15.796827,15.499962,17.113533,A,1,"The proverb means that if one is arrogant and haughty, bad luck will inevitably strike them.",ತಬ್ಬಲಿ ತಲೆ ಬೋಲಿಸಿಕೊಂಡರೆ ಆನೆಕಲ್ಲು ಮಳೆ ಬಂತು
+qwen3.5-2b,kannada_test,self_explanation,246,1,B,A,0,17.75297,17.334558,17.121597,16.385101,B,1,"The proverb asks whether one can grow up in a place where they are not allowed to grow up, implying that one cannot truly grow up in a place where they are not allowed to grow up.",ತನ್ನೂರಿನಲ್ಲಿ ಬಾಳಲಾರದವ ಪರೂರಿನಲ್ಲಿ ಬಾಳಾನೇ?
+qwen3.5-2b,kannada_test,self_explanation,247,1,A,A,1,16.837532,16.176584,17.836592,16.060875,B,0,"The proverb means that a person should not fight or engage in conflict with their own village or community, as it is better to maintain harmony and peace within one's own group.",ತನ್ನ ಊರಿಗೆ ರಂಗ ಪರ ಊರಿಗೆ ಮಂಗ
+qwen3.5-2b,kannada_test,self_explanation,248,1,A,A,1,16.816463,16.454792,16.978521,15.90782,B,0,ಉಪಕಾರಕ್ಕೋಗಿ ಉಪದ್ರ ಬಂತು,ಉಪಕಾರಕ್ಕೋಗಿ ಉಪದ್ರ ಬಂತು
+qwen3.5-2b,kannada_test,self_explanation,249,0,B,A,0,16.985195,15.767202,16.843306,16.197023,A,0,ಉಪವಾಸ ಇರಬಹುದು ಉಪದ್ರ ತಳಲಾಗದು,ಉಪವಾಸ ಇರಬಹುದು ಉಪದ್ರ ತಳಲಾಗದು
+qwen3.5-2b,kannada_test,self_explanation,250,1,B,A,0,17.060289,15.231575,16.115433,15.28919,A,0,ಉರಿದ ಹೊಟ್ಟೆಗೆ ಉಪ್ಪು ತುಂಬಿಸಿದಂಗೆ,ಉರಿದ ಹೊಟ್ಟೆಗೆ ಉಪ್ಪು ತುಂಬಿಸಿದಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,251,0,B,A,0,16.846987,16.278179,17.488901,15.037316,B,1,ವ್ಯವಹಾರಕ್ಕೆ ಯಾವ ವಾರ ಆದ್ರೇನು? ವ್ಯಾಪಾರಕ್ಕೆ ಯಾವ ಪಾರ ಆದ್ರೇನು?,ವ್ಯವಹಾರಕ್ಕೆ ಯಾವ ವಾರ ಆದ್ರೇನು? ವ್ಯಾಪಾರಕ್ಕೆ ಯಾವ ಪಾರ ಆದ್ರೇನು?
+qwen3.5-2b,kannada_test,self_explanation,252,1,B,A,0,17.226864,16.832792,17.4981,16.440756,B,1,ವಾಲಾಡು ಗೊಂಬೆ ವಲಾಡು ನೀರಿಗೆ ಬಿದ್ದಾಗ ತೇಲಾಡು,ವಾಲಾಡು ಗೊಂಬೆ ವಲಾಡು ನೀರಿಗೆ ಬಿದ್ದಾಗ ತೇಲಾಡು
+qwen3.5-2b,kannada_test,self_explanation,253,1,B,A,0,16.856956,15.74538,17.724911,15.21846,B,1,ವಲ್ಲದ ಹಸ ಉಣ್ಣದ ಕರ,ವಲ್ಲದ ಹಸ ಉಣ್ಣದ ಕರ
+qwen3.5-2b,kannada_test,self_explanation,254,1,B,A,0,16.512312,16.063337,17.039692,15.612848,B,1,The proverb means that a person who is foolish or foolishly confident will eventually face the consequences of their own actions.,ವನ ಹಣ್ಣಾಯ್ತು ಗಿಣಿಯ ಬಾಯಿ ಹುಣ್ಣಾಯ್ತು
+qwen3.5-2b,kannada_test,self_explanation,255,0,A,A,1,16.923018,16.51906,17.002815,16.118191,B,0,Here is the explanation:,ಯಾರ ಮಾತು ಕೇಳಿ ಯಾಕೆ ಕೆಟ್ಟೀಯಾ? ನನ್ನ ಮಾತು ಕೇಳಿ ಬದುಕು
+qwen3.5-2b,kannada_test,self_explanation,256,1,A,A,1,17.636709,16.47028,17.180128,16.911789,A,1,"The proverb means that a person's character or nature is determined by their actions and choices, rather than being fixed or predetermined.",ಯಾವ ಹುತ್ತದಲ್ಲಿ ಯಾವ ಹಾವಿದೆಯೋ
+qwen3.5-2b,kannada_test,self_explanation,257,0,B,B,1,15.836554,16.018665,16.966337,15.215113,B,1,Here is the explanation:,ಯಾವ ಕಾಲ ತಪ್ಪಿದರೂ ಸಾವು ಕಾಲ ತಪ್ಪುವುದಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,258,1,B,B,1,15.718842,16.735077,17.286213,16.254404,B,1,The meaning of the proverb is:,ಯುದ್ಧಕಾಲದಲ್ಲಿ ಕತ್ತಿ ವರುಸೆ ಕಲ್ತಂತೆ
+qwen3.5-2b,kannada_test,self_explanation,259,0,A,A,1,17.209526,15.87402,17.176186,15.533161,B,0,"The proverb means that a person's words should be truthful and honest, even if they are spoken by children.",ಯುಕ್ತಿಯ ಮಾತು ಮಕ್ಕಳಿಂದಾದರೂ ತಿಳುಕೋ
+qwen3.5-2b,kannada_test,self_explanation,260,0,B,A,0,16.382488,15.283188,16.945387,15.312971,B,1,Here is the meaning of the proverb in one short sentence:,ಯೋಗ ಇದ್ದಷ್ಟೇ ಭೋಗ
+qwen3.5-2b,kannada_test,self_explanation,261,1,A,A,1,17.392317,14.738417,16.610033,16.216608,A,1,"The proverb means that a person who practices yoga gains the benefits of yoga, while a person who indulges in pleasure gains the benefits of pleasure.","ಯೋಗಿ ತಂದದ್ದು ಯೋಗಿಗೆ, ಭೋಗಿ ತಂದದ್ದು ಭೋಗಿಗೆ"
+qwen3.5-2b,kannada_test,self_explanation,262,1,B,A,0,16.118259,15.758077,16.53487,15.316148,B,1,The meaning of the proverb is:,ಯೋಗ್ಯತೆ ಅರಿಯದ ದೊರೆ ರೋಗ ಅರಿಯದ ವೈದ್ಯ ಒಂದೇ
+qwen3.5-2b,kannada_test,self_explanation,263,1,A,A,1,17.19039,14.813972,16.255692,16.361282,A,1,Here is the explanation in one short sentence:,ಯಾರೂ ಇಲ್ಲದ ಊರಿಗೆ ಹೋಗಿ ನೀರು ಮಜ್ಜಿಗೆ ಬಯಸಿದಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,264,1,B,A,0,17.077785,16.248449,16.857494,16.192179,A,0,Here is the meaning of the proverb in one short sentence:,ಯಾರೂ ಇಲ್ಲದ ಮನೆಗೆ ನಾನು ಜೋಗಪ್ಪ ಅಂದ
+qwen3.5-2b,kannada_test,self_explanation,265,0,A,A,1,17.720263,16.664001,17.278654,17.015823,A,1,The proverb means that the king and the people are bound by the same laws and rules.,ಯಥಾ ರಾಜ ತಥಾ ಪ್ರಜಾ
+qwen3.5-2b,kannada_test,self_explanation,266,1,B,A,0,16.691584,16.098667,16.781036,16.287203,A,0,"ಅಕ್ಕನ್ ಗಂಡನ ಕೂಡೆ ದುಃಖ ಹೇಳಿದ್ರೆ, ಮಕ್ಕಳು ಮರಿಯ ಬುಟ್ಟು ಬಾ ಅಂದ","ಅಕ್ಕನ್ ಗಂಡನ ಕೂಡೆ ದುಃಖ ಹೇಳಿದ್ರೆ, ಮಕ್ಕಳು ಮರಿಯ ಬುಟ್ಟು ಬಾ ಅಂದ"
+qwen3.5-2b,kannada_test,self_explanation,267,1,A,A,1,16.472267,15.229684,15.525697,16.439327,A,1,ಕುಂಬಳ ಕಾಯ ಸಾಕಿ ಹಂಡಿಗೆ ಕೊಟ್ಟಂಗೆ,ಕುಂಬಳ ಕಾಯ ಸಾಕಿ ಹಂಡಿಗೆ ಕೊಟ್ಟಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,268,1,A,A,1,16.933456,14.506474,16.248158,15.937706,A,1,ಸತ್ತ ಮೇಲೆ ಎತ್ತ ಹೋದ್ರೇನ ?,ಸತ್ತ ಮೇಲೆ ಎತ್ತ ಹೋದ್ರೇನ ?
+qwen3.5-2b,kannada_test,self_explanation,269,1,A,A,1,16.096457,14.764465,15.937179,15.462544,A,1,ಸತ್ತ ಕೋಳಿ ಬತ್ತ ಮುಕ್ಕುತದೆ?,ಸತ್ತ ಕೋಳಿ ಬತ್ತ ಮುಕ್ಕುತದೆ?
+qwen3.5-2b,kannada_test,self_explanation,270,1,A,A,1,16.748833,16.021669,16.49552,16.308573,A,1,"The proverb ""ಗೊಲ್ಲರು ಮಠ ಕಟ್ಟಿದಂಗೆ"" (Gollaru Matha kattidanga) means that the people who built the temple were not the ones who were killed, but rather the people who were killed were the ones who built the temple.",ಗೊಲ್ಲರು ಮಠ ಕಟ್ಟಿದಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,271,1,A,A,1,17.236425,15.100195,16.921089,15.554351,A,1,"The proverb ""Gandhu Gundu, Hennu Helavu"" means that a man's wife is like a snake, and a woman's husband is like a snake, implying that both partners are dangerous and potentially harmful to the other.","ಗಂಡು ಗುಂಡು, ಹೆಣ್ಣು ಹೆಳವು"
+qwen3.5-2b,kannada_test,self_explanation,272,1,B,B,1,15.140342,16.33466,17.023794,15.050873,B,1,"The proverb means that a man who is idle and unproductive is considered bad, while a woman who is idle and unproductive is also considered bad.","ಗಂಡಸು ಕೂತು ಕೆಟ್ಟ, ಹೆಂಗಸು ತಿರುಗಿ ಕೆಟ್ಟಳು"
+qwen3.5-2b,kannada_test,self_explanation,273,1,A,A,1,16.979731,15.101409,15.784145,15.801555,A,1,"The proverb means that a man's intelligence is often overshadowed by his physical presence, and conversely, a man's wisdom is frequently overshadowed by his physical presence.","ಗಂಡ ಇದ್ದಾಗ ಬುದ್ಧಿ ಇಲ್ಲ, ಬುದ್ಧಿ ಬಂದಾಗ ಗಂಡ ಇಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,274,1,A,A,1,17.57217,15.898307,16.358654,16.575897,A,1,"ಹರಟೆ ಇಲ್ಲದೆ ಸಂಜೆ ಆಗದು, ಸಂಗತಿ ಇಲ್ಲದೆ ದಾರಿ ಸವೆಯದು","ಹರಟೆ ಇಲ್ಲದೆ ಸಂಜೆ ಆಗದು, ಸಂಗತಿ ಇಲ್ಲದೆ ದಾರಿ ಸವೆಯದು"
+qwen3.5-2b,kannada_test,self_explanation,275,1,A,A,1,16.555183,14.647709,16.161173,15.781199,A,1,ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ,ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ
+qwen3.5-2b,kannada_test,self_explanation,276,1,A,A,1,16.90041,15.420759,17.047188,16.469231,A,1,ಸವಿ ಕಂಡ ಕೋತಿ ಅಟ್ಟ ಹತ್ತಿದಂಗೆ,ಸವಿ ಕಂಡ ಕೋತಿ ಅಟ್ಟ ಹತ್ತಿದಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,277,1,B,A,0,16.984964,14.604202,16.933352,14.797169,A,0,Here is the explanation in one short sentence:,"ಕೊಟ್ಟ ಸಾಲವ ಕೇಳದೆ ಕೆಟ್ಟ, ಬಿತ್ತಿದ ಹೊಲವ ನೋಡದೆ ಕೆಟ್ಟ"
+qwen3.5-2b,kannada_test,self_explanation,278,1,A,A,1,16.516739,14.556857,15.369592,15.525562,A,1,ಕೈಯಾಗೆ ಕನ್ನಡಿ ಇಟ್ಕೊಂಡು ನೀರಾಗೆ ಮುಖ ನೋಡ್ದಂಗೆ,ಕೈಯಾಗೆ ಕನ್ನಡಿ ಇಟ್ಕೊಂಡು ನೀರಾಗೆ ಮುಖ ನೋಡ್ದಂಗೆ
+qwen3.5-2b,kannada_test,self_explanation,279,1,A,A,1,16.559937,14.810178,16.471491,14.557651,B,0,Here is the explanation in one short sentence:,ಕೈಗೆ ಬಂದದ್ದು ಬಾಯಿಗೆ ಇಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,280,1,A,A,1,16.202446,13.780904,15.235284,14.938891,A,1,"ಕುಂಟು ಅತ್ತವಗೆ ಕುಂಟು ಅಳು, ನಿಂತ ಅತ್ತವಗೆ ನಿಂತ ಅಳು","ಕುಂಟು ಅತ್ತವಗೆ ಕುಂಟು ಅಳು, ನಿಂತ ಅತ್ತವಗೆ ನಿಂತ ಅಳು"
+qwen3.5-2b,kannada_test,self_explanation,281,1,B,B,1,15.427348,15.929214,17.234877,14.902711,B,1,"The proverb asks, ""What is the morning for a dog? What is the evening for a dog?"" implying that a dog has no concept of time or the passage of days.",ಕುರುಡನಿಗೆ ಹಗಲೇನು? ಇರುಳೇನು?
+qwen3.5-2b,kannada_test,self_explanation,282,1,B,A,0,15.248061,13.972099,16.729797,13.990518,B,1,The meaning of the proverb is:,ಚಿಕ್ಕವನಾದ್ರು ಶಿವನ ಬುದ್ಧಿ
+qwen3.5-2b,kannada_test,self_explanation,283,1,A,A,1,17.418888,15.860576,16.555847,17.332029,A,1,"The meaning of the proverb is that even if there is a hole in the water, the water level will be higher.",ತೊರೆ ನೀರು ಇದ್ದರೂ ಬಾವಿ ನೀರು ಹೆಚ್ಚು
+qwen3.5-2b,kannada_test,self_explanation,284,1,A,A,1,16.658117,15.564568,16.993145,15.235508,B,0,The meaning of the proverb is that a mother's love and care are so profound and enduring that they cannot be washed away or diluted by the passage of time.,ತಾಯ ಹಳಿದರೂ ನೀರ ಹಳಿಯ ಬೇಡ
+qwen3.5-2b,kannada_test,self_explanation,285,1,B,B,1,15.801852,15.918119,17.009274,14.631606,B,1,ಕಸ ಆದರೂ ರುಚಿ ಮಾಡಿ ತಿನ್ನು,ಕಸ ಆದರೂ ರುಚಿ ಮಾಡಿ ತಿನ್ನು
+qwen3.5-2b,kannada_test,self_explanation,286,1,A,A,1,17.052782,16.078053,16.933685,16.868553,A,1,ಆರು ಕಾಸಿನ ಸಂಬಳ (Six salary),"ಆರು ಕಾಸಿನ ಸಂಬಳ ಆದರೂ, ಅರಮನೆಯ ಕೆಲಸ ಮಾಡು"
+qwen3.5-2b,kannada_test,self_explanation,287,1,A,A,1,16.909613,14.078254,16.10079,14.900646,A,1,Here is the explanation in one short sentence:,"ಮಾತು ಹೆಚ್ಚಿ ಮನೆ ಕೆಟ್ಟಿತು, ಬಿತ್ತು ಹೆಚ್ಚಿ ಹೊಲ ಕೆಟ್ಟಿತು"
+qwen3.5-2b,kannada_test,self_explanation,288,1,B,B,1,16.572182,17.075621,17.053137,15.447449,B,1,"The proverb means that if you do not have a cow, you cannot have a cow, and if you do not have a child, you cannot have a child.","ಎತ್ತು ಇಲ್ಲದವಗೆ ಎದೆ ಇಲ್ಲ, ಮಕ್ಕಳು ಇಲ್ಲದವಗೆ ಮನೆ ಇಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,289,1,A,A,1,16.940529,14.761989,15.784275,15.708617,A,1,ಕೆಟ್ಟೆ ಅಂತ ಕೇಡ ತೂರ ಬೇಡ,ಕೆಟ್ಟೆ ಅಂತ ಕೇಡ ತೂರ ಬೇಡ
+qwen3.5-2b,kannada_test,self_explanation,290,0,A,A,1,17.986206,16.359171,17.854889,16.957245,A,1,"The proverb means ""to look at the ground while walking, implying that one should not be distracted by excessive worry or anxiety.""",ತಲೆ ತಟ್ಟಿ ನೆಲ ನೋಡಿ ನಡೆ
+qwen3.5-2b,kannada_test,self_explanation,291,1,B,A,0,17.439024,16.547878,17.159092,16.208942,B,1,The proverb means that a person's own words are often more persuasive and effective than the arguments or evidence presented by others.,"ತಲೆಯವನ ಮಾತು, ಮುಂದುಕ್ ಉಪ್ಪು ಹಿಂದುಕ್ ಬೆಲ್ಲ"
+qwen3.5-2b,kannada_test,self_explanation,292,0,A,A,1,16.926733,15.149688,15.597097,15.628562,A,1,"ಅಪ್ಪನ ಮಾತು, ಆನೆಯ ಬಲ","ಅಪ್ಪನ ಮಾತು, ಆನೆಯ ಬಲ"
+qwen3.5-2b,kannada_test,self_explanation,293,0,B,B,1,15.274603,16.009964,17.14076,15.194005,B,1,ಅಣ್ಣ ತಮ್ಮನ ಬೇರೆ ಮಾಡ ಬೇಡ,ಅಣ್ಣ ತಮ್ಮನ ಬೇರೆ ಮಾಡ ಬೇಡ
+qwen3.5-2b,kannada_test,self_explanation,294,0,A,A,1,17.317112,16.043322,17.109154,15.982595,A,1,ಆರೋಗ್ಯವೇ ಭಾಗ್ಯ (Arangya ve Bhagya) means that health is considered the greatest blessing or fortune.,ಆರೋಗ್ಯವೇ ಭಾಗ್ಯ
+qwen3.5-2b,kannada_test,self_explanation,295,0,B,B,1,16.154432,17.173159,17.384785,15.963469,B,1,"**""Slow is the key to success""** (or ""Slowness is the key to success"").",ನಿಧಾನವೇ ಪ್ರಧಾನ
+qwen3.5-2b,kannada_test,self_explanation,296,0,A,A,1,17.171576,15.430744,16.318167,16.139637,A,1,ಕಲಿಕೆಗೆ ವಯಸ್ಸಿಲ್ಲ,ಕಲಿಕೆಗೆ ವಯಸ್ಸಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,297,0,B,A,0,16.454731,15.84105,17.372345,15.260577,B,1,ಒಗ್ಗಟ್ಟಿನಲ್ಲಿ ಬಲವಿದೆ,ಒಗ್ಗಟ್ಟಿನಲ್ಲಿ ಬಲವಿದೆ
+qwen3.5-2b,kannada_test,self_explanation,298,0,B,A,0,15.950613,13.797425,16.814909,14.30256,B,1,Here is the explanation:,ಹೇಳುವುದು ಸುಲಭ ಮಾಡುವುದು ಕಷ್ಟ
+qwen3.5-2b,kannada_test,self_explanation,299,0,B,B,1,15.026451,15.84511,16.895039,14.496959,B,1,ಹಲವು ಹನಿ ಕೂಡಿದರೆ ಹಳ್ಳ,ಹಲವು ಹನಿ ಕೂಡಿದರೆ ಹಳ್ಳ
+qwen3.5-2b,kannada_test,self_explanation,300,0,A,A,1,16.280493,13.709264,15.231114,15.165761,A,1,ಬೆಳೆಯುವ ಸಿರಿ ಮೊಳಕೆಯಲ್ಲಿ,ಬೆಳೆಯುವ ಸಿರಿ ಮೊಳಕೆಯಲ್ಲಿ
+qwen3.5-2b,kannada_test,self_explanation,301,0,A,A,1,16.37328,16.03475,17.158083,15.83086,B,0,ಉಪ್ಪಿಗಿಂತ ರುಚಿಯಿಲ್ಲ,ಉಪ್ಪಿಗಿಂತ ರುಚಿಯಿಲ್ಲ
+qwen3.5-2b,kannada_test,self_explanation,302,0,A,A,1,16.620266,14.868907,15.098602,16.058987,A,1,ಓತಿಕ್ಯಾತನಿಗೆ ಬೇಲಿ ಸಾಕ್ಷಿ,ಓತಿಕ್ಯಾತನಿಗೆ ಬೇಲಿ ಸಾಕ್ಷಿ
+qwen3.5-2b,kannada_test,self_explanation,303,1,B,B,1,15.929735,16.712255,17.358179,15.194025,B,1,ಅಂಗೈ ಹುಣ್ಣಿಗೆ ಕನ್ನಡಿ ಬೇಕೆ?,ಅಂಗೈ ಹುಣ್ಣಿಗೆ ಕನ್ನಡಿ ಬೇಕೆ?
+qwen3.5-2b,kannada_test,self_explanation,304,0,A,A,1,16.677481,16.398571,16.038725,15.895082,A,1,ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು,ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು
+qwen3.5-2b,kannada_test,self_explanation,305,1,B,B,1,15.470741,16.584755,17.104681,15.501114,B,1,ಎರಡು ಕೈ ಸೇರಿದರೆ ಚಪ್ಪಾಳೆ,ಎರಡು ಕೈ ಸೇರಿದರೆ ಚಪ್ಪಾಳೆ
+qwen3.5-2b,kannada_test,self_explanation,306,1,B,B,1,15.804317,16.960922,17.46096,15.640625,B,1,"ಆಟಕ್ಕುಂಟು ಲೆಕ್ಕಕ್ಕಿಲ್ಲ means ""There is no calculation for the game.""",ಆಟಕ್ಕುಂಟು ಲೆಕ್ಕಕ್ಕಿಲ್ಲ

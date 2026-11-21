@@ -1,0 +1,306 @@
+model,dataset,condition,row_id,is_figurative,answer_key,pred,correct,score_A,score_B,score_A_swap,score_B_swap,pred_swap,correct_swap,explanation_used,proverb
+random,kannada_test,self_explanation,2,1,A,B,0,0.228709,0.897796,0.483392,0.631236,B,0,dummy explanation,ಮನಸಿದ್ದರೆ ಮಾರ್ಗ
+random,kannada_test,self_explanation,3,1,A,B,0,0.13963,0.300838,0.620508,0.315911,B,0,dummy explanation,ಕೈ ಕೆಸರಾದರೆ ಬಾಯಿ ಮೊಸರು
+random,kannada_test,self_explanation,4,1,B,A,0,0.288593,0.00921,0.86793,0.2985,B,1,dummy explanation,"ಮಾತು ಬೆಳ್ಳಿ, ಮೌನ ಬಂಗಾರ"
+random,kannada_test,self_explanation,5,1,A,B,0,0.135728,0.592804,0.374303,0.618527,B,0,dummy explanation,"ಬೆಳ್ಳಗಿರೋದೆಲ್ಲ ಹಾಲಲ್ಲ, ಹೊಳೆಯೋದೆಲ್ಲ ಚಿನ್ನ ಅಲ್ಲ"
+random,kannada_test,self_explanation,6,1,B,B,1,0.449691,0.922419,0.000285,0.743821,A,0,dummy explanation,"ಗಿಡವಾಗಿ ಬಗ್ಗದ್ದು, ಮರವಾಗಿ ಬಗ್ಗೀತೇ?"
+random,kannada_test,self_explanation,7,1,A,B,0,0.764919,0.910654,0.591604,0.707743,B,0,dummy explanation,ಆಳಾಗಬಲ್ಲವನು ಅರಸನಾಗಬಲ್ಲ
+random,kannada_test,self_explanation,8,0,B,A,0,0.810904,0.305955,0.683747,0.764876,A,0,dummy explanation,ತಾಳಿದವನು ಬಾಳಿಯಾನು
+random,kannada_test,self_explanation,9,1,B,A,0,0.926333,0.047551,0.551726,0.032114,A,0,dummy explanation,ಕೋತಿ ಕೈಗೆ ಮಾಣಿಕ್ಯ ಕೊಟ್ಟ ಹಾಗೆ
+random,kannada_test,self_explanation,10,0,B,B,1,0.590404,0.899063,0.987902,0.730976,B,1,dummy explanation,ವೇದ ಸುಳ್ಳಾದರು ಗಾದೆ ಸುಳ್ಳಾಗದು
+random,kannada_test,self_explanation,11,1,A,B,0,0.648336,0.794749,0.865338,0.335302,B,0,dummy explanation,ಹಾಸಿಗೆ ಇದ್ದಷ್ಟು ಕಾಲು ಚಾಚು
+random,kannada_test,self_explanation,12,0,B,A,0,0.459384,0.032105,0.982091,0.02431,B,1,dummy explanation,ಮಾಡಿದುಣ್ಣೋ ಮಹರಾಯ
+random,kannada_test,self_explanation,13,0,A,B,0,0.184981,0.906839,0.546835,0.080739,B,0,dummy explanation,ಅತಿ ಆಸೆ ಗತಿ ಕೇಡು
+random,kannada_test,self_explanation,14,1,B,A,0,0.979104,0.753842,0.660768,0.289271,B,1,dummy explanation,ನಾಯಿ ಬಾಲ ಡೊಂಕು
+random,kannada_test,self_explanation,15,1,A,B,0,0.105023,0.206532,0.664838,0.0264,B,0,dummy explanation,ಒಂದು ಕಣ್ಣೀಗೆ ಬೆಣ್ಣೆ ಮತ್ತೊಂದು ಕಣ್ಣಿಗೆ ಸುಣ್ಣ
+random,kannada_test,self_explanation,16,1,B,B,1,0.571976,0.745844,0.699958,0.548896,B,1,dummy explanation,ಹುಟ್ಟು ಗುಣ ಸುಟ್ಟರು ಹೋಗಲ್ಲ
+random,kannada_test,self_explanation,17,1,B,B,1,0.252788,0.27775,0.481027,0.341751,B,1,dummy explanation,ವಿನಾಶ ಕಾಲಕ್ಕೆ ವಿಪರೀತ ಬುದ್ಧಿ
+random,kannada_test,self_explanation,18,0,A,A,1,0.873856,0.422259,0.620277,0.737425,A,1,dummy explanation,"ದೇಶ ಸುತ್ತಿ ನೋಡು, ಕೋಶ ಓದಿ ನೋಡು"
+random,kannada_test,self_explanation,19,1,A,A,1,0.881811,0.735901,0.855321,0.811473,A,1,dummy explanation,ಬೀದಿಯಲ್ಲಿ ಹೋಗುವ ಮಾರಿಯನ್ನು ಮನೆಗೆ ಕರೆದಂಗೆ
+random,kannada_test,self_explanation,20,0,A,A,1,0.5883,0.034006,0.835051,0.740253,A,1,dummy explanation,ಉಪ್ಪು ತಿಂದ ಮೇಲೆ ನೀರು ಕುಡಿಯಲೇಬೇಕು
+random,kannada_test,self_explanation,21,1,A,B,0,0.939666,0.989712,0.946403,0.287604,B,0,dummy explanation,ಯಾರದೋ ದುಡ್ಡಿನಲ್ಲಿ ಎಲ್ಲಮ್ಮನ ಜಾತ್ರೆ
+random,kannada_test,self_explanation,22,0,A,A,1,0.876413,0.738221,0.211089,0.24676,A,1,dummy explanation,ಆಗುವುದೆಲ್ಲ ಒಳ್ಳೆಯದಕ್ಕೆ
+random,kannada_test,self_explanation,23,0,A,B,0,0.119305,0.603751,0.429409,0.616719,B,0,dummy explanation,"ಕಾಲಕ್ಕೆ ತಕ್ಕಂತೆ ನಡಿಬೇಕು, ತಾಳಕ್ಕೆ ತಕ್ಕಂತೆ ಕುಣಿಯಬೇಕು"
+random,kannada_test,self_explanation,24,1,B,B,1,0.047509,0.124793,0.484373,0.18853,B,1,dummy explanation,ಅನ್ನ ಹಾಕಿದ ಮನೆಗೆ ಕನ್ನ ಹಾಕಬೇಡ
+random,kannada_test,self_explanation,25,1,A,A,1,0.915562,0.547893,0.863543,0.005508,B,0,dummy explanation,"ಮಾರಿ ಕಣ್ಣು ಹೋರಿ ಮೇಲೆ, ಕಟಕನ ಕಣ್ಣು ಕುರಿ ಮೇಲೆ"
+random,kannada_test,self_explanation,26,1,A,A,1,0.469701,0.042723,0.892862,0.576341,A,1,dummy explanation,ಪಾಲಿಗೆ ಬಂದದ್ದು ಪರಮಾನ್ನ
+random,kannada_test,self_explanation,27,1,B,B,1,0.07457,0.158105,0.971478,0.50816,B,1,dummy explanation,ಸಾವಿರ ಸುಳ್ಳು ಹೇಳಿ ಒಂದು ಮದುವೆ ಮಾಡು
+random,kannada_test,self_explanation,28,1,B,B,1,0.171143,0.419539,0.627312,0.497496,B,1,dummy explanation,ಕಳ್ಳನನ್ನು ನಂಬಿದರೂ ಕುಳ್ಳನನ್ನು ನಂಬಬೇಡ
+random,kannada_test,self_explanation,29,1,B,A,0,0.576369,0.369564,0.699111,0.698307,A,0,dummy explanation,ನೆಲಕ್ಕೆ ಬಿದ್ದರೂ ಮೀಸೆ ಮಣ್ಣಾಗಿಲ್ಲ
+random,kannada_test,self_explanation,30,1,A,A,1,0.423744,0.178426,0.65652,0.683671,A,1,dummy explanation,ಯಾವ ಹುತ್ತದಲ್ಲಿ ಯಾವ ಹಾವಿರುತ್ತೋ
+random,kannada_test,self_explanation,31,1,A,A,1,0.413909,0.265485,0.638839,0.921811,A,1,dummy explanation,ದೇವರಿಗೆ ಒಲಿದರೂ ಪೂಜಾರಿ ಒಲಿಯಲ್ಲ
+random,kannada_test,self_explanation,32,1,A,B,0,0.304175,0.728469,0.654094,0.917162,B,0,dummy explanation,ನಮ್ಮ ದೇವರ ಸತ್ಯ ನಮಗೆ ಗೊತ್ತು
+random,kannada_test,self_explanation,33,1,B,A,0,0.312877,0.264766,0.319095,0.403595,A,0,dummy explanation,ಹಾಗಲಕಾಯಿಗೆ ಬೇವಿನಕಾಯಿ ಸಾಕ್ಷಿ
+random,kannada_test,self_explanation,34,1,B,B,1,0.059225,0.962105,0.259618,0.549583,B,1,dummy explanation,ಕೈಗೆ ಬಂದ ತುತ್ತು ಬಾಯಿಗೆ ಬರಲಿಲ್ಲ
+random,kannada_test,self_explanation,35,1,A,B,0,0.368191,0.677291,0.419155,0.953659,A,1,dummy explanation,ರೋಗಿ ಬಯಸಿದ್ದು ಹಾಲು ಅನ್ನ ವೈದ್ಯ ಹೇಳಿದ್ದು ಹಾಲು ಅನ್ನ
+random,kannada_test,self_explanation,36,1,A,B,0,0.19641,0.669661,0.086154,0.535771,B,0,dummy explanation,ಕಳ್ಳನಿಗೊಂದು ಪಿಳ್ಳೆ ನೆವ
+random,kannada_test,self_explanation,37,1,A,B,0,0.039639,0.575833,0.198128,0.466666,B,0,dummy explanation,ಕುಣಿಯಲಾರದವಳು ನೆಲ ಡೊಂಕು ಅಂದಳಂತೆ
+random,kannada_test,self_explanation,38,1,B,A,0,0.875427,0.815267,0.919753,0.0561,B,1,dummy explanation,ಹೋದ ಪುಟ್ಟ ಬಂದ ಪುಟ್ಟ
+random,kannada_test,self_explanation,39,1,B,B,1,0.211334,0.821606,0.49361,0.319225,B,1,dummy explanation,ಶಿವಪೂಜೆಯಲ್ಲಿ ಕರಡಿ ಬಿಟ್ಟಂಗೆ
+random,kannada_test,self_explanation,40,1,B,A,0,0.391827,0.110919,0.694976,0.636765,A,0,dummy explanation,ಕುಂಬಳಕಾಯಿ ಕಳ್ಳ ಅಂದರೆ ಹೆಗಲು ಮುಟ್ಟಿ ನೋಡಿಕೊಂಡ
+random,kannada_test,self_explanation,41,1,B,A,0,0.627523,0.233397,0.510735,0.356686,A,0,dummy explanation,ಮಲ್ಲಿ ಮಲ್ಲಿ ಮಂಚಕ್ಕೆ ಎಷ್ಟು ಕಾಲೂ ಅಂದರೆ ಮೂರು ಮತ್ತೊಂದು ಅಂದ್ಲಂತೆ
+random,kannada_test,self_explanation,42,1,B,B,1,0.244692,0.301094,0.597979,0.138186,B,1,dummy explanation,ಕಳ್ಳನ ಮನಸ್ಸು ಹುಳ್ಳು ಹುಳ್ಳಗೆ
+random,kannada_test,self_explanation,43,1,B,B,1,0.041748,0.234826,0.904631,0.509638,B,1,dummy explanation,ಬೀಸೋ ದೊಣ್ಣೆ ತಪ್ಪಿದರೆ ನೂರು ವರ್ಷ ಆಯುಷ್ಯ
+random,kannada_test,self_explanation,44,1,A,A,1,0.739615,0.164733,0.614375,0.672264,A,1,dummy explanation,"ನಾರಿ ಒಲಿದರೆ ನಾರಿ, ಮುನಿದರೆ ಮಾರಿ"
+random,kannada_test,self_explanation,45,1,B,A,0,0.994603,0.722637,0.816473,0.018909,B,1,dummy explanation,ಎತ್ತು ಏರಿಗೆಳೆದರೆ ಕೋಣ ನೀರಿಗೆಳೆಯಿತು
+random,kannada_test,self_explanation,46,1,A,A,1,0.882974,0.350631,0.641514,0.980126,A,1,dummy explanation,"ಮುತ್ತು ಕೊಡುವವಳು ಬಂದಳು ಅಂತ, ತುತ್ತು ಕೊಟ್ಟವಳನ್ನು ಮರೆಯಬಾರದು"
+random,kannada_test,self_explanation,47,1,A,B,0,0.08207,0.812808,0.666826,0.358143,B,0,dummy explanation,ಸಿಂಧಘಟ್ಟದ ದೇವರು ಹಿಂದ್ ಮುಂದ್ ಆಡ
+random,kannada_test,self_explanation,48,1,A,A,1,0.941348,0.465035,0.296245,0.707786,A,1,dummy explanation,ಗೋಕುಲಾಷ್ಟಮಿಗೂ ಇಮಾಮ್ ಸಾಬಿಗೂ ಏನ್ ಸಂಬಂಧ
+random,kannada_test,self_explanation,49,0,B,B,1,0.311386,0.4405,0.862934,0.12282,B,1,dummy explanation,ಇಂದು ಆಳಾಗಿ ಬದುಕುವವನೇ ಮುಂದೆ ಅರಸಾಗುವ
+random,kannada_test,self_explanation,50,1,A,B,0,0.438,0.852463,0.895986,0.565461,B,0,dummy explanation,ಎಲ್ಲರ ಮನೆ ದೋಸೆ ತೂತು
+random,kannada_test,self_explanation,51,1,B,B,1,0.66205,0.811235,0.591688,0.791653,A,0,dummy explanation,ಅಳಿಯ ಅಲ್ಲ ಮಗಳ ಗಂಡ
+random,kannada_test,self_explanation,52,1,A,B,0,0.478267,0.686987,0.236426,0.741937,A,1,dummy explanation,"ಆಡಿದರೆ ಅರಗಿಣಿ, ಕಾಡಿದರೆ ನಾಗರಕಾಟ"
+random,kannada_test,self_explanation,53,1,B,B,1,0.395136,0.552668,0.908135,0.928011,B,1,dummy explanation,"ಅಳುವ ಗಂಡಸನ್ನು, ನಗುವ ಹೆಂಗಸನ್ನು ನಂಬಬಾರದು"
+random,kannada_test,self_explanation,54,1,A,A,1,0.439148,0.15933,0.309743,0.649883,A,1,dummy explanation,ಅಯ್ಯೋ ಪಾಪ ಅಂದರೆ ಅರ್ಧ ಆಯುಷ್ಯ
+random,kannada_test,self_explanation,55,1,B,A,0,0.824934,0.2867,0.916898,0.230809,B,1,dummy explanation,ಆಡುವವ ಆಡಿದರೆ ನೋಡುವವನಿಗೆ ಸಿಗ್ಗು
+random,kannada_test,self_explanation,56,1,A,B,0,0.02456,0.233291,0.958729,0.725326,B,0,dummy explanation,ಅಂಜಿರುವವನ ಮೇಲೆ ಕಪ್ಪೆ ಹಾರಿದಂಗೆ
+random,kannada_test,self_explanation,57,1,A,B,0,0.854964,0.996774,0.264682,0.882998,A,1,dummy explanation,ಅಲ್ಲದ ಕನಸು ಕಂಡರೆ ಎದ್ದು ಕುಂಡ್ರು
+random,kannada_test,self_explanation,58,1,B,B,1,0.061447,0.471199,0.142622,0.215769,B,1,dummy explanation,ಅಡ್ಡ ಗೋಡೆಯ ಮೇಲೆ ದೀಪ ಇಟ್ಟ ಹಾಗೆ
+random,kannada_test,self_explanation,59,1,B,A,0,0.89654,0.034831,0.739037,0.123736,A,0,dummy explanation,"ಆರು ಕೊಟ್ಟರೆ ಅತ್ತೆ ಕಡೆ, ಮೂರು ಕೊಟ್ಟರೆ ಸೊಸೆ ಕಡೆ"
+random,kannada_test,self_explanation,60,1,B,B,1,0.261291,0.777315,0.7062,0.186415,B,1,dummy explanation,ಅಡಿಕೆಗೆ ಹೋದ ಮಾನ ಆನೆ ಕೊಟ್ಟರೂ ಬಾರದು
+random,kannada_test,self_explanation,61,0,A,B,0,0.465526,0.562609,0.051479,0.66357,A,1,dummy explanation,"ಅಜ್ಜಿಗೆ ಅರಿವೆ ಚಿಂತೆ, ಮಗಳಿಗೆ ಮದುವೆ ಚಿಂತೆ"
+random,kannada_test,self_explanation,62,0,B,A,0,0.484857,0.289522,0.391761,0.315075,A,0,dummy explanation,"ಅಕ್ಕಿ ಮೇಲೆ ಆಸೆ, ನೆಂಟರ ಮೇಲೆ ಪ್ರೀತಿ"
+random,kannada_test,self_explanation,63,1,B,A,0,0.934946,0.420124,0.119575,0.737312,A,0,dummy explanation,ಅಂಬಲಿ ಕುಡಿಯುವವನಿಗೆ ಮೀಸೆ ತಿದ್ದುವನೊಬ್ಬ
+random,kannada_test,self_explanation,64,1,B,B,1,0.375642,0.861066,0.909379,0.944886,B,1,dummy explanation,ಅಂತು ಇಂತು ಕುಂತಿ ಮಕ್ಕಳಿಗಿಲ್ಲ ಎಂಟು ರಾಜ್ಯ
+random,kannada_test,self_explanation,65,1,B,A,0,0.809571,0.425985,0.2909,0.525089,A,0,dummy explanation,"ಅತ್ತೆಗೊಂದು ಕಾಲ, ಸೊಸೆಗೊಂದು ಕಾಲ"
+random,kannada_test,self_explanation,66,0,B,B,1,0.531201,0.676857,0.282983,0.041168,B,1,dummy explanation,ಆಸೆಯೇ ದುಃಖಕ್ಕೆ ಮೂಲ
+random,kannada_test,self_explanation,67,1,B,A,0,0.79997,0.07921,0.781489,0.026971,B,1,dummy explanation,ಆಳ್ ಮೇಲ್ ಆಳ್ ಬಿದ್ದು ಗೋಣು ಬರಿದಾಯ್ತು
+random,kannada_test,self_explanation,68,0,A,A,1,0.570526,0.082673,0.889313,0.402592,A,1,dummy explanation,ಅರಿಯದೆ ಮಾಡಿದ ಪಾಪ ಅರಿದಂತು ಪರಿಹಾರ
+random,kannada_test,self_explanation,69,1,A,A,1,0.594888,0.366232,0.771143,0.592479,A,1,dummy explanation,ಅಕ್ಕರೆಯಿದ್ದಲ್ಲಿ ದುಃಖವುಂಟು
+random,kannada_test,self_explanation,70,1,A,A,1,0.133098,0.108582,0.275619,0.807457,A,1,dummy explanation,ಅಕ್ಕನ ಚಿನ್ನವಾದರೂ ಅಕ್ಕಸಾಲಿಗ ಕದಿಯದೆ ಬಿಡಾ
+random,kannada_test,self_explanation,71,1,A,B,0,0.091977,0.617625,0.019815,0.580649,A,1,dummy explanation,ಐಕಟ್ಟು ಇಲ್ಲದವನಿಗೆ ಆರು ಕಟ್ಟು ವಿಭೂತಿ
+random,kannada_test,self_explanation,72,1,A,B,0,0.456116,0.721196,0.82457,0.650257,B,0,dummy explanation,ಬಯಸಿ ಬಯಸಿ ಮದುವೆಯಾದ್ರೆ ಬಡಿಯೋ ಗಂಡ ಸಿಕ್ಕಿದ
+random,kannada_test,self_explanation,73,1,B,B,1,0.475035,0.717308,0.563023,0.34968,B,1,dummy explanation,ಬೇಲಿಯೇ ಎದ್ದು ಹೊಲ ಮೇಯ್ದ ಹಾಗೆ
+random,kannada_test,self_explanation,74,1,A,B,0,0.713592,0.809432,0.476518,0.547773,B,0,dummy explanation,ಭಂಗಿ ದೇವರಿಗೆ ಹೆಂಡ ಕುಡುಕ ಪೂಜಾರಿ
+random,kannada_test,self_explanation,75,0,A,A,1,0.966575,0.419992,0.907547,0.734626,A,1,dummy explanation,ಬಯಕೆಗೆ ಬಡವರಿಲ್ಲ
+random,kannada_test,self_explanation,76,1,B,A,0,0.889539,0.519358,0.292473,0.2513,A,0,dummy explanation,ಚೇಳಿಗೆ ಪಾರುಪತ್ಯ ಕೊಟ್ಟ ಹಾಗೆ
+random,kannada_test,self_explanation,77,1,B,B,1,0.143093,0.254814,0.68343,0.760864,B,1,dummy explanation,ಚಿಂತೆ ಇಲ್ಲದವನಿಗೆ ಸಂತೆಯಲ್ಲೂ ನಿದ್ರೆ
+random,kannada_test,self_explanation,78,0,A,B,0,0.482935,0.638237,0.150509,0.73698,A,1,dummy explanation,ದಾನಕ್ಕಿಂತ ನಿಧಾನ ದೊಡ್ಡದು
+random,kannada_test,self_explanation,79,0,B,A,0,0.303391,0.184695,0.839342,0.810411,A,0,dummy explanation,ದಿಕ್ಕು ದಿಕ್ಕಿಗೆ ಹೋದರೂ ದುಃಖ ತಪ್ಪದು
+random,kannada_test,self_explanation,80,0,B,B,1,0.155741,0.694652,0.561555,0.790511,B,1,dummy explanation,ದುಡ್ಡೇ ದೊಡ್ಡಪ್ಪ
+random,kannada_test,self_explanation,81,1,A,A,1,0.82461,0.816601,0.132437,0.0293,B,0,dummy explanation,ದೇವರು ವರ ಕೊಟ್ಟರೂ ಪೂಜಾರಿ ವರ ಕೊಡ
+random,kannada_test,self_explanation,82,1,A,B,0,0.768898,0.79982,0.479987,0.192539,B,0,dummy explanation,ದೂರದ ಬೆಟ್ಟ ಕಣ್ಣಿಗೆ ನುಣ್ಣಗೆ
+random,kannada_test,self_explanation,83,1,A,B,0,0.038188,0.781894,0.169812,0.992321,A,1,dummy explanation,ಧರ್ಮಕ್ಕೆ ದತ್ತಿ ಕೊಟ್ಟರೆ ಹಿತ್ತಲಿಗೆ ಹೋಗಿ ಮೊಳ ಹಾಕಿದರು
+random,kannada_test,self_explanation,84,0,B,B,1,0.700765,0.834421,0.009825,0.582893,A,0,dummy explanation,"ಎಲ್ಲರೂ ಮಾಡುವುದು ಹೊಟ್ಟೆಗಾಗಿ, ಗೇಣು ಬಟ್ಟೆಗಾಗಿ"
+random,kannada_test,self_explanation,85,1,B,A,0,0.523623,0.017906,0.233567,0.159598,A,0,dummy explanation,ಎಲ್ಲಾ ಬೆಳಕು ಬೆಳಕಲ್ಲ ಸತ್ಯದ ನುಡಿಯೇ ಬೆಳಕು
+random,kannada_test,self_explanation,86,1,B,A,0,0.997233,0.562057,0.269887,0.399447,A,0,dummy explanation,ಎಡದ ನೆತ್ತಿಗೆ ಬಡಿದರೆ ಬಲದ ನೆತ್ತಿಗೆ ತಾಕಿತು
+random,kannada_test,self_explanation,87,1,A,A,1,0.660369,0.27475,0.5292,0.919285,A,1,dummy explanation,ಎಡವಿದ ಕಾಲು ಎಡವುದು ಹೆಚ್ಚು
+random,kannada_test,self_explanation,88,1,A,A,1,0.861983,0.55397,0.707942,0.244247,B,0,dummy explanation,ಎಂಟು ವರ್ಷಕ್ಕೆ ನನ್ನ ಮಗ ದಂಟಾದ
+random,kannada_test,self_explanation,89,1,B,B,1,0.275055,0.612899,0.214457,0.717051,A,0,dummy explanation,ಎಂತೆಂಥ ದೇವರಿಗೆ ಅಂತರಾಟ ಆಗಿರುವಾಗ ಕಾಲುಮುರುಕ ದೇವರಿಗೆ ಕೈಲಾಸವೇ!
+random,kannada_test,self_explanation,90,1,A,A,1,0.139092,0.098379,0.051364,0.537034,A,1,dummy explanation,ಎಲ್ಲಾ ಬಣ್ಣ ಮಸಿ ನುಂಗಿತು
+random,kannada_test,self_explanation,91,1,B,A,0,0.875054,0.280898,0.038076,0.043037,A,0,dummy explanation,ಎಲ್ಲರೂ ಪಾಲಕಿಯಲ್ಲಿ ಕುತರೆ ಹೊರೋರು ಯಾರು
+random,kannada_test,self_explanation,92,1,B,A,0,0.518568,0.248288,0.228465,0.05593,A,0,dummy explanation,ಎರಡು ಕೈ ತಟ್ಟಿದರೆ ಸದ್ದು
+random,kannada_test,self_explanation,93,1,B,B,1,0.359319,0.75624,0.259386,0.942217,A,0,dummy explanation,ಎರಡು ದಾಸರ ನಂಬಿ ಕುರುಡು ದಾಸ ಕೆಟ್ಟ
+random,kannada_test,self_explanation,94,1,B,B,1,0.444968,0.551116,0.549152,0.554702,B,1,dummy explanation,ಏರಿದವ ಇಳಿದಾನು
+random,kannada_test,self_explanation,95,0,A,A,1,0.906261,0.521098,0.47725,0.871594,A,1,dummy explanation,ಗಂಡ ಹೆಂಡಿರ ಜಗಳ ಉಂಡು ಮಲಗುವ ತನಕ
+random,kannada_test,self_explanation,96,1,A,A,1,0.575298,0.298824,0.055008,0.567011,A,1,dummy explanation,ಗೆದ್ದೆತ್ತಿನ ಬಾಲ ಹಿಡಿದ ಹಾಗೆ
+random,kannada_test,self_explanation,97,1,A,A,1,0.708949,0.357705,0.519482,0.523673,A,1,dummy explanation,ಗುಬ್ಬಿ ಮೇಲೆ ಬ್ರಹ್ಮಾಸ್ತ್ರವೇ?
+random,kannada_test,self_explanation,98,1,B,A,0,0.985163,0.829857,0.97888,0.126407,B,1,dummy explanation,"ಗಾಳಿ ಬಂದಾಗ ತೂರಿಕೋ, ಧಾರಣೆ ಬಂದಾಗ ಮಾರಿಕೋ"
+random,kannada_test,self_explanation,99,1,B,A,0,0.188049,0.145839,0.347325,0.770016,A,0,dummy explanation,"ಗವುಜಿ ಗದ್ದಲ ಏನೂ ಇಲ್ಲ, ಗೋವಿಂದ ಭಟ್ಟ ಬಾವಿಯಲ್ಲಿ ಬಿದ್ದ"
+random,kannada_test,self_explanation,100,1,B,B,1,0.10286,0.967193,0.753821,0.752496,B,1,dummy explanation,ಹೆಸರಿಗೆ ಹೆಂಡತಿ ಕಾಣೆ ಮಗನ ಹೆಸರು ನಂಜುಂಡ
+random,kannada_test,self_explanation,101,1,B,A,0,0.208351,0.040649,0.86137,0.88194,A,0,dummy explanation,ಹೋದ್ಯಾ ಪಿಶಾಚಿ ಅಂದರೆ ಬಂದೆ ಗವಾಕ್ಷಿಲಿ ಅಂತಂತೆ
+random,kannada_test,self_explanation,102,1,A,A,1,0.432474,0.246814,0.815162,0.10296,B,0,dummy explanation,ಹಾಳೂರಿನಲ್ಲಿ ಉಳಿದವನೇ ಗೌಡ
+random,kannada_test,self_explanation,103,1,B,B,1,0.052606,0.479648,0.609293,0.268246,B,1,dummy explanation,ಹನಿ ಹನಿಗೂಡಿದರೆ ಹಳ್ಳ ತೆನೆಗೂಡಿದರೆ ಬತ್ತ
+random,kannada_test,self_explanation,104,1,B,B,1,0.400194,0.962752,0.070601,0.227778,B,1,dummy explanation,ಹಾಡಿದ್ದೆ ಹಾಡೋ ಕಿಸುಬಾಯಿ ದಾಸ
+random,kannada_test,self_explanation,105,1,B,B,1,0.236117,0.416885,0.655898,0.28161,B,1,dummy explanation,"ಹೆತ್ತವರಿಗೆ ಹೆಗ್ಗಣ ಮುದ್ದು, ಕೂಡಿದವರಿಗೆ ಕೋಡಗ ಮುದ್ದು"
+random,kannada_test,self_explanation,106,1,A,A,1,0.301092,0.056261,0.398416,0.032317,B,0,dummy explanation,ಹಿರಿಯಣ್ಣನ ಚಾಳಿ ಮನೆ ಮಂದಿಗೆಲ್ಲಾ
+random,kannada_test,self_explanation,107,1,A,A,1,0.805664,0.441305,0.195096,0.064918,A,1,dummy explanation,ಹಿತ್ತಲ ಗಿಡ ಮದ್ದಲ್ಲ
+random,kannada_test,self_explanation,108,1,A,B,0,0.443427,0.757551,0.999398,0.868005,B,0,dummy explanation,ಹೊಳೆ ನೀರಿಗೆ ದೊಣ್ಣೆ ನಾಯಕನ ಅಪ್ಪಣೆ ಯಾಕೆ?
+random,kannada_test,self_explanation,109,1,B,A,0,0.554095,0.519954,0.889936,0.563021,B,1,dummy explanation,ಹೊಸತರಲ್ಲಿ ಅಗಸ ಗೋಣಿ ಎತ್ತಿ ಎತ್ತಿ ಒಗೆದ
+random,kannada_test,self_explanation,110,1,A,B,0,0.000876,0.537331,0.76913,0.619228,B,0,dummy explanation,ಹೊಸ ವೈದ್ಯನಿಗಿಂತ ಹಳೆ ರೋಗಿಯೇ ಮೇಲು
+random,kannada_test,self_explanation,111,1,A,A,1,0.655417,0.511508,0.559713,0.1298,B,0,dummy explanation,ಹೊಟ್ಟೆಗೆ ಹಿಟ್ಟಿಲ್ಲ ಜುಟ್ಟಿಗೆ ಮಲ್ಲಿಗೆ ಹೂವು
+random,kannada_test,self_explanation,112,1,A,A,1,0.58618,0.240269,0.213266,0.730063,A,1,dummy explanation,ಹುಟ್ಟಿಸಿದ ದೇವರು ಹುಲ್ಲು ಮೇಯಿಸುತ್ತಾನೆ
+random,kannada_test,self_explanation,113,1,B,B,1,0.489654,0.505786,0.31258,0.108528,B,1,dummy explanation,ಹುಚ್ಚು ಮುಂಡೆ ಮದುವೆಯಲ್ಲಿ ಉಂಡವನೇ ಜಾಣ
+random,kannada_test,self_explanation,114,1,A,A,1,0.952214,0.536266,0.93678,0.521077,A,1,dummy explanation,ಹೂವಿನ ಜೊತೆ ನಾರು ಸ್ವರ್ಗ ಸೇರಿತು
+random,kannada_test,self_explanation,115,1,B,A,0,0.609544,0.358203,0.677532,0.041843,B,1,dummy explanation,"ಹಬ್ಬ ಹಸನಾಗಲಿ, ಗೋಡಿ ಜತನಾಗಲಿ, ಬಂದ ಬೀಗರು ಉಂಡು ಹೋಗಲಿ"
+random,kannada_test,self_explanation,116,0,B,A,0,0.471394,0.470785,0.54007,0.724509,A,0,dummy explanation,"ಇರುಳು ಚಿಂತೆ ನಿದ್ರೆಗೇಡು, ಹಗಲು ಚಿಂತೆ ಕೆಲಸಗೇಡು"
+random,kannada_test,self_explanation,117,1,B,A,0,0.317432,0.257152,0.966016,0.093583,B,1,dummy explanation,ಇದ್ದದ್ದು ಇದ್ದ ಹಾಗೆ ಹೇಳಿದರೆ ಸಿದ್ದಪ್ಪನಿಗೆ ಸಿಡಿಲು ಹೊಡೆಯಿತು
+random,kannada_test,self_explanation,118,1,B,A,0,0.636881,0.61466,0.244609,0.704621,A,0,dummy explanation,ಇರುಳು ಕಂಡ ಬಾವಿಯಲ್ಲಿ ಹಗಲು ಬಿದ್ದ ಹಾಗೆ
+random,kannada_test,self_explanation,119,1,A,A,1,0.615685,0.609975,0.682323,0.44644,B,0,dummy explanation,ಇಡಿ ಮುಳುಗಿದರೂ ಮೂಗು ಮೇಲೆ
+random,kannada_test,self_explanation,120,1,B,B,1,0.16136,0.427762,0.393239,0.861065,A,0,dummy explanation,ಇಟ್ಟುಕೊಂಡಾಕಿ ಇರುತ್ತಾನಾ ಕಟ್ಟಿಕೊಂಡಾಕಿ ಕಡಿತಾನಾ
+random,kannada_test,self_explanation,121,1,A,A,1,0.966574,0.490034,0.344863,0.717619,A,1,dummy explanation,"ಇದ್ದ ಊರ ಸುದ್ದಿ ಇದ್ದಲ್ಲಿ ತೆಗೆಯಬಾರದು, ಹೋದ ಊರ ಸುದ್ದಿ ಹೋದಲ್ಲಿ ತೆಗೆಯಬಾರದು."
+random,kannada_test,self_explanation,122,1,A,B,0,0.397344,0.667355,0.020938,0.28777,B,0,dummy explanation,ಇದ್ದದ್ದು ಹೇಳಿದರೆ ಹದ್ದಿನಂತೆ ಮೊರೆ ಆಯಿತು
+random,kannada_test,self_explanation,123,1,A,B,0,0.377766,0.776969,0.653251,0.071198,B,0,dummy explanation,ಇದ್ದದ್ದು ಹೋಯಿತು ಮದ್ದಿನ ಗುಣದಿಂದ
+random,kannada_test,self_explanation,124,1,A,B,0,0.365621,0.792444,0.703695,0.059952,B,0,dummy explanation,ಇದ್ದಲ್ಲಿ ಗೌಡ ಹೋದಲ್ಲಿ ಕಿವುಡ
+random,kannada_test,self_explanation,125,1,A,B,0,0.357963,0.587145,0.852726,0.329843,B,0,dummy explanation,"ಇಕ್ಕೇರಿ ತನಕ ಬಳಗ, ಮಾನ ಮುಚ್ಚಲಿಕ್ಕೆ ಅರಿವೆ ಇಲ್ಲ"
+random,kannada_test,self_explanation,126,1,B,B,1,0.136246,0.467125,0.550586,0.949542,A,0,dummy explanation,"ಇಲಿ ಹೆಚ್ಚಿದವೆಂದು, ಮನೆಗೆ ಉರಿ ಇಡಬಾರದು"
+random,kannada_test,self_explanation,127,1,B,B,1,0.215037,0.500985,0.243714,0.48666,B,1,dummy explanation,ಇಲಿಯ ವ್ಯಾಜ್ಯಕ್ಕೆ ಬೆಕ್ಕು ಸಾಕ್ಷಿ
+random,kannada_test,self_explanation,128,1,B,A,0,0.869351,0.819936,0.906435,0.085843,B,1,dummy explanation,ಇಲಿಯಾಗಿ ನೂರು ದಿನ ಬಾಳುವುದಕ್ಕಿಂತ ಹುಲಿಯಾಗಿ ಮೂರು ದಿನ ಬಾಳುವುದು ಲೇಸು
+random,kannada_test,self_explanation,129,1,B,B,1,0.757427,0.863471,0.88766,0.589601,B,1,dummy explanation,ಇತ್ತಿತ್ತಾ ಬಾ ಅಂದ್ರೆ ಇದ್ದ ಮನೆಯೂ ಕಿತ್ತುಕೊಂಡ
+random,kannada_test,self_explanation,130,0,A,A,1,0.974276,0.320881,0.729408,0.296353,A,1,dummy explanation,ಜಟ್ಟಿ ಬಿದ್ದರೂ ಮೀಸೆ ಮಣ್ಣಾಗಲಿಲ್ಲ
+random,kannada_test,self_explanation,131,1,B,B,1,0.308371,0.811454,0.958933,0.60533,B,1,dummy explanation,ಜನ ಮರುಳೋ ಜಾತ್ರೆ ಮರುಳೋ
+random,kannada_test,self_explanation,132,0,A,A,1,0.730604,0.193178,0.141836,0.421061,A,1,dummy explanation,ಕಾಸಿದ್ರೆ ಕೈಲಾಸ ಇಲ್ಲದಿದ್ದರೆ ವನವಾಸ
+random,kannada_test,self_explanation,133,0,B,A,0,0.825922,0.797736,0.573399,0.903663,A,0,dummy explanation,ಕಷ್ಟ - ಸುಖ ಜೀವನದ ಎರಡು ಮುಖ
+random,kannada_test,self_explanation,134,1,A,B,0,0.114552,0.117071,0.53154,0.159352,B,0,dummy explanation,ಕೈಯಲ್ಲೇ ಆಗದವನು ಕೊಮ್ಮೆ ಮರಕ್ಕೆ ಗುತ್ತೆಗೆ ತಗೊಂಡ
+random,kannada_test,self_explanation,135,1,A,A,1,0.714511,0.434165,0.208575,0.153655,A,1,dummy explanation,ಕೊಂದ ಪಾಪ ತಿಂದು ಪರಿಹಾರ
+random,kannada_test,self_explanation,136,1,B,B,1,0.259824,0.84458,0.815698,0.858049,B,1,dummy explanation,ಕನ್ನಡಿಯೊಳಗಿನ ಗಂಟಿಗಿಂತ ಕೈಯೊಳಗಿನ ದಂಟೇ ಮೇಲು
+random,kannada_test,self_explanation,137,0,B,A,0,0.884943,0.734215,0.069421,0.856395,A,0,dummy explanation,ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು
+random,kannada_test,self_explanation,138,1,B,A,0,0.638311,0.138168,0.446327,0.285902,A,0,dummy explanation,ಕೀಲು ಸಣ್ಣದಾದರೂ ಗಾಳಿ ನಡೆಸುತ್ತದೆ
+random,kannada_test,self_explanation,139,1,B,A,0,0.698643,0.45291,0.214729,0.170597,A,0,dummy explanation,ಕೀರ್ತಿಯೇ ಕೈಲಾಸ ಅಪಕೀರ್ತಿಯೇ ನರಕ
+random,kannada_test,self_explanation,140,1,B,A,0,0.313714,0.221458,0.896354,0.510454,B,1,dummy explanation,ಕೋಪದಲ್ಲಿ ಕೊಯ್ದ ಮೂಗು ಶಾಂತಿಯಲ್ಲಿ ಬರುವುದೆ?
+random,kannada_test,self_explanation,141,1,A,A,1,0.825808,0.293105,0.985306,0.951829,A,1,dummy explanation,ಕೋತಿ ತಾನು ಕೆಡೋದಲ್ಲದೆ ವನವನ್ನೂ ಕೆಡಿಸಿತು
+random,kannada_test,self_explanation,142,1,B,B,1,0.677881,0.878323,0.741174,0.260387,B,1,dummy explanation,"ಕೋತಿಯಂಥೋನು ಕೆಣಕಿದ, ಮುತಿಗೆ ಹೆಟ್ಟಿಸಿಕೊಂಡು ತಿಣುಕಿದ"
+random,kannada_test,self_explanation,143,1,B,A,0,0.5936,0.447968,0.463294,0.78138,A,0,dummy explanation,ಕೂಸು ಹುಟ್ಟೋಕೆ ಮುಂಚೆ ಕುಲಾವಿ ಹೊಲಿಸಿದಳು
+random,kannada_test,self_explanation,144,1,B,B,1,0.237325,0.526375,0.769134,0.299902,B,1,dummy explanation,ಕೂತು ಉಣ್ಣೋಳಿಗೆ ಕುಡಿಕೆ ಹೊನ್ನು ಸಾಲದು
+random,kannada_test,self_explanation,145,0,A,B,0,0.182814,0.706172,0.896912,0.896007,B,0,dummy explanation,ಕಡು ಕೋಪ ಬಂದಾಗ ತಡಕೊಂಡವನೇ ಜಾಣ
+random,kannada_test,self_explanation,146,0,B,B,1,0.235534,0.779551,0.819537,0.675366,B,1,dummy explanation,"ಕಂಡದ್ದು ಕಾಣೆ ಉತ್ತಮ, ಕಂಡದ್ದು ಕಂಡೆ ಮಧ್ಯಮ, ಕಾಣದ್ದು ಕಂಡೆ ಅಧಮ"
+random,kannada_test,self_explanation,147,1,B,A,0,0.861059,0.637409,0.418358,0.515635,A,0,dummy explanation,ಕಂಡವರ ಮಕ್ಕಳನ್ನು ಬಾವಿಯಲ್ಲಿ ದೂಡಿ ಆಳ ನೋಡಿದ ಹಾಗೆ
+random,kannada_test,self_explanation,148,0,B,A,0,0.363956,0.306943,0.168949,0.082558,B,1,dummy explanation,ಕಂಗಾಲಾದರೂ ಹಂಗಾಲಾಗಬಾರದು
+random,kannada_test,self_explanation,149,0,A,B,0,0.080083,0.779312,0.432324,0.599524,B,0,dummy explanation,"ಕಣ ಕಾಯಬಹುದು, ಹೆಣ ಕಾಯಕಾಗುವುದಿಲ್ಲ"
+random,kannada_test,self_explanation,150,1,A,B,0,0.239164,0.786146,0.75967,0.967708,B,0,dummy explanation,"ಕಟ್ಟಿದ ಕೆರೆಗೆ ಕೋಡಿ ತಪ್ಪಲ್ಲ, ಹುಟ್ಟಿದ ಮನೆಗೆ ಬೇರೆ ತಪ್ಪಲ್ಲ"
+random,kannada_test,self_explanation,151,1,A,A,1,0.593407,0.067323,0.243692,0.821475,A,1,dummy explanation,ಕಾರ್ಯವಾಸಿ ಕತ್ತೆ ಕಾಲು ಹಿಡಿ
+random,kannada_test,self_explanation,152,1,B,A,0,0.600976,0.288517,0.24631,0.984764,A,0,dummy explanation,ಕಾಮಾಲೆ ಕಣ್ಣೊನಿಗೆ ಕಂಡಿದ್ದೆಲ್ಲ ಹಳದಿನೇ
+random,kannada_test,self_explanation,153,1,B,A,0,0.386297,0.327554,0.734237,0.752328,A,0,dummy explanation,ಕಬ್ಬು ಡೊಂಕಾದರೆ ಸಿಹಿ ಡೊಂಕೇ
+random,kannada_test,self_explanation,154,1,A,B,0,0.166661,0.602455,0.822669,0.942055,B,0,dummy explanation,"ಕಚ್ಚುವ ನಾಯಿ ಬೊಗಳದು, ಬೊಗಳುವ ನಾಯಿ ಕಚ್ಚದು"
+random,kannada_test,self_explanation,155,1,B,A,0,0.257029,0.238529,0.099252,0.288031,A,0,dummy explanation,ಕೈಗೆ ಬಂದ ತುತ್ತು ಬಾಯಿಗೆ ಇಲ್ಲ
+random,kannada_test,self_explanation,156,1,A,A,1,0.926956,0.8341,0.733934,0.917949,A,1,dummy explanation,"ಕೈಯಲ್ಲಿ ಶರಣಾರ್ಥಿ, ಕಂಕುಳಲ್ಲಿ ದೊಣ್ಣೆ"
+random,kannada_test,self_explanation,157,1,B,B,1,0.095379,0.114073,0.753168,0.136109,B,1,dummy explanation,ಕಲ್ಲು ಇದ್ದಾಗ ನಾಯಿ ಇಲ್ಲ ನಾಯಿ ಇದ್ದಾಗ ಕಲ್ಲು ಇಲ್ಲ
+random,kannada_test,self_explanation,158,1,A,A,1,0.389044,0.299774,0.916845,0.331597,B,0,dummy explanation,ಕಪ್ಪರ ತಿಪ್ಪೆಲಿಟ್ಟರೆ ತನ್ನ ವಾಸನೆ ಬಿಟ್ಟಿತೇ?
+random,kannada_test,self_explanation,159,1,B,B,1,0.143925,0.560188,0.650918,0.476,B,1,dummy explanation,"ಕಥೆ ಹೇಳೋಕೆ ಹ್ಯುಮ್-ಗುಟ್ಟೋರಿರಬೇಕು, ನೆಟ್ಟಗೆ ಬಾಳೋಕೆ ಚಿ-ಗುಟ್ಟೋರಿರಬೇಕು"
+random,kannada_test,self_explanation,160,0,A,A,1,0.503235,0.219242,0.453273,0.146456,B,0,dummy explanation,ಕೆಡುವ ಕಾಲಕ್ಕೆ ಬುದ್ಧಿ ಇಲ್ಲ ಮರಣ ಕಾಲಕ್ಕೆ ಮದ್ದಿಲ್ಲ
+random,kannada_test,self_explanation,161,1,B,A,0,0.325552,0.274594,0.143501,0.229015,A,0,dummy explanation,ಕಿಡಿಯಿಂದ ಕಾಡ ಸುಡಬಹುದು
+random,kannada_test,self_explanation,162,1,B,A,0,0.754538,0.582658,0.129722,0.850961,A,0,dummy explanation,ಕೊಡಲಿ ಕಾವೂ ಕುಲಕ್ಕೆ ಸಾವು
+random,kannada_test,self_explanation,163,1,A,A,1,0.992603,0.681021,0.865399,0.833594,A,1,dummy explanation,"ಕೋಣನಿಗೆ ಕೊಸೆಯೋ ಸಂಕಟ, ಎಮ್ಮೆಗೆ ಈಯೋ ಸಂಕಟ"
+random,kannada_test,self_explanation,164,1,A,B,0,0.278548,0.993484,0.708578,0.829934,B,0,dummy explanation,"ಕೊಟ್ಟವನು ಕೋಡಂಗಿ, ಇಸ್ಕೊಂಡವನು ವೀರಭದ್ರ"
+random,kannada_test,self_explanation,165,1,B,A,0,0.840399,0.547917,0.9551,0.493786,B,1,dummy explanation,ಕ್ರಮ ಕಾಣದ ನಾಯಿ ಕಪಾಲ ನೆಕ್ತು
+random,kannada_test,self_explanation,166,1,A,A,1,0.727913,0.464404,0.087867,0.721823,A,1,dummy explanation,ಕುಂಬಾರನಿಗೆ ವರುಷ; ದೊಣ್ಣೆಗೆ ನಿಮಿಷ
+random,kannada_test,self_explanation,167,1,A,B,0,0.632011,0.746202,0.072314,0.254793,A,1,dummy explanation,ಕುರುಡು ಕಣ್ಣಿಗಿಂತ ಮೆಳ್ಳೆಗಣ್ಣು ವಾಸಿ
+random,kannada_test,self_explanation,168,1,A,B,0,0.453727,0.973586,0.734266,0.9334,B,0,dummy explanation,"ಲೇ ಅನ್ನೋದಕ್ಕೆ ಅವಳೇ ಇಲ್ಲ, ಮಗನ ಹೆಸರು ಮುದ್ದುರಂಗ"
+random,kannada_test,self_explanation,169,0,B,B,1,0.871457,0.962456,0.065354,0.307531,A,0,dummy explanation,ಲೋಕ ತಿಳಿಯಬೇಕು ಲೆಕ್ಕ ಕಲಿಯಬೇಕು
+random,kannada_test,self_explanation,170,1,B,B,1,0.001073,0.64038,0.899132,0.235689,B,1,dummy explanation,ಲಂಚ ಕೊಟ್ಟು ಮಂಚ ಏರು ವಂಚನೆ ಮಾಡಿ ಕೈಲಾಸ ಏರು
+random,kannada_test,self_explanation,171,1,A,B,0,0.479374,0.614404,0.644556,0.460953,B,0,dummy explanation,ಲಾಭವಿಲ್ಲದ ವ್ಯಾಪಾರ ಕತ್ತೆ ಮೈ ಪರಚಿದಂಗೆ
+random,kannada_test,self_explanation,172,1,B,A,0,0.681608,0.337185,0.668194,0.271241,B,1,dummy explanation,ಸೊಪ್ಪಿನ ಸಾರಾದರೂ ಲೆಕ್ಕದ ಮುದ್ದೆ ಉಣಬೇಕು
+random,kannada_test,self_explanation,173,1,A,A,1,0.848719,0.291246,0.889786,0.568446,A,1,dummy explanation,ಲಿಂಗ ಹರಿದ ಮೇಲೆ ಜಂಗಮನ ಹಂಗೇನು
+random,kannada_test,self_explanation,174,1,A,A,1,0.500462,0.455268,0.144428,0.862923,A,1,dummy explanation,ಮೂರ್ಖನಿಗೆ ದೊಣೆ ಪೆಟ್ಟು ಬುದ್ಧಿವಂತನಿಗೆ ಮಾತಿನ ಪೆಟ್ಟು
+random,kannada_test,self_explanation,175,1,A,B,0,0.678436,0.722304,0.694942,0.383405,B,0,dummy explanation,ಮನೆಗೆ ಮಾರಿ ಊರಿಗೆ ಉಪಕಾರಿ
+random,kannada_test,self_explanation,176,1,B,B,1,0.173206,0.93746,0.655311,0.066611,B,1,dummy explanation,ಮೇಲೆ ಬಿದ್ದು ಬಂದೋಳು ಮೂರು ಕಾಮಿಗೆ ಕಡೆ
+random,kannada_test,self_explanation,177,1,B,A,0,0.692412,0.407602,0.049813,0.734102,A,0,dummy explanation,ಮೂರು ಬಿಟ್ಟೋಳು ಊರಿಗೆ ದೊಡ್ಡೋಳು
+random,kannada_test,self_explanation,178,1,A,A,1,0.858616,0.195449,0.383056,0.767243,A,1,dummy explanation,"ಮಾಡೋದು ದುರಾಚಾರ, ಮನೆ ಮುಂದೆ ಬೃಂದಾವನ"
+random,kannada_test,self_explanation,179,0,B,A,0,0.711833,0.586931,0.582773,0.301992,B,1,dummy explanation,"ಮಾತು ಬಲ್ಲವನಿಗೆ ಜಗಳವಿಲ್ಲ, ಊಟ ಬಲ್ಲವನಿಗೆ ರೋಗವಿಲ್ಲ"
+random,kannada_test,self_explanation,180,1,A,B,0,0.064363,0.38128,0.377983,0.653663,B,0,dummy explanation,"ಮಾತು ಮನೆ ಕೆಡಿಸಿತು, ತೂತು ಒಲೆ ಕೆಡಿಸಿತು"
+random,kannada_test,self_explanation,181,0,A,A,1,0.863862,0.133588,0.068196,0.765929,A,1,dummy explanation,ಮದುವೆ ಮಾಡಿ ನೋಡು ಮನೆ ಕಟ್ಟಿ ನೋಡು
+random,kannada_test,self_explanation,182,1,B,A,0,0.633947,0.399625,0.257113,0.329265,A,0,dummy explanation,ಮದುವೆಯಾಗೋ ಗುಂಡ ಅಂದ್ರೆ ನೀನೇ ನನ್ನ ಹೆಂಡತಿ ಅಂದ
+random,kannada_test,self_explanation,183,1,A,A,1,0.751909,0.062151,0.7651,0.824379,A,1,dummy explanation,"ಮುಖ ನೋಡಿ ಮಾರು ಹೋದ, ಗುಣ ನೋಡಿ ದೂರ ಹೋದ"
+random,kannada_test,self_explanation,184,1,B,A,0,0.527487,0.086926,0.194863,0.825744,A,0,dummy explanation,ಮನೆಗೆ ಬೆಂಕಿ ಬಿದ್ದಾಗ ಬಾವಿ ತೋಡಿದರಂತೆ
+random,kannada_test,self_explanation,185,1,A,B,0,0.71842,0.948549,0.743251,0.021488,B,0,dummy explanation,"ಮುಳ್ಳಿನಿಂದ ಮುಳ್ಳು ತೆಗೆ, ಹಗೆಯಿಂದ ಹಗೆ ತೆಗೆ"
+random,kannada_test,self_explanation,186,1,B,B,1,0.879462,0.980753,0.147668,0.950842,A,0,dummy explanation,ಮುಲಾಜಿಗೆ ಬಸುರಾಗಿ ಹೆರೋಕೆ ತಾವಿಲ್ಲ
+random,kannada_test,self_explanation,187,1,B,A,0,0.886468,0.195102,0.449825,0.740942,A,0,dummy explanation,"ಮುತ್ತು ಒಡೆದರೆ ಹೋಯ್ತು, ಮಾತು ಆಡಿದರೆ ಹೋಯ್ತು"
+random,kannada_test,self_explanation,188,1,B,B,1,0.15112,0.497418,0.0686,0.180745,B,1,dummy explanation,ಮಂಗನ ಪಾರುಪತ್ಯ ಮರದ ಟೊಂಗೆ ಮೇಲೆ
+random,kannada_test,self_explanation,189,1,B,A,0,0.58204,0.020874,0.026518,0.131448,A,0,dummy explanation,ಮಾತಿನ ಬೊಮ್ಮ ತೂತಾದ ಮಡಕೆಯ ಪರಿ
+random,kannada_test,self_explanation,190,1,A,B,0,0.027215,0.301321,0.974898,0.284656,B,0,dummy explanation,ನಮ್ಮ ಕಣ್ಣು ನಮಗೆ ಕೆಡಿಸಿತು
+random,kannada_test,self_explanation,191,1,A,A,1,0.770924,0.434169,0.312176,0.114901,A,1,dummy explanation,ನುಡಿ ಪುರಾತನ ನಡೆ ಕಿರಾತನ
+random,kannada_test,self_explanation,192,1,A,B,0,0.182105,0.652091,0.532399,0.599552,B,0,dummy explanation,"ನೀರಿಗೆ ಬಿದ್ದವನಿಗೆ, ಮಳೆ ಏನು? ಚಳಿ ಏನು?"
+random,kannada_test,self_explanation,193,1,A,A,1,0.917991,0.20179,0.190759,0.372638,A,1,dummy explanation,ಅಡಿಗೆ ಬಿದ್ದರೂ ಮೂಗು ಮೇಲೆ
+random,kannada_test,self_explanation,194,1,A,A,1,0.762715,0.10794,0.719074,0.789173,A,1,dummy explanation,ನಾಯಿ ಬಾಲ ಯಾವಾಲೂ ಡೊಂಕು
+random,kannada_test,self_explanation,195,1,B,A,0,0.845421,0.620751,0.726404,0.631798,A,0,dummy explanation,ನಾಯಿ ಬೊಗಳಿದರೆ ದೇವಲೋಕ ಹಾಳೇನು?
+random,kannada_test,self_explanation,196,1,A,A,1,0.845257,0.377999,0.416808,0.851936,A,1,dummy explanation,ನಡತೆ ಕಲಿಯೋದು ಏರುಬಂಡೆ ನಡತೆ ಕೆಡೋದು ಜಾರುಬಂಡೆ
+random,kannada_test,self_explanation,197,1,B,B,1,0.63295,0.743159,0.372634,0.807505,A,0,dummy explanation,"ನಾಯಿಗೆ ಕೆಲಸವಿಲ್ಲ, ನಿಲ್ಲೋಕೆ ಹೊತ್ತಿಲ್ಲ"
+random,kannada_test,self_explanation,198,0,A,A,1,0.981294,0.686919,0.234696,0.71389,A,1,dummy explanation,ನಯಶಾಲಿ ಆದವನು ಜಯಶಾಲಿ ಆದಾನು
+random,kannada_test,self_explanation,199,1,B,B,1,0.01562,0.174902,0.564712,0.431157,B,1,dummy explanation,"ನೆಂಟರೆಲ್ಲ ಕರೆ, ಕಂಟಲೆ ಚೀಲಕ್ಕೆ ಕೈ ಹಾಕಬೇಡ"
+random,kannada_test,self_explanation,200,0,A,A,1,0.983389,0.470012,0.180202,0.557734,A,1,dummy explanation,ನಿಜ ಆಡಿದರೆ ನಿಷ್ಠೂರ
+random,kannada_test,self_explanation,201,0,A,A,1,0.897603,0.411573,0.415732,0.02577,A,1,dummy explanation,ನಿಯತ್ತಿಲ್ಲದವರಿಗೆ ಬರಕತ್ತಿಲ್ಲ
+random,kannada_test,self_explanation,202,1,B,B,1,0.204302,0.8835,0.908887,0.478997,B,1,dummy explanation,"ಊಟಕ್ಕೆ ಇಲ್ಲದ ಉಪ್ಪಿನಕಾಯಿ, ಮಣ್ಣಿಗೆ ಸಮಾನ"
+random,kannada_test,self_explanation,203,1,A,A,1,0.778702,0.221393,0.949758,0.347241,B,0,dummy explanation,ಒಂದು ಕಣ್ಣಿಗೆ ಸುಣ್ಣ ಒಂದು ಕಣ್ಣಿಗೆ ಬೆಣ್ಣೆ
+random,kannada_test,self_explanation,204,1,B,A,0,0.632583,0.157797,0.113264,0.647613,A,0,dummy explanation,"ಒಂದು ಸಿಟ್ಟಿನಲ್ಲಿ ಬಾವಿಗೆ ಬಿದ್ದರೆ, ಏಳು ಸಿಟ್ಟಿನಲ್ಲೂ ಏಳಲಾಗದು."
+random,kannada_test,self_explanation,205,1,B,B,1,0.784267,0.952206,0.770115,0.751182,B,1,dummy explanation,ಒಣ ಮರವ ಬೆಂಕಿ ತಿಂತಂತೆ ಹಸಿ ಮರವ ಚಿಂತೆ ತಿಂತಂತೆ
+random,kannada_test,self_explanation,206,1,A,B,0,0.53575,0.651086,0.040667,0.146509,B,0,dummy explanation,ಪಾಲಿಗೆ ಬಂದದ್ದು ಪಂಚಾಮೃತ
+random,kannada_test,self_explanation,207,1,A,A,1,0.893765,0.218504,0.213151,0.629239,A,1,dummy explanation,ಪಾಲಿಗೆ ಇಲ್ಲದ್ದು ಏನಾದರೇನು?
+random,kannada_test,self_explanation,208,1,B,B,1,0.286891,0.882402,0.717164,0.680429,B,1,dummy explanation,ಪಾಪ ಅಂದರೆ ಕರ್ಮ ಬರ್ತದೆ
+random,kannada_test,self_explanation,209,1,B,A,0,0.763068,0.450645,0.250898,0.774754,A,0,dummy explanation,ಪಾಪ ಬರಬಾರದೆಂದು ಶಾಪ ಕೊಂಡ
+random,kannada_test,self_explanation,210,1,A,B,0,0.769902,0.997899,0.9182,0.011845,B,0,dummy explanation,ಪರರ ಹಂಗಿಸಿ ಮಂಗ ಅನಿಸಿಕೊಂಡ
+random,kannada_test,self_explanation,211,1,A,A,1,0.593482,0.371112,0.115825,0.15445,A,1,dummy explanation,ಪ್ರಾಯ ಬರುವಾಗ ಆಯ ತಪ್ಪಿತು
+random,kannada_test,self_explanation,212,1,B,A,0,0.943656,0.586429,0.055554,0.756106,A,0,dummy explanation,ಪುಣ್ಯವಂತ ಮುಟ್ಟಿದ್ದೆಲ್ಲ ಚಿನ್ನ
+random,kannada_test,self_explanation,213,1,B,A,0,0.216646,0.167021,0.198895,0.986072,A,0,dummy explanation,ಪುಟ್ಯಾನ ಜ್ವಾಳ ತೀರಿದರೂ ಹೊಟ್ಯಾನ ಹಾಡು ತೀರಲಿಲ್ಲ
+random,kannada_test,self_explanation,214,1,A,B,0,0.568771,0.981756,0.605195,0.791903,B,0,dummy explanation,"ಪುಕ್ಸಟ್ಟೆ ಗಂಡ ಹೊಟ್ಟೆ ತುಂಬ ಉಂಡಾ, ಮನೆ ಗಂಡ ಗಿಣಿಕೊಂಡು ಬಿದ್ದ"
+random,kannada_test,self_explanation,215,1,B,A,0,0.507448,0.135252,0.792159,0.958464,A,0,dummy explanation,ಪುನಗನ ಬೆಕ್ಕು ತನ್ನ ವಾಸನೆ ಅರಿಯದೆ ಕಾಡೆಲ್ಲ ತಿರುಗಿ ತಿರುಗಿ ಸಾಯ್ತಂತೆ
+random,kannada_test,self_explanation,216,1,B,A,0,0.770693,0.433034,0.671756,0.323099,B,1,dummy explanation,ಪುರಾಣ ಹೇಳಿದರೆ ಪುಷ್ಪ ಬಿದ್ದಾವೇ?
+random,kannada_test,self_explanation,217,1,B,A,0,0.794506,0.762035,0.047442,0.364935,A,0,dummy explanation,ಪುಸ್ತಕದಲ್ಲಿರೋ ಬದನೆಕಾಯಿ ಸಾರಿಗೆ ಬಂದಾತೆ?
+random,kannada_test,self_explanation,218,1,A,A,1,0.091879,0.082815,0.813367,0.06657,B,0,dummy explanation,ರೀತಿ ತಿಳಿಯದಿದ್ದರೂ ಮಾತು ಬಲ್ಲ
+random,kannada_test,self_explanation,219,1,A,A,1,0.874796,0.656494,0.891734,0.026539,B,0,dummy explanation,ರೀತಿಯಲ್ಲದ ಮಾತು ತಲೆ ಬೇನೆ
+random,kannada_test,self_explanation,220,0,A,B,0,0.559547,0.819808,0.244226,0.066922,B,0,dummy explanation,ರೋಗಕ್ಕೆ ಮದ್ದುಂಟು ಶೀಲಕ್ಕೆ ಮದ್ದಿಲ್ಲ
+random,kannada_test,self_explanation,221,0,A,A,1,0.721195,0.100884,0.172355,0.136857,A,1,dummy explanation,ರೂಪಕ್ಕೆ ಮನಸೋತವರಿಗೆ ಪಾಪಕ್ಕೆ ಭಯವಿಲ್ಲ
+random,kannada_test,self_explanation,222,1,B,B,1,0.319508,0.512603,0.47086,0.508274,B,1,dummy explanation,ರಾಜ ಠೀವಿ ತಿರುಬೋಕಿ ಲಕ್ಷಣ
+random,kannada_test,self_explanation,223,0,B,A,0,0.375398,0.05417,0.362398,0.532317,A,0,dummy explanation,ರಾಜ ಇರೋತನಕ ರಾಣಿ ಭೋಗ
+random,kannada_test,self_explanation,224,1,A,A,1,0.036849,0.021971,0.479444,0.407653,B,0,dummy explanation,ರತ್ನ ಒಳ್ಳೆದಾದ್ರೆ ಇದ್ದ ಠಾವಿನಲ್ಲೇ ಬೆಳೆಯುತ್ತದೆ
+random,kannada_test,self_explanation,225,1,A,A,1,0.392697,0.333694,0.287134,0.382719,A,1,dummy explanation,ರತ್ನ ತಿನ್ನೋ ಪಕ್ಷಿ ಕಾಗೆ ಸವಾಸಕ್ಕೆ ಬಿದ್ದು ಎಂಜಲೆಲೆಗೆ ಸೊಬತಿ ಆಗಿತ್ತಂತೆ
+random,kannada_test,self_explanation,226,1,B,B,1,0.875492,0.91969,0.309443,0.440874,A,0,dummy explanation,"ಗೆದ್ದೊನು ಸೋತ, ಸೋತೊನು ಸತ್ತ"
+random,kannada_test,self_explanation,227,1,B,A,0,0.341914,0.080459,0.074287,0.071096,A,0,dummy explanation,ಶುಭ ನುಡಿಯೋ ಸೋಮ ಅಂದ್ರೆ ಗೂಬೆ ಕಾಣಿಸ್ತಲ್ಲೊ ಮಾವ ಅಂದ
+random,kannada_test,self_explanation,228,1,A,B,0,0.567639,0.733494,0.370737,0.22495,B,0,dummy explanation,ಸನ್ಯಾಸಿ ಹೆಂಡತಿ ಮುಂಡೇನೂ ಅಲ್ಲ ಮುತ್ತೈದೆನೂ ಅಲ್ಲ
+random,kannada_test,self_explanation,229,0,A,A,1,0.599108,0.448406,0.516139,0.372241,A,1,dummy explanation,ಸಂಸಾರ ಅನ್ನೋದು ಸಾಗರದ ಹೊಳೆ ಈಜ ಬಲ್ಲವನಿಗೆ ಎದೆದುದ್ದು
+random,kannada_test,self_explanation,230,0,A,B,0,0.269669,0.598679,0.402894,0.323859,B,0,dummy explanation,ಸಂಸಾರ ಗುಟ್ಟು ವ್ಯಾಧಿ ರಟ್ಟು
+random,kannada_test,self_explanation,231,1,B,A,0,0.586735,0.311354,0.103546,0.613988,A,0,dummy explanation,"ಸಂಸಾರ ಸಾಗರ, ಈಸಬೇಕು ಇದ್ದು ಜೈಸಬೇಕು"
+random,kannada_test,self_explanation,232,1,A,B,0,0.258933,0.873719,0.676448,0.855485,B,0,dummy explanation,ಸಂಸಾರಿ ಸಾವಾಸ ಮಾಡಿ ಸನ್ಯಾಸಿ ಕೆಟ್ಟ
+random,kannada_test,self_explanation,233,1,A,B,0,0.260654,0.569582,0.7515,0.265802,B,0,dummy explanation,ಸನ್ಯಾಸಿಗೆ ಯಾತರ ಕಳವಳ ಅಂದ್ರೆ ಅನ್ನದೊಂದೇ ಕಳವಳ
+random,kannada_test,self_explanation,234,1,B,B,1,0.199261,0.826988,0.432153,0.221795,B,1,dummy explanation,ಸಿರಿ ಸೋಂಕಿದವರ ಪರಿ ಬೇರೆ
+random,kannada_test,self_explanation,235,1,A,B,0,0.194042,0.86276,0.285706,0.335514,B,0,dummy explanation,"ಸೊಸೆಗೆ ಮನೆವಾಸ, ಅತ್ತೆಗೆ ಪರವಾಸ"
+random,kannada_test,self_explanation,236,0,B,A,0,0.904257,0.180629,0.722443,0.330722,A,0,dummy explanation,ಸ್ವತಂತ್ರ ಹೋಗಿ ಅಸ್ವತಂತ್ರ ಆಯಿತು
+random,kannada_test,self_explanation,237,1,B,B,1,0.058563,0.820152,0.775486,0.639126,B,1,dummy explanation,ಸ್ತ್ರೀ ರೂಪವೇ ರೂಪ ಶೃಂಗಾರವೇ ರಸ
+random,kannada_test,self_explanation,238,0,B,B,1,0.221141,0.226371,0.323558,0.46362,A,0,dummy explanation,"ಸುಖದ ಮೇಲೆ ದುಃಖ, ದುಃಖದ ಮೇಲೆ ಸುಖ"
+random,kannada_test,self_explanation,239,1,A,B,0,0.69915,0.772309,0.613846,0.679949,B,0,dummy explanation,ಸುಳ್ಳು ಹೇಳಿದ್ರು ನಿಜದ ನೆತ್ತಿ ಮೇಲೆ ಹೊಡೆದಂಗೆ ಹೇಳಬೇಕು
+random,kannada_test,self_explanation,240,1,B,B,1,0.375205,0.816399,0.060571,0.557651,A,0,dummy explanation,ಸುಳ್ಳು ದೇವರಿಗೆ ಕಳ್ಳ ಪೂಜಾರಿ
+random,kannada_test,self_explanation,241,1,A,A,1,0.306143,0.186985,0.580872,0.473159,A,1,dummy explanation,ಸುಸಾರಕ್ಕೆ (=ಅಪರೂಪಕ್ಕೆ) ಬಸುರಾಗಿವ್ನಿ ಮಿಸುಕಬೇಡ ಗಂಡಯ್ಯ
+random,kannada_test,self_explanation,242,0,A,A,1,0.888201,0.77538,0.686119,0.830969,A,1,dummy explanation,ಸ್ವಧರ್ಮ ತಪ್ಪದ್ರೂ ಅಧರ್ಮ ಮಾಡಬಾರದು
+random,kannada_test,self_explanation,243,1,A,A,1,0.334527,0.14645,0.982426,0.206284,B,0,dummy explanation,ಸ್ವರ್ಗವೂ ತಪ್ಪಿತು ದುರ್ಗವೂ ತಪ್ಪಿತು
+random,kannada_test,self_explanation,244,1,A,B,0,0.191774,0.677361,0.97596,0.237473,B,0,dummy explanation,ತಲೆ ತಲೆಗು ಪಟ್ಟ ಹೊಟ್ಟೆಗೆ ಇಲ್ಲದೆ ಕೆಟ್ಟ
+random,kannada_test,self_explanation,245,1,A,B,0,0.788909,0.804344,0.602068,0.478893,B,0,dummy explanation,ತಬ್ಬಲಿ ತಲೆ ಬೋಲಿಸಿಕೊಂಡರೆ ಆನೆಕಲ್ಲು ಮಳೆ ಬಂತು
+random,kannada_test,self_explanation,246,1,B,B,1,0.034776,0.262249,0.145448,0.433664,A,0,dummy explanation,ತನ್ನೂರಿನಲ್ಲಿ ಬಾಳಲಾರದವ ಪರೂರಿನಲ್ಲಿ ಬಾಳಾನೇ?
+random,kannada_test,self_explanation,247,1,A,A,1,0.951034,0.085886,0.928966,0.234666,A,1,dummy explanation,ತನ್ನ ಊರಿಗೆ ರಂಗ ಪರ ಊರಿಗೆ ಮಂಗ
+random,kannada_test,self_explanation,248,1,A,B,0,0.152988,0.791038,0.023179,0.144148,B,0,dummy explanation,ಉಪಕಾರಕ್ಕೋಗಿ ಉಪದ್ರ ಬಂತು
+random,kannada_test,self_explanation,249,0,B,B,1,0.440401,0.627493,0.238355,0.032518,B,1,dummy explanation,ಉಪವಾಸ ಇರಬಹುದು ಉಪದ್ರ ತಳಲಾಗದು
+random,kannada_test,self_explanation,250,1,B,B,1,0.056889,0.097246,0.032807,0.560186,A,0,dummy explanation,ಉರಿದ ಹೊಟ್ಟೆಗೆ ಉಪ್ಪು ತುಂಬಿಸಿದಂಗೆ
+random,kannada_test,self_explanation,251,0,B,B,1,0.008277,0.016599,0.331518,0.721658,A,0,dummy explanation,ವ್ಯವಹಾರಕ್ಕೆ ಯಾವ ವಾರ ಆದ್ರೇನು? ವ್ಯಾಪಾರಕ್ಕೆ ಯಾವ ಪಾರ ಆದ್ರೇನು?
+random,kannada_test,self_explanation,252,1,B,A,0,0.699618,0.558721,0.529912,0.868461,A,0,dummy explanation,ವಾಲಾಡು ಗೊಂಬೆ ವಲಾಡು ನೀರಿಗೆ ಬಿದ್ದಾಗ ತೇಲಾಡು
+random,kannada_test,self_explanation,253,1,B,A,0,0.832859,0.512487,0.03368,0.394466,A,0,dummy explanation,ವಲ್ಲದ ಹಸ ಉಣ್ಣದ ಕರ
+random,kannada_test,self_explanation,254,1,B,A,0,0.673626,0.365824,0.941942,0.650943,A,0,dummy explanation,ವನ ಹಣ್ಣಾಯ್ತು ಗಿಣಿಯ ಬಾಯಿ ಹುಣ್ಣಾಯ್ತು
+random,kannada_test,self_explanation,255,0,A,A,1,0.960037,0.880004,0.373358,0.892923,A,1,dummy explanation,ಯಾರ ಮಾತು ಕೇಳಿ ಯಾಕೆ ಕೆಟ್ಟೀಯಾ? ನನ್ನ ಮಾತು ಕೇಳಿ ಬದುಕು
+random,kannada_test,self_explanation,256,1,A,B,0,0.029506,0.920207,0.822192,0.993481,B,0,dummy explanation,ಯಾವ ಹುತ್ತದಲ್ಲಿ ಯಾವ ಹಾವಿದೆಯೋ
+random,kannada_test,self_explanation,257,0,B,B,1,0.016902,0.428733,0.70891,0.232488,B,1,dummy explanation,ಯಾವ ಕಾಲ ತಪ್ಪಿದರೂ ಸಾವು ಕಾಲ ತಪ್ಪುವುದಿಲ್ಲ
+random,kannada_test,self_explanation,258,1,B,A,0,0.466278,0.02132,0.062227,0.992573,A,0,dummy explanation,ಯುದ್ಧಕಾಲದಲ್ಲಿ ಕತ್ತಿ ವರುಸೆ ಕಲ್ತಂತೆ
+random,kannada_test,self_explanation,259,0,A,A,1,0.853536,0.486165,0.526456,0.375018,A,1,dummy explanation,ಯುಕ್ತಿಯ ಮಾತು ಮಕ್ಕಳಿಂದಾದರೂ ತಿಳುಕೋ
+random,kannada_test,self_explanation,260,0,B,B,1,0.343152,0.671497,0.15402,0.814728,A,0,dummy explanation,ಯೋಗ ಇದ್ದಷ್ಟೇ ಭೋಗ
+random,kannada_test,self_explanation,261,1,A,A,1,0.766951,0.418187,0.550523,0.913165,A,1,dummy explanation,"ಯೋಗಿ ತಂದದ್ದು ಯೋಗಿಗೆ, ಭೋಗಿ ತಂದದ್ದು ಭೋಗಿಗೆ"
+random,kannada_test,self_explanation,262,1,B,A,0,0.490841,0.397042,0.620308,0.781962,A,0,dummy explanation,ಯೋಗ್ಯತೆ ಅರಿಯದ ದೊರೆ ರೋಗ ಅರಿಯದ ವೈದ್ಯ ಒಂದೇ
+random,kannada_test,self_explanation,263,1,A,B,0,0.508847,0.787978,0.055222,0.036156,B,0,dummy explanation,ಯಾರೂ ಇಲ್ಲದ ಊರಿಗೆ ಹೋಗಿ ನೀರು ಮಜ್ಜಿಗೆ ಬಯಸಿದಂಗೆ
+random,kannada_test,self_explanation,264,1,B,A,0,0.203791,0.020149,0.048668,0.37668,A,0,dummy explanation,ಯಾರೂ ಇಲ್ಲದ ಮನೆಗೆ ನಾನು ಜೋಗಪ್ಪ ಅಂದ
+random,kannada_test,self_explanation,265,0,A,B,0,0.346495,0.971407,0.539279,0.943715,B,0,dummy explanation,ಯಥಾ ರಾಜ ತಥಾ ಪ್ರಜಾ
+random,kannada_test,self_explanation,266,1,B,B,1,0.084644,0.887037,0.852868,0.693647,B,1,dummy explanation,"ಅಕ್ಕನ್ ಗಂಡನ ಕೂಡೆ ದುಃಖ ಹೇಳಿದ್ರೆ, ಮಕ್ಕಳು ಮರಿಯ ಬುಟ್ಟು ಬಾ ಅಂದ"
+random,kannada_test,self_explanation,267,1,A,B,0,0.371998,0.758849,0.823753,0.641689,B,0,dummy explanation,ಕುಂಬಳ ಕಾಯ ಸಾಕಿ ಹಂಡಿಗೆ ಕೊಟ್ಟಂಗೆ
+random,kannada_test,self_explanation,268,1,A,B,0,0.47658,0.479095,0.907157,0.167618,B,0,dummy explanation,ಸತ್ತ ಮೇಲೆ ಎತ್ತ ಹೋದ್ರೇನ ?
+random,kannada_test,self_explanation,269,1,A,B,0,0.297006,0.936214,0.560531,0.427403,B,0,dummy explanation,ಸತ್ತ ಕೋಳಿ ಬತ್ತ ಮುಕ್ಕುತದೆ?
+random,kannada_test,self_explanation,270,1,A,A,1,0.812943,0.05853,0.661595,0.96707,A,1,dummy explanation,ಗೊಲ್ಲರು ಮಠ ಕಟ್ಟಿದಂಗೆ
+random,kannada_test,self_explanation,271,1,A,B,0,0.456746,0.551779,0.988492,0.49876,B,0,dummy explanation,"ಗಂಡು ಗುಂಡು, ಹೆಣ್ಣು ಹೆಳವು"
+random,kannada_test,self_explanation,272,1,B,B,1,0.150492,0.65911,0.559564,0.62086,B,1,dummy explanation,"ಗಂಡಸು ಕೂತು ಕೆಟ್ಟ, ಹೆಂಗಸು ತಿರುಗಿ ಕೆಟ್ಟಳು"
+random,kannada_test,self_explanation,273,1,A,A,1,0.883611,0.619563,0.517613,0.90486,A,1,dummy explanation,"ಗಂಡ ಇದ್ದಾಗ ಬುದ್ಧಿ ಇಲ್ಲ, ಬುದ್ಧಿ ಬಂದಾಗ ಗಂಡ ಇಲ್ಲ"
+random,kannada_test,self_explanation,274,1,A,B,0,0.512961,0.549215,0.939425,0.87517,B,0,dummy explanation,"ಹರಟೆ ಇಲ್ಲದೆ ಸಂಜೆ ಆಗದು, ಸಂಗತಿ ಇಲ್ಲದೆ ದಾರಿ ಸವೆಯದು"
+random,kannada_test,self_explanation,275,1,A,A,1,0.541859,0.043095,0.752696,0.139517,B,0,dummy explanation,ಬೆಕ್ಕಿಗೆ ಚೆಲ್ಲಾಟ ಇಲಿಗೆ ಪ್ರಾಣ ಸಂಕಟ
+random,kannada_test,self_explanation,276,1,A,B,0,0.298512,0.659115,0.329988,0.084761,B,0,dummy explanation,ಸವಿ ಕಂಡ ಕೋತಿ ಅಟ್ಟ ಹತ್ತಿದಂಗೆ
+random,kannada_test,self_explanation,277,1,B,A,0,0.869707,0.864861,0.101318,0.111467,A,0,dummy explanation,"ಕೊಟ್ಟ ಸಾಲವ ಕೇಳದೆ ಕೆಟ್ಟ, ಬಿತ್ತಿದ ಹೊಲವ ನೋಡದೆ ಕೆಟ್ಟ"
+random,kannada_test,self_explanation,278,1,A,B,0,0.532436,0.628865,0.069503,0.412182,A,1,dummy explanation,ಕೈಯಾಗೆ ಕನ್ನಡಿ ಇಟ್ಕೊಂಡು ನೀರಾಗೆ ಮುಖ ನೋಡ್ದಂಗೆ
+random,kannada_test,self_explanation,279,1,A,B,0,0.142134,0.589109,0.005657,0.71109,A,1,dummy explanation,ಕೈಗೆ ಬಂದದ್ದು ಬಾಯಿಗೆ ಇಲ್ಲ
+random,kannada_test,self_explanation,280,1,A,A,1,0.90099,0.451861,0.499281,0.646916,A,1,dummy explanation,"ಕುಂಟು ಅತ್ತವಗೆ ಕುಂಟು ಅಳು, ನಿಂತ ಅತ್ತವಗೆ ನಿಂತ ಅಳು"
+random,kannada_test,self_explanation,281,1,B,B,1,0.361468,0.87377,0.977965,0.097932,B,1,dummy explanation,ಕುರುಡನಿಗೆ ಹಗಲೇನು? ಇರುಳೇನು?
+random,kannada_test,self_explanation,282,1,B,B,1,0.425931,0.871898,0.270046,0.125695,B,1,dummy explanation,ಚಿಕ್ಕವನಾದ್ರು ಶಿವನ ಬುದ್ಧಿ
+random,kannada_test,self_explanation,283,1,A,B,0,0.277291,0.635383,0.692248,0.523684,B,0,dummy explanation,ತೊರೆ ನೀರು ಇದ್ದರೂ ಬಾವಿ ನೀರು ಹೆಚ್ಚು
+random,kannada_test,self_explanation,284,1,A,A,1,0.661711,0.476311,0.944262,0.498398,B,0,dummy explanation,ತಾಯ ಹಳಿದರೂ ನೀರ ಹಳಿಯ ಬೇಡ
+random,kannada_test,self_explanation,285,1,B,A,0,0.522475,0.236534,0.015992,0.649185,A,0,dummy explanation,ಕಸ ಆದರೂ ರುಚಿ ಮಾಡಿ ತಿನ್ನು
+random,kannada_test,self_explanation,286,1,A,B,0,0.172515,0.746342,0.98884,0.041998,B,0,dummy explanation,"ಆರು ಕಾಸಿನ ಸಂಬಳ ಆದರೂ, ಅರಮನೆಯ ಕೆಲಸ ಮಾಡು"
+random,kannada_test,self_explanation,287,1,A,B,0,0.381106,0.592496,0.062776,0.617818,A,1,dummy explanation,"ಮಾತು ಹೆಚ್ಚಿ ಮನೆ ಕೆಟ್ಟಿತು, ಬಿತ್ತು ಹೆಚ್ಚಿ ಹೊಲ ಕೆಟ್ಟಿತು"
+random,kannada_test,self_explanation,288,1,B,B,1,0.349132,0.951215,0.985071,0.772449,B,1,dummy explanation,"ಎತ್ತು ಇಲ್ಲದವಗೆ ಎದೆ ಇಲ್ಲ, ಮಕ್ಕಳು ಇಲ್ಲದವಗೆ ಮನೆ ಇಲ್ಲ"
+random,kannada_test,self_explanation,289,1,A,B,0,0.416859,0.84872,0.114425,0.81367,A,1,dummy explanation,ಕೆಟ್ಟೆ ಅಂತ ಕೇಡ ತೂರ ಬೇಡ
+random,kannada_test,self_explanation,290,0,A,A,1,0.805279,0.611054,0.368945,0.347217,A,1,dummy explanation,ತಲೆ ತಟ್ಟಿ ನೆಲ ನೋಡಿ ನಡೆ
+random,kannada_test,self_explanation,291,1,B,A,0,0.918274,0.584524,0.988687,0.363987,B,1,dummy explanation,"ತಲೆಯವನ ಮಾತು, ಮುಂದುಕ್ ಉಪ್ಪು ಹಿಂದುಕ್ ಬೆಲ್ಲ"
+random,kannada_test,self_explanation,292,0,A,A,1,0.596392,0.406014,0.425885,0.538761,A,1,dummy explanation,"ಅಪ್ಪನ ಮಾತು, ಆನೆಯ ಬಲ"
+random,kannada_test,self_explanation,293,0,B,A,0,0.402406,0.221726,0.404802,0.61687,A,0,dummy explanation,ಅಣ್ಣ ತಮ್ಮನ ಬೇರೆ ಮಾಡ ಬೇಡ
+random,kannada_test,self_explanation,294,0,A,B,0,0.174226,0.318758,0.676959,0.962478,A,1,dummy explanation,ಆರೋಗ್ಯವೇ ಭಾಗ್ಯ
+random,kannada_test,self_explanation,295,0,B,B,1,0.637978,0.668227,0.089329,0.418866,A,0,dummy explanation,ನಿಧಾನವೇ ಪ್ರಧಾನ
+random,kannada_test,self_explanation,296,0,A,B,0,0.195531,0.462905,0.790501,0.985472,B,0,dummy explanation,ಕಲಿಕೆಗೆ ವಯಸ್ಸಿಲ್ಲ
+random,kannada_test,self_explanation,297,0,B,A,0,0.928662,0.034217,0.555495,0.414266,A,0,dummy explanation,ಒಗ್ಗಟ್ಟಿನಲ್ಲಿ ಬಲವಿದೆ
+random,kannada_test,self_explanation,298,0,B,A,0,0.933765,0.834666,0.888288,0.928186,A,0,dummy explanation,ಹೇಳುವುದು ಸುಲಭ ಮಾಡುವುದು ಕಷ್ಟ
+random,kannada_test,self_explanation,299,0,B,A,0,0.39617,0.040562,0.921648,0.869431,A,0,dummy explanation,ಹಲವು ಹನಿ ಕೂಡಿದರೆ ಹಳ್ಳ
+random,kannada_test,self_explanation,300,0,A,A,1,0.983003,0.836218,0.44773,0.679262,A,1,dummy explanation,ಬೆಳೆಯುವ ಸಿರಿ ಮೊಳಕೆಯಲ್ಲಿ
+random,kannada_test,self_explanation,301,0,A,B,0,0.47951,0.722304,0.562827,0.827,A,1,dummy explanation,ಉಪ್ಪಿಗಿಂತ ರುಚಿಯಿಲ್ಲ
+random,kannada_test,self_explanation,302,0,A,A,1,0.496571,0.152875,0.346453,0.054532,A,1,dummy explanation,ಓತಿಕ್ಯಾತನಿಗೆ ಬೇಲಿ ಸಾಕ್ಷಿ
+random,kannada_test,self_explanation,303,1,B,A,0,0.701028,0.542675,0.454139,0.102205,B,1,dummy explanation,ಅಂಗೈ ಹುಣ್ಣಿಗೆ ಕನ್ನಡಿ ಬೇಕೆ?
+random,kannada_test,self_explanation,304,0,A,B,0,0.718104,0.842328,0.752112,0.506646,B,0,dummy explanation,ಕೆಟ್ಟ ಮೇಲೆ ಬುದ್ಧಿ ಬಂತು
+random,kannada_test,self_explanation,305,1,B,B,1,0.243964,0.957967,0.522766,0.583935,B,1,dummy explanation,ಎರಡು ಕೈ ಸೇರಿದರೆ ಚಪ್ಪಾಳೆ
+random,kannada_test,self_explanation,306,1,B,A,0,0.691595,0.344409,0.89161,0.021684,B,1,dummy explanation,ಆಟಕ್ಕುಂಟು ಲೆಕ್ಕಕ್ಕಿಲ್ಲ

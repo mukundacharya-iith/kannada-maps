@@ -1,0 +1,13 @@
+# Data is not published (MAPS data via the authors' access form; Kannada data on IITH Drive)
+data/
+
+# model weights and caches
+*.bin
+*.safetensors
+.cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# large intermediate files (summaries and per-run CSVs are fine to commit)
+results/cache/

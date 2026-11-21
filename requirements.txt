@@ -1,0 +1,11 @@
+# Minimum versions; after your first successful run, replace with the exact
+# versions from `pip freeze` so results are reproducible.
+openpyxl>=3.1
+numpy>=1.26
+torch>=2.1
+transformers>=4.40
+accelerate>=0.30
+sentencepiece>=0.2
+protobuf>=4.25
+# Optional, only for models with "load_in_4bit": true in configs/models.json
+# bitsandbytes>=0.43

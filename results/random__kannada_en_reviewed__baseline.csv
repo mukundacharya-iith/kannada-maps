@@ -1,0 +1,306 @@
+model,dataset,condition,row_id,is_figurative,answer_key,pred,correct,score_A,score_B,score_A_swap,score_B_swap,pred_swap,correct_swap,explanation_used,proverb
+random,kannada_en_reviewed,baseline,2,1,A,B,0,0.809727,0.97835,0.628426,0.678531,B,0,,"Where there's a will, there's a way"
+random,kannada_en_reviewed,baseline,3,1,A,B,0,0.191218,0.493642,0.122167,0.007834,B,0,,"If the hand gets muddy, the mouth gets curd"
+random,kannada_en_reviewed,baseline,4,1,B,A,0,0.453135,0.178183,0.118262,0.663531,A,0,,"Speech is silver, silence is gold"
+random,kannada_en_reviewed,baseline,5,1,A,B,0,0.462355,0.805945,0.043597,0.291897,B,0,,"Not everything white is milk, not everything that shines is gold"
+random,kannada_en_reviewed,baseline,6,1,B,B,1,0.686122,0.727362,0.418853,0.047206,B,1,,"What doesn't bend as a sapling, will it bend as a tree?"
+random,kannada_en_reviewed,baseline,7,1,A,A,1,0.575217,0.127113,0.526647,0.704434,A,1,,One who can be a servant can become a king
+random,kannada_en_reviewed,baseline,8,0,B,B,1,0.608919,0.729309,0.935215,0.298,B,1,,One who endures will thrive
+random,kannada_en_reviewed,baseline,9,1,B,A,0,0.6438,0.171596,0.937624,0.978993,A,0,,Like giving a ruby to a monkey's hand
+random,kannada_en_reviewed,baseline,10,0,B,B,1,0.361199,0.71481,0.914566,0.813449,B,1,,"Even if the Veda proves false, the proverb will not"
+random,kannada_en_reviewed,baseline,11,1,A,A,1,0.633876,0.145052,0.782818,0.092456,B,0,,Stretch your legs only as far as the bed allows
+random,kannada_en_reviewed,baseline,12,0,B,A,0,0.820588,0.425911,0.440263,0.09849,A,0,,"Eat what you have made, O lord (you reap what you sow)"
+random,kannada_en_reviewed,baseline,13,0,A,A,1,0.962059,0.950741,0.132783,0.574944,A,1,,Excessive desire leads to a bad end
+random,kannada_en_reviewed,baseline,14,1,B,B,1,0.297711,0.442388,0.461432,0.80964,A,0,,A dog's tail is crooked
+random,kannada_en_reviewed,baseline,15,1,A,B,0,0.390616,0.653602,0.715474,0.663079,B,0,,"Butter for one eye, lime for the other eye"
+random,kannada_en_reviewed,baseline,16,1,B,A,0,0.928753,0.453424,0.372091,0.3788,A,0,,Inborn nature doesn't go even if burned
+random,kannada_en_reviewed,baseline,17,1,B,A,0,0.804196,0.238879,0.892372,0.644693,A,0,,"At the time of destruction, a perverse mind"
+random,kannada_en_reviewed,baseline,18,0,A,B,0,0.481643,0.780764,0.567078,0.337807,B,0,,"Travel the country and see, read the books and see"
+random,kannada_en_reviewed,baseline,19,1,A,B,0,0.44292,0.871165,0.070922,0.809431,A,1,,Like inviting into your house the calamity (Mari) passing by on the street
+random,kannada_en_reviewed,baseline,20,0,A,B,0,0.033806,0.115667,0.99308,0.618289,B,0,,"After eating salt, one must drink water"
+random,kannada_en_reviewed,baseline,21,1,A,B,0,0.153282,0.660303,0.736991,0.41821,B,0,,Yellamma's fair on someone else's money
+random,kannada_en_reviewed,baseline,22,0,A,A,1,0.967704,0.509367,0.89619,0.936646,A,1,,Everything that happens is for the good
+random,kannada_en_reviewed,baseline,23,0,A,A,1,0.340606,0.237825,0.862412,0.183036,B,0,,"Walk according to the times, dance according to the beat"
+random,kannada_en_reviewed,baseline,24,1,B,B,1,0.37066,0.943419,0.086405,0.373514,B,1,,Don't burgle the house that fed you
+random,kannada_en_reviewed,baseline,25,1,A,A,1,0.716503,0.319205,0.659234,0.537101,A,1,,"Mari's eye is on the bull, the butcher's eye is on the sheep"
+random,kannada_en_reviewed,baseline,26,1,A,A,1,0.569327,0.130733,0.834854,0.466475,A,1,,What comes to one's lot is paramanna (sweet rice pudding)
+random,kannada_en_reviewed,baseline,27,1,B,A,0,0.485477,0.403144,0.285112,0.295439,A,0,,Tell a thousand lies and perform one wedding
+random,kannada_en_reviewed,baseline,28,1,B,B,1,0.639246,0.80255,0.048214,0.554092,A,0,,"Even if you trust a thief, don't trust a short man"
+random,kannada_en_reviewed,baseline,29,1,B,A,0,0.445932,0.239303,0.413038,0.299505,A,0,,"Though he fell to the ground, his moustache didn't get dirty"
+random,kannada_en_reviewed,baseline,30,1,A,B,0,0.340587,0.55438,0.232592,0.370415,B,0,,Which snake is in which anthill
+random,kannada_en_reviewed,baseline,31,1,A,B,0,0.174887,0.603567,0.198287,0.567647,B,0,,"Even if the god is pleased, the priest isn't"
+random,kannada_en_reviewed,baseline,32,1,A,B,0,0.589428,0.991671,0.905738,0.072584,B,0,,We know the truth of our own god
+random,kannada_en_reviewed,baseline,33,1,B,B,1,0.57599,0.95622,0.490116,0.654264,B,1,,"For the bitter gourd, the neem fruit is the witness"
+random,kannada_en_reviewed,baseline,34,1,B,B,1,0.011356,0.013837,0.892436,0.201967,B,1,,The morsel that came to the hand didn't reach the mouth
+random,kannada_en_reviewed,baseline,35,1,A,A,1,0.934714,0.763633,0.791255,0.200355,B,0,,What the patient wanted was milk-rice; what the doctor prescribed was milk-rice
+random,kannada_en_reviewed,baseline,36,1,A,A,1,0.810109,0.579686,0.609534,0.235956,B,0,,A thief always has a petty excuse
+random,kannada_en_reviewed,baseline,37,1,A,A,1,0.921379,0.135254,0.671128,0.412077,A,1,,The woman who couldn't dance said the floor is crooked
+random,kannada_en_reviewed,baseline,38,1,B,B,1,0.126912,0.48195,0.778324,0.032998,B,1,,"Putta went, Putta came back."
+random,kannada_en_reviewed,baseline,39,1,B,B,1,0.387225,0.772088,0.043552,0.929168,A,0,,Like letting a bear loose during Shiva worship
+random,kannada_en_reviewed,baseline,40,1,B,B,1,0.865526,0.901714,0.459724,0.199085,B,1,,Say 'pumpkin thief' and he felt his own shoulder
+random,kannada_en_reviewed,baseline,41,1,B,B,1,0.021382,0.84413,0.674269,0.523383,B,1,,"'Malli, Malli, how many legs does the cot have?' 'Three and one more,' she said"
+random,kannada_en_reviewed,baseline,42,1,B,A,0,0.729773,0.551863,0.500666,0.373137,A,0,,A thief's mind is jittery
+random,kannada_en_reviewed,baseline,43,1,B,A,0,0.746498,0.323635,0.498427,0.27893,A,0,,"If the swinging club misses, a hundred years of life"
+random,kannada_en_reviewed,baseline,44,1,A,A,1,0.967307,0.081012,0.407391,0.996072,A,1,,"If a woman is won over she is a woman, if angered she is a fearsome goddess."
+random,kannada_en_reviewed,baseline,45,1,B,A,0,0.382341,0.048414,0.972855,0.613201,B,1,,"When the ox pulled uphill, the buffalo pulled into the water"
+random,kannada_en_reviewed,baseline,46,1,A,B,0,0.283595,0.646268,0.183703,0.924052,A,1,,"Though the one who gives kisses has come, don't forget the one who gave you morsels"
+random,kannada_en_reviewed,baseline,47,1,A,B,0,0.001159,0.330025,0.385627,0.523577,B,0,,The god of Sindhaghatta wavers back and forth
+random,kannada_en_reviewed,baseline,48,1,A,B,0,0.29195,0.589669,0.733848,0.425706,B,0,,What relation is there between Gokulashtami and Imam Saab?
+random,kannada_en_reviewed,baseline,49,0,B,B,1,0.456403,0.737093,0.470246,0.511615,B,1,,One who lives as a servant today will be a king tomorrow
+random,kannada_en_reviewed,baseline,50,1,A,B,0,0.540558,0.58434,0.643189,0.261668,B,0,,Everyone's house has holes in the dosa
+random,kannada_en_reviewed,baseline,51,1,B,B,1,0.131009,0.639732,0.494061,0.189245,B,1,,"Not a son-in-law, just the daughter's husband"
+random,kannada_en_reviewed,baseline,52,1,A,B,0,0.018091,0.432596,0.152394,0.696556,A,1,,"If played with, a parrot; if provoked, a cobra"
+random,kannada_en_reviewed,baseline,53,1,B,B,1,0.108799,0.159089,0.521846,0.857563,A,0,,Don't trust a weeping man or a laughing woman
+random,kannada_en_reviewed,baseline,54,1,A,A,1,0.505525,0.055747,0.441202,0.967499,A,1,,"Saying 'oh, poor thing' is half a lifespan"
+random,kannada_en_reviewed,baseline,55,1,B,A,0,0.913925,0.775756,0.786546,0.951152,A,0,,"If the performer performs, the onlooker feels shame"
+random,kannada_en_reviewed,baseline,56,1,A,A,1,0.624016,0.512238,0.107917,0.207641,A,1,,Like a frog jumping on one who is already frightened
+random,kannada_en_reviewed,baseline,57,1,A,B,0,0.376569,0.436648,0.690252,0.462485,B,0,,"If you see a bad dream, get up and sit"
+random,kannada_en_reviewed,baseline,58,1,B,A,0,0.81378,0.309772,0.042321,0.698205,A,0,,Like placing a lamp on the dividing wall
+random,kannada_en_reviewed,baseline,59,1,B,A,0,0.923142,0.221775,0.367074,0.729395,A,0,,"If you give six, he's on the mother-in-law's side; if you give three, on the daughter-in-law's side"
+random,kannada_en_reviewed,baseline,60,1,B,B,1,0.750468,0.856906,0.404015,0.251697,B,1,,Honor lost over a betel nut won't return even if an elephant is given
+random,kannada_en_reviewed,baseline,61,0,A,B,0,0.596365,0.766289,0.004022,0.232262,A,1,,"The grandmother worries about cloth, the daughter worries about marriage"
+random,kannada_en_reviewed,baseline,62,0,B,A,0,0.527263,0.161756,0.55728,0.452288,A,0,,"Desire for the rice, love for the relatives"
+random,kannada_en_reviewed,baseline,63,1,B,B,1,0.615238,0.646585,0.960993,0.789207,B,1,,One to trim the moustache of the man who drinks gruel
+random,kannada_en_reviewed,baseline,64,1,B,A,0,0.486036,0.161882,0.204787,0.807798,A,0,,"One way or another, the sons of Kunti don't have eight kingdoms"
+random,kannada_en_reviewed,baseline,65,1,B,B,1,0.339693,0.440818,0.008779,0.339307,A,0,,"A time for the mother-in-law, a time for the daughter-in-law"
+random,kannada_en_reviewed,baseline,66,0,B,A,0,0.514651,0.434951,0.58251,0.803341,A,0,,Desire is the root of sorrow
+random,kannada_en_reviewed,baseline,67,1,B,B,1,0.090782,0.139433,0.417987,0.853954,A,0,,People fell upon people and the neck became empty
+random,kannada_en_reviewed,baseline,68,0,A,B,0,0.197155,0.844813,0.155889,0.053479,B,0,,Sin done unknowingly has a remedy once known
+random,kannada_en_reviewed,baseline,69,1,A,A,1,0.60417,0.528013,0.34175,0.83101,A,1,,"Where there is affection, there is sorrow"
+random,kannada_en_reviewed,baseline,70,1,A,A,1,0.910107,0.596135,0.466289,0.121207,B,0,,"Even if it is his sister's gold, the goldsmith won't leave without stealing"
+random,kannada_en_reviewed,baseline,71,1,A,B,0,0.047362,0.768287,0.468484,0.460132,B,0,,Six bundles of sacred ash for one who doesn't have five bundles
+random,kannada_en_reviewed,baseline,72,1,A,B,0,0.520314,0.659108,0.754678,0.008486,B,0,,"If you marry the one you wanted and wanted, you got a husband who beats"
+random,kannada_en_reviewed,baseline,73,1,B,A,0,0.407108,0.171267,0.92219,0.55416,B,1,,Like the fence rising up and grazing the field
+random,kannada_en_reviewed,baseline,74,1,A,B,0,0.436612,0.916305,0.640526,0.904484,B,0,,"A hemp god, a toddy-drinking priest"
+random,kannada_en_reviewed,baseline,75,0,A,B,0,0.170182,0.791569,0.660742,0.459786,B,0,,There are no poor in desire
+random,kannada_en_reviewed,baseline,76,1,B,B,1,0.106855,0.189268,0.463893,0.923872,A,0,,Like giving charge to a scorpion
+random,kannada_en_reviewed,baseline,77,1,B,A,0,0.326847,0.256714,0.016541,0.941008,A,0,,One without worries sleeps even in the marketplace
+random,kannada_en_reviewed,baseline,78,0,A,A,1,0.782386,0.483742,0.742066,0.863532,A,1,,Patience is greater than charity
+random,kannada_en_reviewed,baseline,79,0,B,A,0,0.326029,0.192336,0.197356,0.705125,A,0,,"Wherever you go, in whichever direction, sorrow doesn't go away"
+random,kannada_en_reviewed,baseline,80,0,B,B,1,0.574239,0.935875,0.465721,0.136351,B,1,,Money is the big uncle (money is supreme)
+random,kannada_en_reviewed,baseline,81,1,A,B,0,0.269097,0.723662,0.520439,0.042871,B,0,,"Even if the god gives a boon, the priest won't"
+random,kannada_en_reviewed,baseline,82,1,A,A,1,0.903864,0.783039,0.180385,0.292314,A,1,,The distant hill looks smooth to the eye
+random,kannada_en_reviewed,baseline,83,1,A,B,0,0.704094,0.823291,0.571925,0.449675,B,0,,"When given as charity for dharma, they went to the backyard and measured it by the cubit"
+random,kannada_en_reviewed,baseline,84,0,B,B,1,0.338919,0.76939,0.145546,0.743757,A,0,,"Everyone does it for the belly, for a span of cloth"
+random,kannada_en_reviewed,baseline,85,1,B,B,1,0.119917,0.724316,0.235195,0.865855,A,0,,Not all light is light; the word of truth is the light
+random,kannada_en_reviewed,baseline,86,1,B,B,1,0.888906,0.983161,0.963181,0.802595,B,1,,"If it hits the left crown of the head, it touched the right crown"
+random,kannada_en_reviewed,baseline,87,1,A,B,0,0.533889,0.749006,0.460707,0.693865,A,1,,A foot that has stumbled stumbles more
+random,kannada_en_reviewed,baseline,88,1,A,B,0,0.520164,0.794139,0.092781,0.857872,A,1,,"At eight years, my son turned into a stalk"
+random,kannada_en_reviewed,baseline,89,1,B,A,0,0.814607,0.218348,0.144043,0.496751,A,0,,"When even such gods are in distress, will a leg-broken god get Kailasa?"
+random,kannada_en_reviewed,baseline,90,1,A,B,0,0.262313,0.737981,0.040583,0.391785,B,0,,All the colors were swallowed by the soot
+random,kannada_en_reviewed,baseline,91,1,B,B,1,0.234936,0.432848,0.3272,0.384151,B,1,,"If everyone sits in the palanquin, who will carry it?"
+random,kannada_en_reviewed,baseline,92,1,B,B,1,0.057672,0.544665,0.005997,0.347359,B,1,,"When two hands clap, there's a sound"
+random,kannada_en_reviewed,baseline,93,1,B,B,1,0.317512,0.712798,0.434234,0.533805,B,1,,"Trusting two Dasas, the blind Dasa was ruined"
+random,kannada_en_reviewed,baseline,94,1,B,B,1,0.007289,0.724225,0.81599,0.373874,B,1,,One who has climbed will come down
+random,kannada_en_reviewed,baseline,95,0,A,A,1,0.550684,0.367175,0.044963,0.119365,A,1,,A husband-and-wife quarrel lasts only until they've eaten and gone to sleep
+random,kannada_en_reviewed,baseline,96,1,A,B,0,0.187248,0.617253,0.594941,0.265486,B,0,,Like holding the tail of the winning ox
+random,kannada_en_reviewed,baseline,97,1,A,A,1,0.708058,0.351533,0.666966,0.253348,B,0,,A Brahmastra on a sparrow?
+random,kannada_en_reviewed,baseline,98,1,B,A,0,0.459712,0.207922,0.511494,0.382975,A,0,,"Winnow when the wind comes, sell when the price comes"
+random,kannada_en_reviewed,baseline,99,1,B,A,0,0.738875,0.469582,0.628127,0.765853,A,0,,"No fuss or noise at all, Govinda Bhatta fell into the well"
+random,kannada_en_reviewed,baseline,100,1,B,A,0,0.972034,0.41889,0.857755,0.571007,A,0,,"In name the wife is missing, the son's name is Nanjunda"
+random,kannada_en_reviewed,baseline,101,1,B,B,1,0.534187,0.653188,0.350503,0.526485,A,0,,"When told 'Gone, ghost?', it said 'I came back through the window'"
+random,kannada_en_reviewed,baseline,102,1,A,A,1,0.620174,0.098252,0.515233,0.400393,A,1,,"In a ruined village, whoever remains is the headman (Gowda)"
+random,kannada_en_reviewed,baseline,103,1,B,A,0,0.669982,0.036747,0.447468,0.223374,A,0,,"Drop by drop becomes a stream, ear by ear becomes paddy"
+random,kannada_en_reviewed,baseline,104,1,B,A,0,0.814387,0.527752,0.971504,0.79894,A,0,,The wide-mouthed Dasa who sings the same song again and again
+random,kannada_en_reviewed,baseline,105,1,B,B,1,0.552036,0.810231,0.872826,0.973525,B,1,,"To the parents the bandicoot is a darling, to the companions the monkey is a darling"
+random,kannada_en_reviewed,baseline,106,1,A,A,1,0.655251,0.262406,0.88475,0.436746,B,0,,The eldest brother's habit goes to everyone in the house
+random,kannada_en_reviewed,baseline,107,1,A,A,1,0.853596,0.55251,0.519973,0.748803,A,1,,A backyard plant is not medicine
+random,kannada_en_reviewed,baseline,108,1,A,A,1,0.650985,0.634853,0.856177,0.041712,B,0,,Why the club-wielding chief's permission for river water?
+random,kannada_en_reviewed,baseline,109,1,B,B,1,0.69391,0.781486,0.271464,0.825611,A,0,,In the beginning the washerman lifted the sack again and again and beat it on the stone
+random,kannada_en_reviewed,baseline,110,1,A,B,0,0.156368,0.843774,0.624434,0.194901,B,0,,An old patient is better than a new doctor
+random,kannada_en_reviewed,baseline,111,1,A,B,0,0.623989,0.811152,0.05964,0.798091,A,1,,"No flour for the belly, jasmine flowers for the hair knot"
+random,kannada_en_reviewed,baseline,112,1,A,B,0,0.117841,0.213672,0.913924,0.500549,B,0,,The god who gave birth will make you graze grass
+random,kannada_en_reviewed,baseline,113,1,B,A,0,0.875789,0.667837,0.584916,0.237957,B,1,,"At a mad widow's wedding, the one who ate is the clever one"
+random,kannada_en_reviewed,baseline,114,1,A,B,0,0.454368,0.708732,0.889011,0.295808,B,0,,"Along with the flower, the fiber reached heaven"
+random,kannada_en_reviewed,baseline,115,1,B,A,0,0.31738,0.199587,0.294255,0.052082,B,1,,"Let the festival go well, let the wall be safe, let the visiting in-laws eat and go"
+random,kannada_en_reviewed,baseline,116,0,B,A,0,0.806293,0.180746,0.751504,0.576385,A,0,,"Worry at night ruins sleep, worry in the day ruins work"
+random,kannada_en_reviewed,baseline,117,1,B,A,0,0.095506,0.054496,0.289801,0.520335,A,0,,Say it as it is and thunder strikes Siddappa
+random,kannada_en_reviewed,baseline,118,1,B,B,1,0.227489,0.255323,0.631687,0.630806,B,1,,Like falling in the daytime into a well you saw at night
+random,kannada_en_reviewed,baseline,119,1,A,A,1,0.568776,0.334569,0.234012,0.95751,A,1,,"Even if the whole body sinks, the nose stays up"
+random,kannada_en_reviewed,baseline,120,1,B,B,1,0.392865,0.489502,0.151719,0.264738,A,0,,Will the one who was merely kept stay? Will the one who was wedded be cut off?
+random,kannada_en_reviewed,baseline,121,1,A,B,0,0.542655,0.693295,0.513234,0.453237,B,0,,News of the town you are in shouldn't be raised where you are; news of the town you have left shouldn't be raised where you have gone
+random,kannada_en_reviewed,baseline,122,1,A,B,0,0.075645,0.943268,0.93215,0.542218,B,0,,"Said it as it was, and the face turned hawk-like"
+random,kannada_en_reviewed,baseline,123,1,A,A,1,0.659754,0.032902,0.969503,0.098162,B,0,,What existed was lost through the medicine's effect
+random,kannada_en_reviewed,baseline,124,1,A,B,0,0.536973,0.966669,0.318857,0.756436,A,1,,"A headman (Gowda) where he is, deaf where he goes"
+random,kannada_en_reviewed,baseline,125,1,A,A,1,0.652873,0.449851,0.296867,0.973842,A,1,,"Kin as far as Ikkeri, but no cloth to cover his shame"
+random,kannada_en_reviewed,baseline,126,1,B,B,1,0.045848,0.072235,0.303863,0.858588,A,0,,Don't set the house on fire because the rats have increased
+random,kannada_en_reviewed,baseline,127,1,B,A,0,0.737274,0.438909,0.311083,0.707733,A,0,,A cat as witness in the rat's dispute
+random,kannada_en_reviewed,baseline,128,1,B,B,1,0.438493,0.559818,0.377926,0.592642,A,0,,Better to live three days as a tiger than a hundred days as a rat
+random,kannada_en_reviewed,baseline,129,1,B,B,1,0.157799,0.167601,0.020491,0.51482,A,0,,"Said 'come here, come here' and he snatched even the house that was there"
+random,kannada_en_reviewed,baseline,130,0,A,A,1,0.476538,0.324905,0.602166,0.423206,B,0,,"Though the wrestler fell, his moustache didn't get dirty"
+random,kannada_en_reviewed,baseline,131,1,B,B,1,0.552676,0.733131,0.19703,0.647957,A,0,,Are the people mad or is the fair mad?
+random,kannada_en_reviewed,baseline,132,0,A,A,1,0.917195,0.014595,0.29803,0.891529,A,1,,"If there's money, Kailasa; if not, exile in the forest"
+random,kannada_en_reviewed,baseline,133,0,B,A,0,0.927207,0.615282,0.668663,0.295186,B,1,,Hardship and happiness are the two faces of life
+random,kannada_en_reviewed,baseline,134,1,A,B,0,0.610331,0.710577,0.700616,0.371817,B,0,,One who couldn't manage what was in hand took a lease on a kombe tree
+random,kannada_en_reviewed,baseline,135,1,A,A,1,0.52715,0.107618,0.101895,0.207925,A,1,,The sin of killing is remedied by eating
+random,kannada_en_reviewed,baseline,136,1,B,B,1,0.313801,0.504909,0.795602,0.162992,B,1,,A stalk in the hand is better than the bundle inside the mirror
+random,kannada_en_reviewed,baseline,137,0,B,A,0,0.608728,0.0964,0.769556,0.639434,A,0,,Wisdom came after being ruined
+random,kannada_en_reviewed,baseline,138,1,B,A,0,0.933908,0.076542,0.730081,0.88849,A,0,,"Though the pin is small, it runs the wind"
+random,kannada_en_reviewed,baseline,139,1,B,A,0,0.385704,0.096544,0.925931,0.081452,B,1,,"Fame is Kailasa, infamy is hell"
+random,kannada_en_reviewed,baseline,140,1,B,A,0,0.671571,0.283176,0.206228,0.231538,A,0,,Can a nose cut off in anger be restored in peace?
+random,kannada_en_reviewed,baseline,141,1,A,B,0,0.503666,0.513668,0.983883,0.604221,B,0,,The monkey not only ruined itself but ruined the forest too
+random,kannada_en_reviewed,baseline,142,1,B,B,1,0.416329,0.913449,0.782331,0.990301,B,1,,"A monkey-like fellow provoked, got struck by the pestle, and writhed"
+random,kannada_en_reviewed,baseline,143,1,B,A,0,0.871035,0.727539,0.492067,0.208354,B,1,,She had the baby's gown stitched before the baby was born
+random,kannada_en_reviewed,baseline,144,1,B,A,0,0.771477,0.575403,0.702757,0.87596,A,0,,A pot of gold is not enough for one who sits and eats
+random,kannada_en_reviewed,baseline,145,0,A,A,1,0.869579,0.112499,0.704582,0.082887,A,1,,One who holds back when great anger comes is the wise one
+random,kannada_en_reviewed,baseline,146,0,B,A,0,0.779592,0.076625,0.930399,0.448574,A,0,,"Not seeing what you saw is best, seeing what you saw is middling, claiming to see what you didn't see is lowest"
+random,kannada_en_reviewed,baseline,147,1,B,B,1,0.011831,0.725973,0.841661,0.653152,B,1,,Like pushing other people's children into a well to see how deep it is
+random,kannada_en_reviewed,baseline,148,0,B,B,1,0.434445,0.773479,0.513829,0.768486,B,1,,"Even if destitute, one should not become beholden"
+random,kannada_en_reviewed,baseline,149,0,A,A,1,0.953173,0.638217,0.647957,0.503375,A,1,,"One can guard the threshing floor, but one cannot guard a corpse"
+random,kannada_en_reviewed,baseline,150,1,A,B,0,0.620039,0.865546,0.537369,0.463517,B,0,,A built tank can't avoid its spillway; the house one was born in can't avoid parting
+random,kannada_en_reviewed,baseline,151,1,A,A,1,0.810243,0.025627,0.677684,0.917274,A,1,,"To get the work done, hold the donkey's feet"
+random,kannada_en_reviewed,baseline,152,1,B,A,0,0.567982,0.560403,0.300051,0.314911,A,0,,"To the jaundiced eye, everything seen is yellow"
+random,kannada_en_reviewed,baseline,153,1,B,A,0,0.810887,0.383692,0.421053,0.716757,A,0,,"If the sugarcane is crooked, is its sweetness crooked?"
+random,kannada_en_reviewed,baseline,154,1,A,A,1,0.974555,0.186592,0.299941,0.640381,A,1,,"A biting dog doesn't bark, a barking dog doesn't bite"
+random,kannada_en_reviewed,baseline,155,1,B,A,0,0.787347,0.732833,0.994543,0.266232,B,1,,The morsel that came to the hand is not for the mouth
+random,kannada_en_reviewed,baseline,156,1,A,A,1,0.797289,0.502138,0.44542,0.04505,B,0,,"A salutation in the hand, a club under the arm"
+random,kannada_en_reviewed,baseline,157,1,B,B,1,0.138579,0.336329,0.86818,0.980575,B,1,,When there's a stone there's no dog; when there's a dog there's no stone
+random,kannada_en_reviewed,baseline,158,1,A,A,1,0.957258,0.436771,0.931313,0.296102,B,0,,"If camphor is put in the dungheap, does it lose its own smell?"
+random,kannada_en_reviewed,baseline,159,1,B,A,0,0.438138,0.127909,0.907811,0.289011,B,1,,To tell a story there must be those who say 'hum'; to live upright there must be those who say 'chee'
+random,kannada_en_reviewed,baseline,160,0,A,B,0,0.127469,0.963073,0.084373,0.458303,B,0,,"No sense at the time of ruin, no medicine at the time of death"
+random,kannada_en_reviewed,baseline,161,1,B,A,0,0.618322,0.488702,0.054897,0.106851,A,0,,A forest can be burned by a spark
+random,kannada_en_reviewed,baseline,162,1,B,A,0,0.914229,0.548149,0.285343,0.964647,A,0,,Even the axe's handle is death to its clan
+random,kannada_en_reviewed,baseline,163,1,A,B,0,0.350079,0.648819,0.885507,0.393939,B,0,,"The bull buffalo's pain of kosey, the she-buffalo's pain of giving birth"
+random,kannada_en_reviewed,baseline,164,1,A,A,1,0.714903,0.528548,0.636279,0.335289,B,0,,"The giver is a clown, the taker is Veerabhadra"
+random,kannada_en_reviewed,baseline,165,1,B,A,0,0.754104,0.08432,0.529972,0.745959,A,0,,A dog that had seen no order licked the skull
+random,kannada_en_reviewed,baseline,166,1,A,A,1,0.468251,0.386698,0.823482,0.232927,B,0,,A year for the potter; a minute for the club
+random,kannada_en_reviewed,baseline,167,1,A,B,0,0.586829,0.600789,0.765857,0.081092,B,0,,A squint eye is better than a blind eye
+random,kannada_en_reviewed,baseline,168,1,A,A,1,0.830304,0.310764,0.724075,0.419325,A,1,,"There's no woman to call 'hey', yet the son's name is Muddu-Ranga"
+random,kannada_en_reviewed,baseline,169,0,B,B,1,0.056203,0.598193,0.685598,0.703573,B,1,,"Know the world, learn accounts"
+random,kannada_en_reviewed,baseline,170,1,B,A,0,0.666788,0.52153,0.318228,0.481128,A,0,,"Give a bribe and climb the cot, cheat and climb Kailasa"
+random,kannada_en_reviewed,baseline,171,1,A,B,0,0.057577,0.092177,0.009185,0.749732,A,1,,Business without profit is like a donkey scratching its body
+random,kannada_en_reviewed,baseline,172,1,B,B,1,0.339429,0.705034,0.785481,0.037852,B,1,,"Even if it's greens sambar, eat a counted ragi ball"
+random,kannada_en_reviewed,baseline,173,1,A,B,0,0.168165,0.91639,0.739147,0.786827,B,0,,"After the lingam is torn, what obligation is there to the Jangama?"
+random,kannada_en_reviewed,baseline,174,1,A,B,0,0.107853,0.199527,0.882805,0.172804,B,0,,"A club blow for the fool, a word blow for the wise"
+random,kannada_en_reviewed,baseline,175,1,A,A,1,0.50682,0.331831,0.159032,0.646661,A,1,,"A calamity (Mari) at home, a benefactor to the town"
+random,kannada_en_reviewed,baseline,176,1,B,B,1,0.055438,0.105478,0.090779,0.53719,A,0,,The one who comes falling on you is last among the three 'kaami'
+random,kannada_en_reviewed,baseline,177,1,B,A,0,0.58862,0.244878,0.387927,0.165861,A,0,,One who has given up the three is big in the town
+random,kannada_en_reviewed,baseline,178,1,A,A,1,0.616459,0.579901,0.957015,0.218618,B,0,,"Does wrong, but has a Brindavan in front of the house"
+random,kannada_en_reviewed,baseline,179,0,B,A,0,0.897283,0.406311,0.440725,0.518458,A,0,,One who knows speech has no quarrel; one who knows eating has no disease
+random,kannada_en_reviewed,baseline,180,1,A,B,0,0.040247,0.978762,0.036465,0.607635,B,0,,"Speech ruined the house, the hole ruined the stove"
+random,kannada_en_reviewed,baseline,181,0,A,B,0,0.914332,0.971376,0.471669,0.511868,B,0,,"Perform a wedding and see, build a house and see"
+random,kannada_en_reviewed,baseline,182,1,B,B,1,0.90448,0.929195,0.000126,0.112108,A,0,,"When told 'Gunda is getting married', he said 'you yourself are my wife'"
+random,kannada_en_reviewed,baseline,183,1,A,B,0,0.170132,0.535285,0.868739,0.451839,B,0,,"Smitten on seeing the face, moved away on seeing the character"
+random,kannada_en_reviewed,baseline,184,1,B,B,1,0.453709,0.731841,0.179997,0.552314,A,0,,They dug a well when the house caught fire
+random,kannada_en_reviewed,baseline,185,1,A,A,1,0.498283,0.275474,0.468617,0.835568,A,1,,"Remove a thorn with a thorn, remove enmity with enmity"
+random,kannada_en_reviewed,baseline,186,1,B,B,1,0.1068,0.240523,0.519452,0.237514,B,1,,"Pregnant out of deference, with no place to give birth"
+random,kannada_en_reviewed,baseline,187,1,B,B,1,0.807924,0.921256,0.63782,0.31779,B,1,,"A pearl once broken is gone, a word once spoken is gone"
+random,kannada_en_reviewed,baseline,188,1,B,B,1,0.650199,0.78407,0.235837,0.822301,A,0,,The monkey's rule is on the tree branch
+random,kannada_en_reviewed,baseline,189,1,B,A,0,0.601734,0.555802,0.21743,0.116807,B,1,,The talkative Brahma is like a pot with holes
+random,kannada_en_reviewed,baseline,190,1,A,A,1,0.988375,0.429522,0.012033,0.021437,A,1,,Our own eye ruined it for us
+random,kannada_en_reviewed,baseline,191,1,A,B,0,0.213704,0.973249,0.595569,0.161062,B,0,,"Speech ancient, conduct that of a Kirata"
+random,kannada_en_reviewed,baseline,192,1,A,B,0,0.104741,0.221546,0.22451,0.526937,A,1,,"What is rain, what is cold, to one who has fallen into the water?"
+random,kannada_en_reviewed,baseline,193,1,A,B,0,0.01447,0.641733,0.721399,0.680627,B,0,,"Even fallen underneath, the nose is up"
+random,kannada_en_reviewed,baseline,194,1,A,A,1,0.882089,0.872755,0.03744,0.047534,A,1,,A dog's tail is always crooked
+random,kannada_en_reviewed,baseline,195,1,B,A,0,0.977569,0.786284,0.397486,0.019451,B,1,,"If a dog barks, is heaven ruined?"
+random,kannada_en_reviewed,baseline,196,1,A,A,1,0.571339,0.01011,0.778868,0.216697,B,0,,"Learning conduct is an uphill rock, losing conduct is a slide"
+random,kannada_en_reviewed,baseline,197,1,B,B,1,0.342481,0.418076,0.239452,0.932607,A,0,,"The dog has no work, no time to stand"
+random,kannada_en_reviewed,baseline,198,0,A,A,1,0.659364,0.489827,0.208111,0.79998,A,1,,One who becomes courteous will become victorious
+random,kannada_en_reviewed,baseline,199,1,B,A,0,0.991353,0.62527,0.531595,0.944939,A,0,,"Invite all the relatives, but don't put your hand into the kantale bag"
+random,kannada_en_reviewed,baseline,200,0,A,B,0,0.739766,0.769122,0.474225,0.084542,B,0,,Speaking the truth brings resentment
+random,kannada_en_reviewed,baseline,201,0,A,B,0,0.314126,0.384726,0.799204,0.048116,B,0,,No prosperity for those without honesty
+random,kannada_en_reviewed,baseline,202,1,B,B,1,0.035615,0.040658,0.979204,0.406049,B,1,,Pickle that isn't there at mealtime is equal to dirt
+random,kannada_en_reviewed,baseline,203,1,A,A,1,0.654463,0.382155,0.817145,0.779016,A,1,,"Lime for one eye, butter for the other eye"
+random,kannada_en_reviewed,baseline,204,1,B,B,1,0.179488,0.973158,0.383584,0.88777,B,1,,"If you fall into a well in one fit of anger, you can't get up even in seven fits of anger"
+random,kannada_en_reviewed,baseline,205,1,B,A,0,0.923121,0.332123,0.410052,0.077293,A,0,,"Fire eats the dry tree, worry eats the green tree"
+random,kannada_en_reviewed,baseline,206,1,A,B,0,0.652767,0.789267,0.90691,0.490385,B,0,,What comes to one's lot is panchamrita
+random,kannada_en_reviewed,baseline,207,1,A,A,1,0.842634,0.205265,0.951053,0.210748,B,0,,What does it matter what happens to what isn't in one's share?
+random,kannada_en_reviewed,baseline,208,1,B,B,1,0.355086,0.893761,0.841295,0.084777,B,1,,Say 'poor thing' and karma comes
+random,kannada_en_reviewed,baseline,209,1,B,B,1,0.610366,0.735384,0.723287,0.018538,B,1,,Bought a curse so that sin wouldn't come
+random,kannada_en_reviewed,baseline,210,1,A,B,0,0.078239,0.842953,0.406002,0.414308,B,0,,Mocked others and got called a monkey
+random,kannada_en_reviewed,baseline,211,1,A,A,1,0.768709,0.416414,0.392628,0.447953,A,1,,"When youth came, the measure was lost"
+random,kannada_en_reviewed,baseline,212,1,B,B,1,0.457234,0.568583,0.550587,0.913741,A,0,,Everything the virtuous one touches is gold
+random,kannada_en_reviewed,baseline,213,1,B,A,0,0.249079,0.017278,0.416373,0.812649,A,0,,"Though Putya's sorghum is finished, Hotya's song isn't finished"
+random,kannada_en_reviewed,baseline,214,1,A,B,0,0.055613,0.968545,0.232659,0.193911,B,0,,"The free husband ate to his belly's fill, the house husband fell down groaning"
+random,kannada_en_reviewed,baseline,215,1,B,A,0,0.989329,0.247082,0.735322,0.686325,A,0,,"The civet cat, not knowing its own scent, is said to wander the whole forest and die"
+random,kannada_en_reviewed,baseline,216,1,B,B,1,0.574493,0.617068,0.066359,0.500856,A,0,,"If you tell a Purana, will flowers fall?"
+random,kannada_en_reviewed,baseline,217,1,B,A,0,0.56482,0.46387,0.113884,0.510771,A,0,,Will the brinjal in the book come to the curry?
+random,kannada_en_reviewed,baseline,218,1,A,A,1,0.952505,0.942265,0.584981,0.596392,A,1,,"Though he doesn't know the manner, he knows the talk"
+random,kannada_en_reviewed,baseline,219,1,A,B,0,0.329041,0.716744,0.022172,0.677922,A,1,,Talk without propriety is a headache
+random,kannada_en_reviewed,baseline,220,0,A,B,0,0.261465,0.728133,0.550393,0.341981,B,0,,"There is medicine for disease, there is no medicine for character"
+random,kannada_en_reviewed,baseline,221,0,A,A,1,0.213873,0.123186,0.355188,0.207211,B,0,,Those smitten by beauty have no fear of sin
+random,kannada_en_reviewed,baseline,222,1,B,A,0,0.257857,0.035455,0.509613,0.957093,A,0,,Royal pomp is the mark of a pauper
+random,kannada_en_reviewed,baseline,223,0,B,B,1,0.074688,0.783785,0.235729,0.244693,B,1,,"As long as the king lives, the queen enjoys"
+random,kannada_en_reviewed,baseline,224,1,A,B,0,0.801825,0.930201,0.024114,0.309352,A,1,,"If the gem is good, it grows in the very place it is"
+random,kannada_en_reviewed,baseline,225,1,A,B,0,0.241547,0.46069,0.028741,0.514619,A,1,,The bird that eats gems fell in with the crow and became a guest at the leftover leaf
+random,kannada_en_reviewed,baseline,226,1,B,A,0,0.656098,0.529048,0.933438,0.162877,B,1,,"The winner lost, the loser died"
+random,kannada_en_reviewed,baseline,227,1,B,A,0,0.530018,0.070313,0.317399,0.956776,A,0,,"When told 'say something auspicious, Soma', he said 'an owl is visible, uncle'"
+random,kannada_en_reviewed,baseline,228,1,A,B,0,0.070796,0.374336,0.645798,0.086965,B,0,,The ascetic's wife is neither a widow nor a married woman
+random,kannada_en_reviewed,baseline,229,0,A,A,1,0.996123,0.528615,0.346399,0.216218,A,1,,"Worldly life is a river of the ocean; to one who can swim, it's chest-deep"
+random,kannada_en_reviewed,baseline,230,0,A,B,0,0.027164,0.706715,0.358763,0.465444,B,0,,"Keep family matters secret, disease matters out"
+random,kannada_en_reviewed,baseline,231,1,B,B,1,0.382409,0.770466,0.512574,0.173284,B,1,,"Worldly life is an ocean; one must swim, stay, and win"
+random,kannada_en_reviewed,baseline,232,1,A,B,0,0.066068,0.951644,0.35378,0.063787,B,0,,Associating with a householder spoiled the ascetic
+random,kannada_en_reviewed,baseline,233,1,A,B,0,0.376336,0.89019,0.761677,0.426756,B,0,,Asked what worries an ascetic: the only worry is food
+random,kannada_en_reviewed,baseline,234,1,B,A,0,0.760486,0.243691,0.876114,0.523899,A,0,,The ways of those touched by wealth are different
+random,kannada_en_reviewed,baseline,235,1,A,B,0,0.752341,0.862777,0.38185,0.214528,B,0,,"Home stay for the daughter-in-law, exile for the mother-in-law"
+random,kannada_en_reviewed,baseline,236,0,B,B,1,0.320668,0.744913,0.69997,0.087081,B,1,,"Independence went, dependence came"
+random,kannada_en_reviewed,baseline,237,1,B,B,1,0.305245,0.580803,0.060666,0.926436,A,0,,"A woman's form is the form, adornment is the rasa"
+random,kannada_en_reviewed,baseline,238,0,B,A,0,0.951224,0.085627,0.379384,0.244949,A,0,,"Sorrow after joy, joy after sorrow"
+random,kannada_en_reviewed,baseline,239,1,A,B,0,0.134542,0.254577,0.864314,0.958291,B,0,,"Even if you lie, say it as if hitting the crown of the truth"
+random,kannada_en_reviewed,baseline,240,1,B,A,0,0.90084,0.63745,0.365216,0.693044,A,0,,"A false god, a thieving priest"
+random,kannada_en_reviewed,baseline,241,1,A,A,1,0.777421,0.096269,0.096278,0.054448,A,1,,"I've become pregnant, once in a blue moon; don't move, husband"
+random,kannada_en_reviewed,baseline,242,0,A,A,1,0.901376,0.198402,0.854547,0.665859,A,1,,"Even if you miss your own dharma, don't commit adharma"
+random,kannada_en_reviewed,baseline,243,1,A,A,1,0.344857,0.232015,0.752212,0.909544,A,1,,Both heaven and fort were lost
+random,kannada_en_reviewed,baseline,244,1,A,A,1,0.461507,0.019272,0.33673,0.358176,A,1,,"A title for every head, but ruined with nothing for the belly"
+random,kannada_en_reviewed,baseline,245,1,A,B,0,0.770091,0.909,0.832387,0.687804,B,0,,"When the orphan shaved his head, hailstones rained"
+random,kannada_en_reviewed,baseline,246,1,B,A,0,0.423091,0.221874,0.315054,0.212763,A,0,,"He who cannot live in his own town, will he live in another's town?"
+random,kannada_en_reviewed,baseline,247,1,A,B,0,0.259869,0.805069,0.303173,0.503474,B,0,,"A Ranga in his own town, a monkey in another's town"
+random,kannada_en_reviewed,baseline,248,1,A,A,1,0.55289,0.009902,0.75805,0.934804,A,1,,"Went to do a favor, trouble came"
+random,kannada_en_reviewed,baseline,249,0,B,A,0,0.704528,0.164414,0.094463,0.38738,A,0,,"One can fast, but cannot bear harassment"
+random,kannada_en_reviewed,baseline,250,1,B,A,0,0.468903,0.217293,0.358143,0.50228,A,0,,Like filling salt into a burning belly
+random,kannada_en_reviewed,baseline,251,0,B,A,0,0.266378,0.18975,0.552933,0.437472,B,1,,What does the day of the week matter for dealing? What does the time matter for trade?
+random,kannada_en_reviewed,baseline,252,1,B,B,1,0.097513,0.534762,0.777019,0.852494,B,1,,"Swaying doll, float when you fall into water"
+random,kannada_en_reviewed,baseline,253,1,B,B,1,0.547054,0.608235,0.165817,0.524269,A,0,,"A cow that won't, a calf that won't eat"
+random,kannada_en_reviewed,baseline,254,1,B,A,0,0.861213,0.577845,0.503768,0.930483,A,0,,"The forest became fruit, the parrot's mouth got ulcers"
+random,kannada_en_reviewed,baseline,255,0,A,A,1,0.993469,0.45001,0.750604,0.208006,A,1,,Why do you get ruined listening to whose words? Listen to me and live
+random,kannada_en_reviewed,baseline,256,1,A,A,1,0.907806,0.793575,0.814857,0.890792,A,1,,Who knows which snake is in which anthill
+random,kannada_en_reviewed,baseline,257,0,B,A,0,0.575439,0.459539,0.775483,0.562576,B,1,,"Whatever season fails, the season of death never fails"
+random,kannada_en_reviewed,baseline,258,1,B,A,0,0.756669,0.477149,0.658318,0.940019,A,0,,Like learning sword-play in the time of war
+random,kannada_en_reviewed,baseline,259,0,A,A,1,0.786845,0.715909,0.360887,0.338409,A,1,,Learn a wise word even from children
+random,kannada_en_reviewed,baseline,260,0,B,B,1,0.582529,0.699348,0.879025,0.791681,B,1,,Enjoyment only as much as destiny allows
+random,kannada_en_reviewed,baseline,261,1,A,B,0,0.070538,0.631252,0.406515,0.010013,B,0,,"What the ascetic brought is for the ascetic, what the pleasure-seeker brought is for the pleasure-seeker"
+random,kannada_en_reviewed,baseline,262,1,B,B,1,0.438271,0.877821,0.39237,0.931907,A,0,,A ruler who doesn't know worth and a doctor who doesn't know disease are the same
+random,kannada_en_reviewed,baseline,263,1,A,B,0,0.477169,0.986739,0.111626,0.207889,B,0,,Like going to a town where nobody is and wanting water and buttermilk
+random,kannada_en_reviewed,baseline,264,1,B,B,1,0.608596,0.736631,0.82261,0.483325,B,1,,"To a house where no one is, he said 'I am Jogappa'"
+random,kannada_en_reviewed,baseline,265,0,A,B,0,0.711703,0.881116,0.345058,0.269085,B,0,,"As the king, so the subjects"
+random,kannada_en_reviewed,baseline,266,1,B,B,1,0.249693,0.393048,0.747261,0.85183,B,1,,"When he told his sorrow to his sister's husband, he said 'leave your children and come'"
+random,kannada_en_reviewed,baseline,267,1,A,B,0,0.422847,0.611986,0.090541,0.469508,A,1,,Like raising a pumpkin and giving it to the pot-maker
+random,kannada_en_reviewed,baseline,268,1,A,B,0,0.319249,0.810521,0.093587,0.68325,A,1,,"After death, what if he went anywhere?"
+random,kannada_en_reviewed,baseline,269,1,A,B,0,0.023993,0.356237,0.508597,0.301115,B,0,,Will a dead hen peck at paddy?
+random,kannada_en_reviewed,baseline,270,1,A,B,0,0.585636,0.686379,0.815295,0.762217,B,0,,Like the herdsmen building a monastery
+random,kannada_en_reviewed,baseline,271,1,A,B,0,0.184926,0.495385,0.597683,0.168146,B,0,,"The male is a boulder, the female is lame"
+random,kannada_en_reviewed,baseline,272,1,B,A,0,0.879769,0.311588,0.14428,0.052358,A,0,,"The man ruined by sitting, the woman ruined by wandering"
+random,kannada_en_reviewed,baseline,273,1,A,A,1,0.787968,0.227895,0.883995,0.516483,A,1,,"When the husband was there, no sense; when sense came, no husband"
+random,kannada_en_reviewed,baseline,274,1,A,A,1,0.864064,0.562284,0.150819,0.197033,A,1,,"Evening doesn't come without chatter, the road doesn't wear out without company"
+random,kannada_en_reviewed,baseline,275,1,A,A,1,0.335183,0.295682,0.120392,0.739537,A,1,,"Play for the cat, mortal agony for the mouse"
+random,kannada_en_reviewed,baseline,276,1,A,A,1,0.916563,0.88522,0.586136,0.956356,A,1,,Like the monkey that tasted sweetness climbing the loft
+random,kannada_en_reviewed,baseline,277,1,B,B,1,0.887743,0.890501,0.17679,0.945493,A,0,,"Ruined by not asking for the loan given, ruined by not looking at the field sown"
+random,kannada_en_reviewed,baseline,278,1,A,B,0,0.2576,0.648424,0.230323,0.404461,B,0,,Like keeping the mirror in the hand and looking for the face in the water
+random,kannada_en_reviewed,baseline,279,1,A,A,1,0.484249,0.427415,0.01977,0.680061,A,1,,What came to the hand did not reach the mouth
+random,kannada_en_reviewed,baseline,280,1,A,A,1,0.94692,0.253487,0.582694,0.129342,A,1,,"A lame cry for one who cries lame, a standing cry for one who cries standing"
+random,kannada_en_reviewed,baseline,281,1,B,B,1,0.177954,0.416773,0.404717,0.559524,B,1,,What is day to a blind man? What is night?
+random,kannada_en_reviewed,baseline,282,1,B,B,1,0.574999,0.634921,0.722534,0.505029,B,1,,"Though small, Shiva's wisdom"
+random,kannada_en_reviewed,baseline,283,1,A,A,1,0.690932,0.053284,0.363044,0.569451,A,1,,"Though there is stream water, well water is better"
+random,kannada_en_reviewed,baseline,284,1,A,A,1,0.885807,0.283461,0.442338,0.631264,A,1,,"Even if you blame your mother, don't blame water"
+random,kannada_en_reviewed,baseline,285,1,B,B,1,0.593981,0.958001,0.481875,0.893573,A,0,,"Even if it is trash, make it tasty and eat it"
+random,kannada_en_reviewed,baseline,286,1,A,A,1,0.647074,0.103242,0.612432,0.01017,B,0,,"Even if the salary is six kaasu, do palace work"
+random,kannada_en_reviewed,baseline,287,1,A,B,0,0.18902,0.942442,0.037864,0.435735,B,0,,"Talk increased and the house was ruined, seed increased and the field was ruined"
+random,kannada_en_reviewed,baseline,288,1,B,B,1,0.011828,0.755061,0.665704,0.560018,B,1,,"No chest without a bullock, no home without children"
+random,kannada_en_reviewed,baseline,289,1,A,B,0,0.478059,0.857829,0.226304,0.223855,B,0,,Don't scatter ruin saying 'I am ruined'
+random,kannada_en_reviewed,baseline,290,0,A,B,0,0.218725,0.719603,0.635293,0.811317,B,0,,Pat your head and walk looking at the ground
+random,kannada_en_reviewed,baseline,291,1,B,A,0,0.114367,0.018918,0.923374,0.713778,B,1,,"The head man's word: salt in front, jaggery behind"
+random,kannada_en_reviewed,baseline,292,0,A,B,0,0.099253,0.374348,0.851072,0.222794,B,0,,"Father's word, an elephant's strength"
+random,kannada_en_reviewed,baseline,293,0,B,A,0,0.874737,0.38651,0.763725,0.977425,A,0,,Don't separate elder and younger brother
+random,kannada_en_reviewed,baseline,294,0,A,A,1,0.942699,0.032878,0.450699,0.223333,A,1,,Health is wealth
+random,kannada_en_reviewed,baseline,295,0,B,B,1,0.10621,0.167369,0.057534,0.650165,A,0,,Slowness is the chief thing
+random,kannada_en_reviewed,baseline,296,0,A,A,1,0.573534,0.367218,0.420626,0.239547,A,1,,There is no age for learning
+random,kannada_en_reviewed,baseline,297,0,B,B,1,0.256506,0.89194,0.728833,0.842741,B,1,,There is strength in unity
+random,kannada_en_reviewed,baseline,298,0,B,A,0,0.552684,0.357795,0.465868,0.265481,B,1,,"Saying is easy, doing is hard"
+random,kannada_en_reviewed,baseline,299,0,B,B,1,0.970137,0.97345,0.386991,0.637979,A,0,,Many drops joined make a stream
+random,kannada_en_reviewed,baseline,300,0,A,A,1,0.529798,0.35003,0.275598,0.535564,A,1,,The prosperity of a growing plant is seen in the sprout
+random,kannada_en_reviewed,baseline,301,0,A,B,0,0.115137,0.332022,0.227959,0.806691,A,1,,There is no taste greater than salt
+random,kannada_en_reviewed,baseline,302,0,A,A,1,0.70418,0.634813,0.865534,0.211658,B,0,,The fence is witness for the garden lizard
+random,kannada_en_reviewed,baseline,303,1,B,A,0,0.869097,0.608851,0.639801,0.779034,A,0,,Does a sore on the palm need a mirror?
+random,kannada_en_reviewed,baseline,304,0,A,A,1,0.969121,0.808026,0.288545,0.079688,B,0,,Sense came after being ruined
+random,kannada_en_reviewed,baseline,305,1,B,A,0,0.422087,0.306842,0.775889,0.962645,A,0,,Two hands joined make a clap
+random,kannada_en_reviewed,baseline,306,1,B,B,1,0.484563,0.611604,0.490872,0.832225,A,0,,"Counts for the game, not for the reckoning"

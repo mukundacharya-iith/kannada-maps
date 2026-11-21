@@ -1,0 +1,17 @@
+{
+ "model": "sarvam-1",
+ "hf_id": "sarvamai/sarvam-1",
+ "model_type": "causal",
+ "dataset": "kannada_test",
+ "condition": "self_explanation",
+ "n": 305,
+ "accuracy": 0.8361,
+ "accuracy_swap": 0.8525,
+ "raw_pred_A": 135,
+ "template_version": "v1",
+ "seed": 0,
+ "date_utc": "2026-11-15T16:16:50+00:00",
+ "python": "3.13.16",
+ "torch": "2.14.1+cu130",
+ "transformers": "5.5.4"
+}

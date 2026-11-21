@@ -1,0 +1,18 @@
+{
+  "random":         {"type": "random"},
+
+  "mt0-base":       {"type": "seq2seq", "hf_id": "bigscience/mt0-base"},
+  "mt0-large":      {"type": "seq2seq", "hf_id": "bigscience/mt0-large"},
+  "mt0-xl":         {"type": "seq2seq", "hf_id": "bigscience/mt0-xl"},
+
+  "bloomz-560m":    {"type": "causal", "hf_id": "bigscience/bloomz-560m"},
+  "bloomz-1b7":     {"type": "causal", "hf_id": "bigscience/bloomz-1b7"},
+  "bloomz-3b":      {"type": "causal", "hf_id": "bigscience/bloomz-3b"},
+
+  "qwen2.5-1.5b":   {"type": "causal", "hf_id": "Qwen/Qwen2.5-1.5B-Instruct"},
+  "qwen3.5-0.8b":   {"type": "causal", "hf_id": "Qwen/Qwen3.5-0.8B"},
+  "qwen3.5-2b":     {"type": "causal", "hf_id": "Qwen/Qwen3.5-2B", "dtype": "float32"},
+  "sarvam-1":       {"type": "causal", "hf_id": "sarvamai/sarvam-1", "dtype": "float32"},
+
+  "gemma-2-2b":     {"type": "causal", "hf_id": "google/gemma-2-2b-it"}
+}

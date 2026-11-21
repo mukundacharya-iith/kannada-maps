@@ -1,0 +1,306 @@
+model,dataset,condition,row_id,is_figurative,answer_key,pred,correct,score_A,score_B,score_A_swap,score_B_swap,pred_swap,correct_swap,explanation_used,proverb
+sarvam-1,kannada_en_reviewed,baseline,2,1,A,A,1,50.544014,48.769196,49.587814,51.940693,A,1,,"Where there's a will, there's a way"
+sarvam-1,kannada_en_reviewed,baseline,3,1,A,A,1,50.776543,48.930153,50.104805,51.982864,A,1,,"If the hand gets muddy, the mouth gets curd"
+sarvam-1,kannada_en_reviewed,baseline,4,1,B,B,1,50.147049,52.654121,51.602577,48.671959,B,1,,"Speech is silver, silence is gold"
+sarvam-1,kannada_en_reviewed,baseline,5,1,A,B,0,50.879688,50.897549,50.226265,52.256222,A,1,,"Not everything white is milk, not everything that shines is gold"
+sarvam-1,kannada_en_reviewed,baseline,6,1,B,B,1,50.470882,51.560528,51.156849,49.992996,B,1,,"What doesn't bend as a sapling, will it bend as a tree?"
+sarvam-1,kannada_en_reviewed,baseline,7,1,A,A,1,51.353313,48.529366,49.989273,52.229439,A,1,,One who can be a servant can become a king
+sarvam-1,kannada_en_reviewed,baseline,8,0,B,B,1,49.519585,52.205173,50.825928,49.381897,B,1,,One who endures will thrive
+sarvam-1,kannada_en_reviewed,baseline,9,1,B,B,1,49.707932,51.47974,50.625603,49.339252,B,1,,Like giving a ruby to a monkey's hand
+sarvam-1,kannada_en_reviewed,baseline,10,0,B,B,1,49.712948,50.886509,50.325645,49.146358,B,1,,"Even if the Veda proves false, the proverb will not"
+sarvam-1,kannada_en_reviewed,baseline,11,1,A,A,1,51.614029,49.182404,50.031166,52.09359,A,1,,Stretch your legs only as far as the bed allows
+sarvam-1,kannada_en_reviewed,baseline,12,0,B,B,1,49.548347,52.046906,50.952965,48.001328,B,1,,"Eat what you have made, O lord (you reap what you sow)"
+sarvam-1,kannada_en_reviewed,baseline,13,0,A,A,1,50.580627,49.527596,49.932266,52.506752,A,1,,Excessive desire leads to a bad end
+sarvam-1,kannada_en_reviewed,baseline,14,1,B,B,1,49.723564,52.272354,50.102856,49.889862,B,1,,A dog's tail is crooked
+sarvam-1,kannada_en_reviewed,baseline,15,1,A,B,0,50.447723,50.610046,50.262421,50.032616,B,0,,"Butter for one eye, lime for the other eye"
+sarvam-1,kannada_en_reviewed,baseline,16,1,B,B,1,49.821495,51.335052,50.075882,48.766068,B,1,,Inborn nature doesn't go even if burned
+sarvam-1,kannada_en_reviewed,baseline,17,1,B,B,1,50.080101,52.004383,50.189884,49.580784,B,1,,"At the time of destruction, a perverse mind"
+sarvam-1,kannada_en_reviewed,baseline,18,0,A,A,1,49.793842,48.633904,49.926548,50.899849,A,1,,"Travel the country and see, read the books and see"
+sarvam-1,kannada_en_reviewed,baseline,19,1,A,A,1,50.845165,50.312565,50.026108,51.782825,A,1,,Like inviting into your house the calamity (Mari) passing by on the street
+sarvam-1,kannada_en_reviewed,baseline,20,0,A,A,1,50.492569,50.439617,50.527721,51.505581,A,1,,"After eating salt, one must drink water"
+sarvam-1,kannada_en_reviewed,baseline,21,1,A,A,1,50.738201,49.972507,50.002243,50.996868,A,1,,Yellamma's fair on someone else's money
+sarvam-1,kannada_en_reviewed,baseline,22,0,A,A,1,50.585663,50.066292,50.180313,51.795818,A,1,,Everything that happens is for the good
+sarvam-1,kannada_en_reviewed,baseline,23,0,A,A,1,50.565624,49.535637,50.293762,51.929382,A,1,,"Walk according to the times, dance according to the beat"
+sarvam-1,kannada_en_reviewed,baseline,24,1,B,B,1,50.37957,51.377651,50.535484,49.949497,B,1,,Don't burgle the house that fed you
+sarvam-1,kannada_en_reviewed,baseline,25,1,A,B,0,50.512516,50.590366,50.278423,50.840576,A,1,,"Mari's eye is on the bull, the butcher's eye is on the sheep"
+sarvam-1,kannada_en_reviewed,baseline,26,1,A,B,0,50.50235,50.511406,50.41077,51.116199,A,1,,What comes to one's lot is paramanna (sweet rice pudding)
+sarvam-1,kannada_en_reviewed,baseline,27,1,B,B,1,50.494503,50.994953,50.389477,50.215481,B,1,,Tell a thousand lies and perform one wedding
+sarvam-1,kannada_en_reviewed,baseline,28,1,B,B,1,50.106544,51.518532,50.272163,50.706467,B,1,,"Even if you trust a thief, don't trust a short man"
+sarvam-1,kannada_en_reviewed,baseline,29,1,B,A,0,50.405518,50.257164,50.200439,50.6973,A,0,,"Though he fell to the ground, his moustache didn't get dirty"
+sarvam-1,kannada_en_reviewed,baseline,30,1,A,A,1,50.84671,50.224644,50.216393,51.675835,A,1,,Which snake is in which anthill
+sarvam-1,kannada_en_reviewed,baseline,31,1,A,B,0,50.230221,50.641197,50.239918,51.096031,A,1,,"Even if the god is pleased, the priest isn't"
+sarvam-1,kannada_en_reviewed,baseline,32,1,A,B,0,50.435265,51.128181,50.452072,51.329338,A,1,,We know the truth of our own god
+sarvam-1,kannada_en_reviewed,baseline,33,1,B,B,1,50.108242,50.176502,49.885201,49.46983,B,1,,"For the bitter gourd, the neem fruit is the witness"
+sarvam-1,kannada_en_reviewed,baseline,34,1,B,B,1,50.39426,50.589134,50.25037,51.153088,A,0,,The morsel that came to the hand didn't reach the mouth
+sarvam-1,kannada_en_reviewed,baseline,35,1,A,B,0,50.110397,51.177441,50.470367,49.832691,B,0,,What the patient wanted was milk-rice; what the doctor prescribed was milk-rice
+sarvam-1,kannada_en_reviewed,baseline,36,1,A,B,0,50.291367,50.599991,50.566055,51.416359,A,1,,A thief always has a petty excuse
+sarvam-1,kannada_en_reviewed,baseline,37,1,A,A,1,50.007668,49.986034,49.396606,51.335632,A,1,,The woman who couldn't dance said the floor is crooked
+sarvam-1,kannada_en_reviewed,baseline,38,1,B,B,1,50.399132,50.454887,50.27219,50.409599,A,0,,"Putta went, Putta came back."
+sarvam-1,kannada_en_reviewed,baseline,39,1,B,B,1,50.432957,51.403297,50.704132,50.681366,B,1,,Like letting a bear loose during Shiva worship
+sarvam-1,kannada_en_reviewed,baseline,40,1,B,B,1,50.352196,51.584034,51.439793,50.244335,B,1,,Say 'pumpkin thief' and he felt his own shoulder
+sarvam-1,kannada_en_reviewed,baseline,41,1,B,B,1,50.04155,51.686863,50.472004,50.450676,B,1,,"'Malli, Malli, how many legs does the cot have?' 'Three and one more,' she said"
+sarvam-1,kannada_en_reviewed,baseline,42,1,B,B,1,50.004971,50.972755,50.25964,50.409405,B,1,,A thief's mind is jittery
+sarvam-1,kannada_en_reviewed,baseline,43,1,B,B,1,50.397472,51.096088,50.28986,50.028507,B,1,,"If the swinging club misses, a hundred years of life"
+sarvam-1,kannada_en_reviewed,baseline,44,1,A,A,1,50.07338,49.652348,49.965031,50.894279,A,1,,"If a woman is won over she is a woman, if angered she is a fearsome goddess."
+sarvam-1,kannada_en_reviewed,baseline,45,1,B,B,1,50.436325,50.987644,50.343079,51.120338,A,0,,"When the ox pulled uphill, the buffalo pulled into the water"
+sarvam-1,kannada_en_reviewed,baseline,46,1,A,B,0,50.588249,50.69091,50.612289,51.739761,A,1,,"Though the one who gives kisses has come, don't forget the one who gave you morsels"
+sarvam-1,kannada_en_reviewed,baseline,47,1,A,A,1,50.810444,50.079514,50.354622,51.759144,A,1,,The god of Sindhaghatta wavers back and forth
+sarvam-1,kannada_en_reviewed,baseline,48,1,A,B,0,50.12397,50.339027,50.065292,50.390125,A,1,,What relation is there between Gokulashtami and Imam Saab?
+sarvam-1,kannada_en_reviewed,baseline,49,0,B,B,1,50.341183,51.92067,50.641945,49.568966,B,1,,One who lives as a servant today will be a king tomorrow
+sarvam-1,kannada_en_reviewed,baseline,50,1,A,A,1,50.148071,49.862232,50.093163,51.325871,A,1,,Everyone's house has holes in the dosa
+sarvam-1,kannada_en_reviewed,baseline,51,1,B,B,1,50.178493,51.551151,50.002625,50.103016,B,1,,"Not a son-in-law, just the daughter's husband"
+sarvam-1,kannada_en_reviewed,baseline,52,1,A,A,1,50.890533,50.712082,50.640621,52.18494,A,1,,"If played with, a parrot; if provoked, a cobra"
+sarvam-1,kannada_en_reviewed,baseline,53,1,B,B,1,50.066093,51.983242,51.04221,50.297535,B,1,,Don't trust a weeping man or a laughing woman
+sarvam-1,kannada_en_reviewed,baseline,54,1,A,B,0,50.509979,51.172558,50.595833,50.356487,B,0,,"Saying 'oh, poor thing' is half a lifespan"
+sarvam-1,kannada_en_reviewed,baseline,55,1,B,B,1,50.242504,51.5793,50.294682,49.366463,B,1,,"If the performer performs, the onlooker feels shame"
+sarvam-1,kannada_en_reviewed,baseline,56,1,A,A,1,50.509117,50.262909,49.819828,51.145817,A,1,,Like a frog jumping on one who is already frightened
+sarvam-1,kannada_en_reviewed,baseline,57,1,A,A,1,50.901852,50.703049,50.714794,51.633442,A,1,,"If you see a bad dream, get up and sit"
+sarvam-1,kannada_en_reviewed,baseline,58,1,B,B,1,50.423088,51.117538,50.768368,49.865196,B,1,,Like placing a lamp on the dividing wall
+sarvam-1,kannada_en_reviewed,baseline,59,1,B,B,1,50.38781,50.468582,50.471371,50.755768,A,0,,"If you give six, he's on the mother-in-law's side; if you give three, on the daughter-in-law's side"
+sarvam-1,kannada_en_reviewed,baseline,60,1,B,B,1,50.080982,50.992134,50.415115,50.381817,B,1,,Honor lost over a betel nut won't return even if an elephant is given
+sarvam-1,kannada_en_reviewed,baseline,61,0,A,A,1,50.587082,50.337234,50.351807,50.925049,A,1,,"The grandmother worries about cloth, the daughter worries about marriage"
+sarvam-1,kannada_en_reviewed,baseline,62,0,B,B,1,50.046883,50.740627,50.12262,49.938099,B,1,,"Desire for the rice, love for the relatives"
+sarvam-1,kannada_en_reviewed,baseline,63,1,B,B,1,50.591885,51.357365,50.52565,50.250809,B,1,,One to trim the moustache of the man who drinks gruel
+sarvam-1,kannada_en_reviewed,baseline,64,1,B,B,1,50.677452,51.622158,50.696907,50.944355,B,1,,"One way or another, the sons of Kunti don't have eight kingdoms"
+sarvam-1,kannada_en_reviewed,baseline,65,1,B,B,1,49.892097,50.957829,50.421803,49.895115,B,1,,"A time for the mother-in-law, a time for the daughter-in-law"
+sarvam-1,kannada_en_reviewed,baseline,66,0,B,B,1,50.350742,51.338993,50.575287,50.542236,B,1,,Desire is the root of sorrow
+sarvam-1,kannada_en_reviewed,baseline,67,1,B,B,1,50.558319,51.359779,50.457008,50.939095,B,1,,People fell upon people and the neck became empty
+sarvam-1,kannada_en_reviewed,baseline,68,0,A,A,1,50.07922,48.32896,50.005249,51.280308,A,1,,Sin done unknowingly has a remedy once known
+sarvam-1,kannada_en_reviewed,baseline,69,1,A,A,1,50.552368,50.507324,50.61797,51.114365,A,1,,"Where there is affection, there is sorrow"
+sarvam-1,kannada_en_reviewed,baseline,70,1,A,A,1,50.747307,50.628193,50.58884,51.695599,A,1,,"Even if it is his sister's gold, the goldsmith won't leave without stealing"
+sarvam-1,kannada_en_reviewed,baseline,71,1,A,B,0,50.34024,50.823269,50.295712,51.152142,A,1,,Six bundles of sacred ash for one who doesn't have five bundles
+sarvam-1,kannada_en_reviewed,baseline,72,1,A,A,1,50.419914,50.399769,50.362896,51.217972,A,1,,"If you marry the one you wanted and wanted, you got a husband who beats"
+sarvam-1,kannada_en_reviewed,baseline,73,1,B,B,1,49.938492,51.63448,50.529881,50.066528,B,1,,Like the fence rising up and grazing the field
+sarvam-1,kannada_en_reviewed,baseline,74,1,A,A,1,50.327454,50.10144,50.149178,50.716869,A,1,,"A hemp god, a toddy-drinking priest"
+sarvam-1,kannada_en_reviewed,baseline,75,0,A,A,1,49.797516,49.506821,49.939911,50.708523,A,1,,There are no poor in desire
+sarvam-1,kannada_en_reviewed,baseline,76,1,B,B,1,50.190285,51.755661,50.340195,49.406898,B,1,,Like giving charge to a scorpion
+sarvam-1,kannada_en_reviewed,baseline,77,1,B,B,1,50.18261,51.61655,50.892574,49.76786,B,1,,One without worries sleeps even in the marketplace
+sarvam-1,kannada_en_reviewed,baseline,78,0,A,A,1,50.769012,49.493885,50.359131,51.230671,A,1,,Patience is greater than charity
+sarvam-1,kannada_en_reviewed,baseline,79,0,B,B,1,49.971859,50.619869,50.249416,49.583469,B,1,,"Wherever you go, in whichever direction, sorrow doesn't go away"
+sarvam-1,kannada_en_reviewed,baseline,80,0,B,B,1,50.781342,51.63039,50.689671,49.821735,B,1,,Money is the big uncle (money is supreme)
+sarvam-1,kannada_en_reviewed,baseline,81,1,A,A,1,49.728992,49.379581,49.750484,50.589401,A,1,,"Even if the god gives a boon, the priest won't"
+sarvam-1,kannada_en_reviewed,baseline,82,1,A,A,1,50.352982,50.012413,49.998192,51.254585,A,1,,The distant hill looks smooth to the eye
+sarvam-1,kannada_en_reviewed,baseline,83,1,A,A,1,50.768303,50.324673,50.406261,51.709774,A,1,,"When given as charity for dharma, they went to the backyard and measured it by the cubit"
+sarvam-1,kannada_en_reviewed,baseline,84,0,B,B,1,50.984825,51.120243,51.051262,51.018433,B,1,,"Everyone does it for the belly, for a span of cloth"
+sarvam-1,kannada_en_reviewed,baseline,85,1,B,B,1,50.248127,51.669651,50.83968,48.770767,B,1,,Not all light is light; the word of truth is the light
+sarvam-1,kannada_en_reviewed,baseline,86,1,B,B,1,50.483604,50.522961,50.638939,51.01083,A,0,,"If it hits the left crown of the head, it touched the right crown"
+sarvam-1,kannada_en_reviewed,baseline,87,1,A,A,1,50.397701,50.332893,50.191505,51.497299,A,1,,A foot that has stumbled stumbles more
+sarvam-1,kannada_en_reviewed,baseline,88,1,A,A,1,50.901768,50.631294,50.500687,51.081001,A,1,,"At eight years, my son turned into a stalk"
+sarvam-1,kannada_en_reviewed,baseline,89,1,B,B,1,50.392986,51.630211,50.31715,49.966179,B,1,,"When even such gods are in distress, will a leg-broken god get Kailasa?"
+sarvam-1,kannada_en_reviewed,baseline,90,1,A,A,1,50.945988,50.899509,50.395912,51.658566,A,1,,All the colors were swallowed by the soot
+sarvam-1,kannada_en_reviewed,baseline,91,1,B,B,1,50.789429,51.717777,51.166779,50.760712,B,1,,"If everyone sits in the palanquin, who will carry it?"
+sarvam-1,kannada_en_reviewed,baseline,92,1,B,B,1,50.639145,51.512276,50.670746,50.932915,B,1,,"When two hands clap, there's a sound"
+sarvam-1,kannada_en_reviewed,baseline,93,1,B,B,1,50.354107,51.796806,50.218594,50.36718,B,1,,"Trusting two Dasas, the blind Dasa was ruined"
+sarvam-1,kannada_en_reviewed,baseline,94,1,B,B,1,50.580067,51.215836,49.912235,50.853558,A,0,,One who has climbed will come down
+sarvam-1,kannada_en_reviewed,baseline,95,0,A,B,0,50.625637,50.788265,50.311085,51.898094,A,1,,A husband-and-wife quarrel lasts only until they've eaten and gone to sleep
+sarvam-1,kannada_en_reviewed,baseline,96,1,A,B,0,50.150295,50.721817,50.144867,49.625893,B,0,,Like holding the tail of the winning ox
+sarvam-1,kannada_en_reviewed,baseline,97,1,A,B,0,50.10006,50.505203,50.223732,50.411278,B,0,,A Brahmastra on a sparrow?
+sarvam-1,kannada_en_reviewed,baseline,98,1,B,B,1,50.322857,51.511395,50.696598,50.613049,B,1,,"Winnow when the wind comes, sell when the price comes"
+sarvam-1,kannada_en_reviewed,baseline,99,1,B,B,1,50.43177,51.227909,50.614273,51.139938,B,1,,"No fuss or noise at all, Govinda Bhatta fell into the well"
+sarvam-1,kannada_en_reviewed,baseline,100,1,B,B,1,49.649189,50.508728,49.723492,50.323349,B,1,,"In name the wife is missing, the son's name is Nanjunda"
+sarvam-1,kannada_en_reviewed,baseline,101,1,B,B,1,50.756088,51.927616,50.883209,51.015736,B,1,,"When told 'Gone, ghost?', it said 'I came back through the window'"
+sarvam-1,kannada_en_reviewed,baseline,102,1,A,B,0,50.503323,51.329491,50.640018,50.530743,B,0,,"In a ruined village, whoever remains is the headman (Gowda)"
+sarvam-1,kannada_en_reviewed,baseline,103,1,B,B,1,49.756721,51.464825,50.400761,49.442814,B,1,,"Drop by drop becomes a stream, ear by ear becomes paddy"
+sarvam-1,kannada_en_reviewed,baseline,104,1,B,B,1,50.744064,51.26965,50.547562,50.890701,B,1,,The wide-mouthed Dasa who sings the same song again and again
+sarvam-1,kannada_en_reviewed,baseline,105,1,B,B,1,50.371746,50.956219,50.146046,50.493397,B,1,,"To the parents the bandicoot is a darling, to the companions the monkey is a darling"
+sarvam-1,kannada_en_reviewed,baseline,106,1,A,B,0,50.332932,50.478725,50.220261,51.271309,A,1,,The eldest brother's habit goes to everyone in the house
+sarvam-1,kannada_en_reviewed,baseline,107,1,A,B,0,50.310452,51.28878,50.538383,50.516674,B,0,,A backyard plant is not medicine
+sarvam-1,kannada_en_reviewed,baseline,108,1,A,A,1,50.384941,50.244843,50.502586,50.965954,A,1,,Why the club-wielding chief's permission for river water?
+sarvam-1,kannada_en_reviewed,baseline,109,1,B,B,1,50.485325,51.66169,50.8456,51.443447,B,1,,In the beginning the washerman lifted the sack again and again and beat it on the stone
+sarvam-1,kannada_en_reviewed,baseline,110,1,A,A,1,49.774265,48.924244,50.04892,50.995193,A,1,,An old patient is better than a new doctor
+sarvam-1,kannada_en_reviewed,baseline,111,1,A,B,0,50.726562,51.180149,50.204151,51.211395,A,1,,"No flour for the belly, jasmine flowers for the hair knot"
+sarvam-1,kannada_en_reviewed,baseline,112,1,A,A,1,50.552048,49.183788,50.289139,51.551018,A,1,,The god who gave birth will make you graze grass
+sarvam-1,kannada_en_reviewed,baseline,113,1,B,B,1,50.464859,51.695698,50.58902,50.647186,B,1,,"At a mad widow's wedding, the one who ate is the clever one"
+sarvam-1,kannada_en_reviewed,baseline,114,1,A,A,1,50.304913,50.06443,50.28722,51.42915,A,1,,"Along with the flower, the fiber reached heaven"
+sarvam-1,kannada_en_reviewed,baseline,115,1,B,B,1,50.194027,51.599854,50.735088,49.533131,B,1,,"Let the festival go well, let the wall be safe, let the visiting in-laws eat and go"
+sarvam-1,kannada_en_reviewed,baseline,116,0,B,B,1,50.450825,51.307636,50.375683,49.62225,B,1,,"Worry at night ruins sleep, worry in the day ruins work"
+sarvam-1,kannada_en_reviewed,baseline,117,1,B,B,1,50.777412,50.96875,50.28997,51.38649,A,0,,Say it as it is and thunder strikes Siddappa
+sarvam-1,kannada_en_reviewed,baseline,118,1,B,B,1,50.346649,51.675373,50.900642,50.643448,B,1,,Like falling in the daytime into a well you saw at night
+sarvam-1,kannada_en_reviewed,baseline,119,1,A,B,0,50.290863,50.736328,50.410835,50.539055,B,0,,"Even if the whole body sinks, the nose stays up"
+sarvam-1,kannada_en_reviewed,baseline,120,1,B,B,1,50.227654,50.765884,50.379341,50.649597,B,1,,Will the one who was merely kept stay? Will the one who was wedded be cut off?
+sarvam-1,kannada_en_reviewed,baseline,121,1,A,A,1,51.535561,50.292862,50.144993,52.623508,A,1,,News of the town you are in shouldn't be raised where you are; news of the town you have left shouldn't be raised where you have gone
+sarvam-1,kannada_en_reviewed,baseline,122,1,A,A,1,50.841866,50.305664,50.620251,51.204144,A,1,,"Said it as it was, and the face turned hawk-like"
+sarvam-1,kannada_en_reviewed,baseline,123,1,A,A,1,49.908974,48.987282,50.362549,51.427597,A,1,,What existed was lost through the medicine's effect
+sarvam-1,kannada_en_reviewed,baseline,124,1,A,A,1,49.94659,49.769913,49.928307,50.856491,A,1,,"A headman (Gowda) where he is, deaf where he goes"
+sarvam-1,kannada_en_reviewed,baseline,125,1,A,A,1,50.374828,50.136337,50.075703,51.046562,A,1,,"Kin as far as Ikkeri, but no cloth to cover his shame"
+sarvam-1,kannada_en_reviewed,baseline,126,1,B,B,1,49.970516,51.165096,49.960129,51.352619,A,0,,Don't set the house on fire because the rats have increased
+sarvam-1,kannada_en_reviewed,baseline,127,1,B,B,1,50.215073,50.598,50.127785,50.92733,A,0,,A cat as witness in the rat's dispute
+sarvam-1,kannada_en_reviewed,baseline,128,1,B,B,1,50.521046,51.573074,50.398663,49.627838,B,1,,Better to live three days as a tiger than a hundred days as a rat
+sarvam-1,kannada_en_reviewed,baseline,129,1,B,B,1,50.403122,51.457836,50.47517,50.455784,B,1,,"Said 'come here, come here' and he snatched even the house that was there"
+sarvam-1,kannada_en_reviewed,baseline,130,0,A,B,0,50.095852,50.657455,50.123913,49.851917,B,0,,"Though the wrestler fell, his moustache didn't get dirty"
+sarvam-1,kannada_en_reviewed,baseline,131,1,B,A,0,50.476032,50.36261,50.295891,50.140388,B,1,,Are the people mad or is the fair mad?
+sarvam-1,kannada_en_reviewed,baseline,132,0,A,A,1,50.965282,50.824875,50.926193,51.569691,A,1,,"If there's money, Kailasa; if not, exile in the forest"
+sarvam-1,kannada_en_reviewed,baseline,133,0,B,B,1,50.089588,52.193192,51.162395,49.528908,B,1,,Hardship and happiness are the two faces of life
+sarvam-1,kannada_en_reviewed,baseline,134,1,A,B,0,50.136284,50.520996,50.060581,50.80732,A,1,,One who couldn't manage what was in hand took a lease on a kombe tree
+sarvam-1,kannada_en_reviewed,baseline,135,1,A,B,0,50.142502,50.241936,50.179012,50.75864,A,1,,The sin of killing is remedied by eating
+sarvam-1,kannada_en_reviewed,baseline,136,1,B,B,1,50.126102,50.937294,50.537449,50.361992,B,1,,A stalk in the hand is better than the bundle inside the mirror
+sarvam-1,kannada_en_reviewed,baseline,137,0,B,B,1,50.137627,50.79966,50.297333,49.730522,B,1,,Wisdom came after being ruined
+sarvam-1,kannada_en_reviewed,baseline,138,1,B,B,1,50.470772,51.010719,50.640434,50.436092,B,1,,"Though the pin is small, it runs the wind"
+sarvam-1,kannada_en_reviewed,baseline,139,1,B,B,1,50.149799,51.467079,50.899426,50.049732,B,1,,"Fame is Kailasa, infamy is hell"
+sarvam-1,kannada_en_reviewed,baseline,140,1,B,B,1,49.776508,51.138985,50.031834,50.502293,B,1,,Can a nose cut off in anger be restored in peace?
+sarvam-1,kannada_en_reviewed,baseline,141,1,A,A,1,50.367966,50.148041,49.721935,51.03643,A,1,,The monkey not only ruined itself but ruined the forest too
+sarvam-1,kannada_en_reviewed,baseline,142,1,B,B,1,49.947689,51.434505,50.660858,49.981651,B,1,,"A monkey-like fellow provoked, got struck by the pestle, and writhed"
+sarvam-1,kannada_en_reviewed,baseline,143,1,B,B,1,49.915989,49.970428,50.268101,50.085747,B,1,,She had the baby's gown stitched before the baby was born
+sarvam-1,kannada_en_reviewed,baseline,144,1,B,B,1,50.403763,51.283188,50.360447,50.99577,B,1,,A pot of gold is not enough for one who sits and eats
+sarvam-1,kannada_en_reviewed,baseline,145,0,A,A,1,51.484295,48.976643,49.704121,52.150051,A,1,,One who holds back when great anger comes is the wise one
+sarvam-1,kannada_en_reviewed,baseline,146,0,B,B,1,50.180202,51.167019,50.604713,50.487629,B,1,,"Not seeing what you saw is best, seeing what you saw is middling, claiming to see what you didn't see is lowest"
+sarvam-1,kannada_en_reviewed,baseline,147,1,B,B,1,49.759731,50.742825,49.86211,50.197987,B,1,,Like pushing other people's children into a well to see how deep it is
+sarvam-1,kannada_en_reviewed,baseline,148,0,B,B,1,50.379238,51.201187,50.175182,50.029221,B,1,,"Even if destitute, one should not become beholden"
+sarvam-1,kannada_en_reviewed,baseline,149,0,A,B,0,50.858837,51.10342,50.741905,51.329407,A,1,,"One can guard the threshing floor, but one cannot guard a corpse"
+sarvam-1,kannada_en_reviewed,baseline,150,1,A,A,1,50.954327,49.991756,50.431274,51.338936,A,1,,A built tank can't avoid its spillway; the house one was born in can't avoid parting
+sarvam-1,kannada_en_reviewed,baseline,151,1,A,B,0,50.571297,51.097061,50.631306,50.464558,B,0,,"To get the work done, hold the donkey's feet"
+sarvam-1,kannada_en_reviewed,baseline,152,1,B,B,1,50.621098,51.256233,50.284531,50.421646,B,1,,"To the jaundiced eye, everything seen is yellow"
+sarvam-1,kannada_en_reviewed,baseline,153,1,B,B,1,50.502712,51.01136,50.421036,50.380211,B,1,,"If the sugarcane is crooked, is its sweetness crooked?"
+sarvam-1,kannada_en_reviewed,baseline,154,1,A,A,1,50.363224,49.790916,50.241379,51.053375,A,1,,"A biting dog doesn't bark, a barking dog doesn't bite"
+sarvam-1,kannada_en_reviewed,baseline,155,1,B,B,1,50.247463,50.902321,50.524487,51.064934,B,1,,The morsel that came to the hand is not for the mouth
+sarvam-1,kannada_en_reviewed,baseline,156,1,A,B,0,50.51733,50.745956,50.387177,51.133865,A,1,,"A salutation in the hand, a club under the arm"
+sarvam-1,kannada_en_reviewed,baseline,157,1,B,B,1,50.832123,51.320904,50.860607,50.492321,B,1,,When there's a stone there's no dog; when there's a dog there's no stone
+sarvam-1,kannada_en_reviewed,baseline,158,1,A,A,1,51.223587,49.634521,50.631744,51.820637,A,1,,"If camphor is put in the dungheap, does it lose its own smell?"
+sarvam-1,kannada_en_reviewed,baseline,159,1,B,B,1,50.638695,51.606739,50.171009,49.888206,B,1,,To tell a story there must be those who say 'hum'; to live upright there must be those who say 'chee'
+sarvam-1,kannada_en_reviewed,baseline,160,0,A,B,0,50.328907,50.810772,50.365543,51.187889,A,1,,"No sense at the time of ruin, no medicine at the time of death"
+sarvam-1,kannada_en_reviewed,baseline,161,1,B,B,1,50.964973,51.201736,50.350742,52.055817,A,0,,A forest can be burned by a spark
+sarvam-1,kannada_en_reviewed,baseline,162,1,B,B,1,50.688671,51.431671,50.742817,51.268066,B,1,,Even the axe's handle is death to its clan
+sarvam-1,kannada_en_reviewed,baseline,163,1,A,B,0,50.514751,51.183479,50.323959,50.917431,B,0,,"The bull buffalo's pain of kosey, the she-buffalo's pain of giving birth"
+sarvam-1,kannada_en_reviewed,baseline,164,1,A,A,1,50.391449,49.913563,50.477192,51.792809,A,1,,"The giver is a clown, the taker is Veerabhadra"
+sarvam-1,kannada_en_reviewed,baseline,165,1,B,B,1,50.578983,51.925873,50.669621,50.704224,B,1,,A dog that had seen no order licked the skull
+sarvam-1,kannada_en_reviewed,baseline,166,1,A,B,0,50.248909,51.528755,50.181503,51.603027,A,1,,A year for the potter; a minute for the club
+sarvam-1,kannada_en_reviewed,baseline,167,1,A,A,1,50.894371,50.33593,50.397625,50.932198,A,1,,A squint eye is better than a blind eye
+sarvam-1,kannada_en_reviewed,baseline,168,1,A,B,0,50.350475,50.759106,50.2971,50.691032,B,0,,"There's no woman to call 'hey', yet the son's name is Muddu-Ranga"
+sarvam-1,kannada_en_reviewed,baseline,169,0,B,B,1,50.123466,51.700081,51.079277,50.092075,B,1,,"Know the world, learn accounts"
+sarvam-1,kannada_en_reviewed,baseline,170,1,B,B,1,50.584198,51.883438,50.760567,50.204224,B,1,,"Give a bribe and climb the cot, cheat and climb Kailasa"
+sarvam-1,kannada_en_reviewed,baseline,171,1,A,B,0,50.023315,50.432503,50.113583,50.619591,A,1,,Business without profit is like a donkey scratching its body
+sarvam-1,kannada_en_reviewed,baseline,172,1,B,B,1,50.466541,50.493599,50.823891,50.198429,B,1,,"Even if it's greens sambar, eat a counted ragi ball"
+sarvam-1,kannada_en_reviewed,baseline,173,1,A,B,0,50.593967,51.494217,50.705349,51.010799,B,0,,"After the lingam is torn, what obligation is there to the Jangama?"
+sarvam-1,kannada_en_reviewed,baseline,174,1,A,B,0,50.411503,50.820965,50.319256,50.286377,B,0,,"A club blow for the fool, a word blow for the wise"
+sarvam-1,kannada_en_reviewed,baseline,175,1,A,B,0,49.990788,50.241352,49.93195,50.563057,A,1,,"A calamity (Mari) at home, a benefactor to the town"
+sarvam-1,kannada_en_reviewed,baseline,176,1,B,B,1,50.442799,50.877956,50.660591,50.062016,B,1,,The one who comes falling on you is last among the three 'kaami'
+sarvam-1,kannada_en_reviewed,baseline,177,1,B,B,1,50.646179,50.799999,50.565453,51.069138,A,0,,One who has given up the three is big in the town
+sarvam-1,kannada_en_reviewed,baseline,178,1,A,B,0,50.209854,50.29232,50.222771,50.207958,B,0,,"Does wrong, but has a Brindavan in front of the house"
+sarvam-1,kannada_en_reviewed,baseline,179,0,B,B,1,50.832821,51.174343,50.820393,51.088394,B,1,,One who knows speech has no quarrel; one who knows eating has no disease
+sarvam-1,kannada_en_reviewed,baseline,180,1,A,B,0,50.650471,51.345993,50.731682,51.763489,A,1,,"Speech ruined the house, the hole ruined the stove"
+sarvam-1,kannada_en_reviewed,baseline,181,0,A,B,0,50.645424,51.456211,50.801296,50.929649,B,0,,"Perform a wedding and see, build a house and see"
+sarvam-1,kannada_en_reviewed,baseline,182,1,B,B,1,50.406544,51.779236,50.601284,50.437256,B,1,,"When told 'Gunda is getting married', he said 'you yourself are my wife'"
+sarvam-1,kannada_en_reviewed,baseline,183,1,A,A,1,50.278774,49.743637,50.000446,51.090282,A,1,,"Smitten on seeing the face, moved away on seeing the character"
+sarvam-1,kannada_en_reviewed,baseline,184,1,B,B,1,50.662197,51.09182,50.691631,50.604305,B,1,,They dug a well when the house caught fire
+sarvam-1,kannada_en_reviewed,baseline,185,1,A,B,0,50.901215,50.908314,50.787075,51.4846,A,1,,"Remove a thorn with a thorn, remove enmity with enmity"
+sarvam-1,kannada_en_reviewed,baseline,186,1,B,B,1,50.425877,51.299809,50.566643,51.009411,B,1,,"Pregnant out of deference, with no place to give birth"
+sarvam-1,kannada_en_reviewed,baseline,187,1,B,B,1,50.397198,51.804241,50.81086,51.666618,B,1,,"A pearl once broken is gone, a word once spoken is gone"
+sarvam-1,kannada_en_reviewed,baseline,188,1,B,B,1,50.303261,50.687378,50.367096,51.023384,A,0,,The monkey's rule is on the tree branch
+sarvam-1,kannada_en_reviewed,baseline,189,1,B,B,1,50.369629,51.093418,50.709465,49.862427,B,1,,The talkative Brahma is like a pot with holes
+sarvam-1,kannada_en_reviewed,baseline,190,1,A,A,1,50.552261,50.502823,50.319862,51.319145,A,1,,Our own eye ruined it for us
+sarvam-1,kannada_en_reviewed,baseline,191,1,A,B,0,49.901844,50.180061,49.970821,50.421761,A,1,,"Speech ancient, conduct that of a Kirata"
+sarvam-1,kannada_en_reviewed,baseline,192,1,A,B,0,50.510326,51.006424,50.58342,50.89595,B,0,,"What is rain, what is cold, to one who has fallen into the water?"
+sarvam-1,kannada_en_reviewed,baseline,193,1,A,B,0,50.094231,50.638363,50.35434,50.030979,B,0,,"Even fallen underneath, the nose is up"
+sarvam-1,kannada_en_reviewed,baseline,194,1,A,A,1,50.26334,50.187065,50.228378,51.208908,A,1,,A dog's tail is always crooked
+sarvam-1,kannada_en_reviewed,baseline,195,1,B,B,1,50.489761,50.581383,50.461548,50.409378,B,1,,"If a dog barks, is heaven ruined?"
+sarvam-1,kannada_en_reviewed,baseline,196,1,A,A,1,50.554535,50.217083,50.30098,51.184315,A,1,,"Learning conduct is an uphill rock, losing conduct is a slide"
+sarvam-1,kannada_en_reviewed,baseline,197,1,B,B,1,50.462677,50.991264,50.516464,50.790371,B,1,,"The dog has no work, no time to stand"
+sarvam-1,kannada_en_reviewed,baseline,198,0,A,A,1,50.193768,48.893669,50.031151,50.626274,A,1,,One who becomes courteous will become victorious
+sarvam-1,kannada_en_reviewed,baseline,199,1,B,B,1,50.169052,51.126583,50.163155,49.925133,B,1,,"Invite all the relatives, but don't put your hand into the kantale bag"
+sarvam-1,kannada_en_reviewed,baseline,200,0,A,A,1,50.832058,49.804489,50.181488,51.520943,A,1,,Speaking the truth brings resentment
+sarvam-1,kannada_en_reviewed,baseline,201,0,A,A,1,50.833,48.692703,49.948288,51.90889,A,1,,No prosperity for those without honesty
+sarvam-1,kannada_en_reviewed,baseline,202,1,B,B,1,50.460175,51.86763,50.799671,50.837864,B,1,,Pickle that isn't there at mealtime is equal to dirt
+sarvam-1,kannada_en_reviewed,baseline,203,1,A,A,1,50.308323,49.812305,49.663326,51.447926,A,1,,"Lime for one eye, butter for the other eye"
+sarvam-1,kannada_en_reviewed,baseline,204,1,B,B,1,50.246983,51.561813,50.768467,49.50589,B,1,,"If you fall into a well in one fit of anger, you can't get up even in seven fits of anger"
+sarvam-1,kannada_en_reviewed,baseline,205,1,B,B,1,50.152763,51.135345,50.34951,49.949547,B,1,,"Fire eats the dry tree, worry eats the green tree"
+sarvam-1,kannada_en_reviewed,baseline,206,1,A,A,1,50.399231,49.901955,50.10598,51.256416,A,1,,What comes to one's lot is panchamrita
+sarvam-1,kannada_en_reviewed,baseline,207,1,A,A,1,50.170795,49.748146,50.095928,50.953026,A,1,,What does it matter what happens to what isn't in one's share?
+sarvam-1,kannada_en_reviewed,baseline,208,1,B,B,1,50.637264,51.333157,51.13583,50.961224,B,1,,Say 'poor thing' and karma comes
+sarvam-1,kannada_en_reviewed,baseline,209,1,B,B,1,49.77179,51.487804,50.632111,49.72084,B,1,,Bought a curse so that sin wouldn't come
+sarvam-1,kannada_en_reviewed,baseline,210,1,A,A,1,50.026527,49.775826,49.653717,50.976311,A,1,,Mocked others and got called a monkey
+sarvam-1,kannada_en_reviewed,baseline,211,1,A,A,1,50.438129,50.004005,50.231995,51.170586,A,1,,"When youth came, the measure was lost"
+sarvam-1,kannada_en_reviewed,baseline,212,1,B,B,1,50.144638,50.491585,49.798637,49.434097,B,1,,Everything the virtuous one touches is gold
+sarvam-1,kannada_en_reviewed,baseline,213,1,B,B,1,50.440517,51.369209,50.893208,50.571392,B,1,,"Though Putya's sorghum is finished, Hotya's song isn't finished"
+sarvam-1,kannada_en_reviewed,baseline,214,1,A,B,0,50.340801,50.562382,50.505569,50.938427,A,1,,"The free husband ate to his belly's fill, the house husband fell down groaning"
+sarvam-1,kannada_en_reviewed,baseline,215,1,B,B,1,50.053688,50.551144,50.230247,50.579735,B,1,,"The civet cat, not knowing its own scent, is said to wander the whole forest and die"
+sarvam-1,kannada_en_reviewed,baseline,216,1,B,B,1,50.292446,51.557404,50.900715,49.742302,B,1,,"If you tell a Purana, will flowers fall?"
+sarvam-1,kannada_en_reviewed,baseline,217,1,B,B,1,50.282417,51.314224,50.422428,49.467823,B,1,,Will the brinjal in the book come to the curry?
+sarvam-1,kannada_en_reviewed,baseline,218,1,A,A,1,49.892826,49.461487,49.839161,51.109028,A,1,,"Though he doesn't know the manner, he knows the talk"
+sarvam-1,kannada_en_reviewed,baseline,219,1,A,A,1,50.476154,49.986908,50.170197,51.235809,A,1,,Talk without propriety is a headache
+sarvam-1,kannada_en_reviewed,baseline,220,0,A,A,1,49.791668,49.79126,50.156948,51.847172,A,1,,"There is medicine for disease, there is no medicine for character"
+sarvam-1,kannada_en_reviewed,baseline,221,0,A,A,1,50.384232,49.804955,50.166111,50.896217,A,1,,Those smitten by beauty have no fear of sin
+sarvam-1,kannada_en_reviewed,baseline,222,1,B,B,1,49.794323,50.637043,49.874779,48.967796,B,1,,Royal pomp is the mark of a pauper
+sarvam-1,kannada_en_reviewed,baseline,223,0,B,A,0,50.194572,50.072521,50.067848,50.177944,A,0,,"As long as the king lives, the queen enjoys"
+sarvam-1,kannada_en_reviewed,baseline,224,1,A,A,1,50.557938,49.498104,50.207115,51.166454,A,1,,"If the gem is good, it grows in the very place it is"
+sarvam-1,kannada_en_reviewed,baseline,225,1,A,A,1,50.329124,49.649483,50.120544,51.223114,A,1,,The bird that eats gems fell in with the crow and became a guest at the leftover leaf
+sarvam-1,kannada_en_reviewed,baseline,226,1,B,B,1,50.52533,50.802616,50.500179,51.0173,A,0,,"The winner lost, the loser died"
+sarvam-1,kannada_en_reviewed,baseline,227,1,B,A,0,50.444523,50.421219,50.133144,50.74408,A,0,,"When told 'say something auspicious, Soma', he said 'an owl is visible, uncle'"
+sarvam-1,kannada_en_reviewed,baseline,228,1,A,A,1,49.624405,49.619942,49.832722,50.597431,A,1,,The ascetic's wife is neither a widow nor a married woman
+sarvam-1,kannada_en_reviewed,baseline,229,0,A,B,0,50.351387,50.373314,50.634449,51.449017,A,1,,"Worldly life is a river of the ocean; to one who can swim, it's chest-deep"
+sarvam-1,kannada_en_reviewed,baseline,230,0,A,B,0,50.439079,50.741219,50.489975,50.757492,B,0,,"Keep family matters secret, disease matters out"
+sarvam-1,kannada_en_reviewed,baseline,231,1,B,B,1,50.393009,51.481148,50.495777,50.403484,B,1,,"Worldly life is an ocean; one must swim, stay, and win"
+sarvam-1,kannada_en_reviewed,baseline,232,1,A,A,1,50.573063,50.169121,50.245342,51.151154,A,1,,Associating with a householder spoiled the ascetic
+sarvam-1,kannada_en_reviewed,baseline,233,1,A,B,0,50.434021,50.721069,50.364059,50.630562,B,0,,Asked what worries an ascetic: the only worry is food
+sarvam-1,kannada_en_reviewed,baseline,234,1,B,B,1,50.62439,51.143661,50.304085,51.598145,A,0,,The ways of those touched by wealth are different
+sarvam-1,kannada_en_reviewed,baseline,235,1,A,A,1,50.752522,50.164837,50.692848,51.330753,A,1,,"Home stay for the daughter-in-law, exile for the mother-in-law"
+sarvam-1,kannada_en_reviewed,baseline,236,0,B,B,1,50.11676,51.279041,50.31485,50.267677,B,1,,"Independence went, dependence came"
+sarvam-1,kannada_en_reviewed,baseline,237,1,B,A,0,50.09853,49.906628,50.079281,50.807949,A,0,,"A woman's form is the form, adornment is the rasa"
+sarvam-1,kannada_en_reviewed,baseline,238,0,B,B,1,49.976337,51.623993,51.151485,49.173683,B,1,,"Sorrow after joy, joy after sorrow"
+sarvam-1,kannada_en_reviewed,baseline,239,1,A,B,0,50.737579,50.788807,50.389896,51.094963,A,1,,"Even if you lie, say it as if hitting the crown of the truth"
+sarvam-1,kannada_en_reviewed,baseline,240,1,B,B,1,49.910912,51.038605,49.8251,50.707588,B,1,,"A false god, a thieving priest"
+sarvam-1,kannada_en_reviewed,baseline,241,1,A,B,0,50.554436,50.809349,50.453526,50.68663,B,0,,"I've become pregnant, once in a blue moon; don't move, husband"
+sarvam-1,kannada_en_reviewed,baseline,242,0,A,A,1,50.097107,48.869453,49.977856,50.79858,A,1,,"Even if you miss your own dharma, don't commit adharma"
+sarvam-1,kannada_en_reviewed,baseline,243,1,A,B,0,50.120251,50.666725,49.895729,50.99342,A,1,,Both heaven and fort were lost
+sarvam-1,kannada_en_reviewed,baseline,244,1,A,B,0,49.932259,51.490849,50.107765,51.294567,B,0,,"A title for every head, but ruined with nothing for the belly"
+sarvam-1,kannada_en_reviewed,baseline,245,1,A,B,0,50.651619,51.776962,50.943687,50.818901,B,0,,"When the orphan shaved his head, hailstones rained"
+sarvam-1,kannada_en_reviewed,baseline,246,1,B,B,1,50.04443,50.142765,50.16312,50.296875,A,0,,"He who cannot live in his own town, will he live in another's town?"
+sarvam-1,kannada_en_reviewed,baseline,247,1,A,B,0,50.173405,50.991066,50.109665,50.784897,B,0,,"A Ranga in his own town, a monkey in another's town"
+sarvam-1,kannada_en_reviewed,baseline,248,1,A,A,1,50.229279,50.1521,49.931808,51.921417,A,1,,"Went to do a favor, trouble came"
+sarvam-1,kannada_en_reviewed,baseline,249,0,B,B,1,50.112297,50.167107,50.295776,50.341633,B,1,,"One can fast, but cannot bear harassment"
+sarvam-1,kannada_en_reviewed,baseline,250,1,B,B,1,50.442051,51.04578,50.548157,51.312962,A,0,,Like filling salt into a burning belly
+sarvam-1,kannada_en_reviewed,baseline,251,0,B,B,1,51.178394,51.411907,50.759304,50.335529,B,1,,What does the day of the week matter for dealing? What does the time matter for trade?
+sarvam-1,kannada_en_reviewed,baseline,252,1,B,B,1,50.056198,50.93317,50.378036,50.321777,B,1,,"Swaying doll, float when you fall into water"
+sarvam-1,kannada_en_reviewed,baseline,253,1,B,B,1,49.756432,51.50214,50.348499,49.516472,B,1,,"A cow that won't, a calf that won't eat"
+sarvam-1,kannada_en_reviewed,baseline,254,1,B,B,1,49.647961,51.960308,50.620739,50.19323,B,1,,"The forest became fruit, the parrot's mouth got ulcers"
+sarvam-1,kannada_en_reviewed,baseline,255,0,A,A,1,50.615021,50.490154,50.828228,51.082455,A,1,,Why do you get ruined listening to whose words? Listen to me and live
+sarvam-1,kannada_en_reviewed,baseline,256,1,A,A,1,50.90892,49.833691,50.350353,51.646919,A,1,,Who knows which snake is in which anthill
+sarvam-1,kannada_en_reviewed,baseline,257,0,B,B,1,50.29673,51.099045,50.136921,49.983219,B,1,,"Whatever season fails, the season of death never fails"
+sarvam-1,kannada_en_reviewed,baseline,258,1,B,B,1,50.787834,51.121735,50.601532,51.235298,A,0,,Like learning sword-play in the time of war
+sarvam-1,kannada_en_reviewed,baseline,259,0,A,A,1,51.099033,49.160721,50.143154,50.987778,A,1,,Learn a wise word even from children
+sarvam-1,kannada_en_reviewed,baseline,260,0,B,B,1,49.636089,50.301826,49.12886,48.430634,B,1,,Enjoyment only as much as destiny allows
+sarvam-1,kannada_en_reviewed,baseline,261,1,A,A,1,50.357246,50.05579,50.486332,50.92416,A,1,,"What the ascetic brought is for the ascetic, what the pleasure-seeker brought is for the pleasure-seeker"
+sarvam-1,kannada_en_reviewed,baseline,262,1,B,B,1,50.254204,51.058033,50.35194,50.532928,B,1,,A ruler who doesn't know worth and a doctor who doesn't know disease are the same
+sarvam-1,kannada_en_reviewed,baseline,263,1,A,A,1,50.737644,50.553894,50.167042,51.816067,A,1,,Like going to a town where nobody is and wanting water and buttermilk
+sarvam-1,kannada_en_reviewed,baseline,264,1,B,B,1,49.869186,50.368427,49.698376,49.946545,B,1,,"To a house where no one is, he said 'I am Jogappa'"
+sarvam-1,kannada_en_reviewed,baseline,265,0,A,A,1,49.558067,49.116497,49.7239,50.155632,A,1,,"As the king, so the subjects"
+sarvam-1,kannada_en_reviewed,baseline,266,1,B,B,1,50.791435,51.06163,50.524101,50.862461,A,0,,"When he told his sorrow to his sister's husband, he said 'leave your children and come'"
+sarvam-1,kannada_en_reviewed,baseline,267,1,A,A,1,50.814159,50.767776,50.751663,51.709751,A,1,,Like raising a pumpkin and giving it to the pot-maker
+sarvam-1,kannada_en_reviewed,baseline,268,1,A,A,1,50.79361,50.048656,50.586487,51.184097,A,1,,"After death, what if he went anywhere?"
+sarvam-1,kannada_en_reviewed,baseline,269,1,A,B,0,50.071941,50.28281,49.986259,50.297356,A,1,,Will a dead hen peck at paddy?
+sarvam-1,kannada_en_reviewed,baseline,270,1,A,A,1,50.352413,50.281712,50.079777,50.514248,A,1,,Like the herdsmen building a monastery
+sarvam-1,kannada_en_reviewed,baseline,271,1,A,A,1,50.172619,49.734444,49.879749,50.467575,A,1,,"The male is a boulder, the female is lame"
+sarvam-1,kannada_en_reviewed,baseline,272,1,B,B,1,50.054867,50.482342,50.01376,49.421467,B,1,,"The man ruined by sitting, the woman ruined by wandering"
+sarvam-1,kannada_en_reviewed,baseline,273,1,A,B,0,50.44384,50.695572,50.602741,51.679955,A,1,,"When the husband was there, no sense; when sense came, no husband"
+sarvam-1,kannada_en_reviewed,baseline,274,1,A,B,0,50.201752,50.324097,50.2015,50.997765,A,1,,"Evening doesn't come without chatter, the road doesn't wear out without company"
+sarvam-1,kannada_en_reviewed,baseline,275,1,A,A,1,50.629707,49.992065,50.267746,51.394478,A,1,,"Play for the cat, mortal agony for the mouse"
+sarvam-1,kannada_en_reviewed,baseline,276,1,A,B,0,50.386089,50.619678,50.113434,51.285809,A,1,,Like the monkey that tasted sweetness climbing the loft
+sarvam-1,kannada_en_reviewed,baseline,277,1,B,B,1,50.533855,51.42709,50.672894,50.608093,B,1,,"Ruined by not asking for the loan given, ruined by not looking at the field sown"
+sarvam-1,kannada_en_reviewed,baseline,278,1,A,B,0,50.728508,51.149551,50.680256,50.941227,B,0,,Like keeping the mirror in the hand and looking for the face in the water
+sarvam-1,kannada_en_reviewed,baseline,279,1,A,B,0,50.385769,50.665489,50.521862,51.267735,A,1,,What came to the hand did not reach the mouth
+sarvam-1,kannada_en_reviewed,baseline,280,1,A,A,1,50.055317,49.995609,50.11055,50.340813,A,1,,"A lame cry for one who cries lame, a standing cry for one who cries standing"
+sarvam-1,kannada_en_reviewed,baseline,281,1,B,B,1,50.491844,51.303066,50.358311,50.24963,B,1,,What is day to a blind man? What is night?
+sarvam-1,kannada_en_reviewed,baseline,282,1,B,B,1,50.171181,50.726498,49.896477,49.585777,B,1,,"Though small, Shiva's wisdom"
+sarvam-1,kannada_en_reviewed,baseline,283,1,A,A,1,51.331367,49.010826,50.263733,51.88765,A,1,,"Though there is stream water, well water is better"
+sarvam-1,kannada_en_reviewed,baseline,284,1,A,B,0,50.479362,50.890579,50.927265,50.982082,B,0,,"Even if you blame your mother, don't blame water"
+sarvam-1,kannada_en_reviewed,baseline,285,1,B,B,1,50.563057,51.935791,51.571484,49.645496,B,1,,"Even if it is trash, make it tasty and eat it"
+sarvam-1,kannada_en_reviewed,baseline,286,1,A,A,1,50.385532,50.209702,50.211559,50.361145,A,1,,"Even if the salary is six kaasu, do palace work"
+sarvam-1,kannada_en_reviewed,baseline,287,1,A,A,1,51.438965,49.353752,50.196873,52.369408,A,1,,"Talk increased and the house was ruined, seed increased and the field was ruined"
+sarvam-1,kannada_en_reviewed,baseline,288,1,B,B,1,50.105083,50.572075,50.030197,49.539398,B,1,,"No chest without a bullock, no home without children"
+sarvam-1,kannada_en_reviewed,baseline,289,1,A,A,1,50.610764,49.755146,50.082569,50.818272,A,1,,Don't scatter ruin saying 'I am ruined'
+sarvam-1,kannada_en_reviewed,baseline,290,0,A,A,1,50.728294,50.626099,50.553692,50.857162,A,1,,Pat your head and walk looking at the ground
+sarvam-1,kannada_en_reviewed,baseline,291,1,B,B,1,50.466293,51.479153,50.838951,50.138958,B,1,,"The head man's word: salt in front, jaggery behind"
+sarvam-1,kannada_en_reviewed,baseline,292,0,A,A,1,51.277519,50.188656,50.531384,52.195,A,1,,"Father's word, an elephant's strength"
+sarvam-1,kannada_en_reviewed,baseline,293,0,B,B,1,50.598862,51.745934,51.242157,49.530029,B,1,,Don't separate elder and younger brother
+sarvam-1,kannada_en_reviewed,baseline,294,0,A,A,1,49.482536,49.122631,50.277958,50.56472,A,1,,Health is wealth
+sarvam-1,kannada_en_reviewed,baseline,295,0,B,B,1,50.28981,50.665581,50.48243,49.763405,B,1,,Slowness is the chief thing
+sarvam-1,kannada_en_reviewed,baseline,296,0,A,A,1,50.334366,49.261543,50.498161,51.442482,A,1,,There is no age for learning
+sarvam-1,kannada_en_reviewed,baseline,297,0,B,B,1,49.937447,51.433098,49.405537,49.039688,B,1,,There is strength in unity
+sarvam-1,kannada_en_reviewed,baseline,298,0,B,B,1,50.051468,51.605587,50.041321,49.142105,B,1,,"Saying is easy, doing is hard"
+sarvam-1,kannada_en_reviewed,baseline,299,0,B,B,1,49.840782,51.222641,50.443485,50.45084,B,1,,Many drops joined make a stream
+sarvam-1,kannada_en_reviewed,baseline,300,0,A,A,1,50.432739,49.156132,49.820877,51.166309,A,1,,The prosperity of a growing plant is seen in the sprout
+sarvam-1,kannada_en_reviewed,baseline,301,0,A,B,0,49.976223,50.295937,49.813881,49.753014,B,0,,There is no taste greater than salt
+sarvam-1,kannada_en_reviewed,baseline,302,0,A,A,1,50.412361,50.077717,49.949574,51.681267,A,1,,The fence is witness for the garden lizard
+sarvam-1,kannada_en_reviewed,baseline,303,1,B,B,1,50.36842,50.881329,50.559319,49.931911,B,1,,Does a sore on the palm need a mirror?
+sarvam-1,kannada_en_reviewed,baseline,304,0,A,A,1,50.113068,50.110352,49.880013,51.167103,A,1,,Sense came after being ruined
+sarvam-1,kannada_en_reviewed,baseline,305,1,B,B,1,49.398445,51.911564,50.152306,48.490612,B,1,,Two hands joined make a clap
+sarvam-1,kannada_en_reviewed,baseline,306,1,B,B,1,50.046108,51.437199,50.321777,50.047939,B,1,,"Counts for the game, not for the reckoning"

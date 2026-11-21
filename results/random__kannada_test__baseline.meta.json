@@ -1,0 +1,17 @@
+{
+ "model": "random",
+ "hf_id": null,
+ "model_type": "random",
+ "dataset": "kannada_test",
+ "condition": "baseline",
+ "n": 305,
+ "accuracy": 0.518,
+ "accuracy_swap": 0.5377,
+ "raw_pred_A": 152,
+ "template_version": "v1",
+ "seed": 0,
+ "date_utc": "2026-11-15T07:53:34+00:00",
+ "python": "3.11.1",
+ "torch": "2.7.1+cu118",
+ "transformers": "5.5.4"
+}
